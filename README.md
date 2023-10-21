@@ -18,3 +18,9 @@ Solved problems from leetcode. Python
 |-----|---------------- |------------------------------------|---------| --------------- | ------------- |-------------|
 0069 | [Sqrt(x)](leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1) | Easy | Math, Binary Search|
 0009 | [Palindrome Number](leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1) | Easy | Math|
+
+
+## String
+|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag          |
+|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |--------------|
+0014 | [Longest Common Prefix](leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie|
