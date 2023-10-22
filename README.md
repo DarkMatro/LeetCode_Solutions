@@ -4,10 +4,10 @@ Solved problems from leetcode. Python
 Total: 5
 ## Algorithms
 
-* [Array 1/1479](./README.md#array)
-* [Hash Table 1/515](./README.md#Hash-Table)
-* [Math 2/458](./README.md#Math)
-* [String 1/643](./README.md#String)
+* [Array (1/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Math (2/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [String (1/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 
 ## Array
 |  #  | Title                                    | Solution                  |  Time        | Memory | Difficulty    | Tag          |
