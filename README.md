@@ -1,6 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
+Total: 6
+## Algorithms
+
+* [Array](readme.md#array)
+
 ## Array
 |  #  | Title                                    | Solution                  |  Time        | Memory | Difficulty    | Tag          |
 |-----|------------------------------------------|---------------------------| ------------ |--------| ------------- |--------------|
