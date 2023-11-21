@@ -29,6 +29,7 @@ Total: 5
 
 
 ## String
-|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |--------------|
-0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie|
+|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag           |
+|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |---------------|
+0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie  |
+0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/valid-parentheses.py) | O(N) | O(N)   | Easy | String, Stack |

@@ -30,6 +30,9 @@ def my_sqrt(x: int) -> int:
     >>> my_sqrt(8)
     2
 
+    >>> my_sqrt(65)
+    8
+
     The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.
     """
     # sqrt(1) = 1, sqrt(0) = 0.
