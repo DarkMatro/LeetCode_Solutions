@@ -1,13 +1,14 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 5
+Total: 7
 ## Algorithms
 
 * [Array (1/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (2/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
-* [String (1/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [Linked List (1/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 
 ## Array
 |  #  | Title                                    | Solution                  |  Time        | Memory | Difficulty    | Tag          |
@@ -33,3 +34,9 @@ Total: 5
 |-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |---------------|
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie  |
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/valid-parentheses.py) | O(N) | O(N)   | Easy | String, Stack |
+
+
+## Linked List
+|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag           |
+|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |---------------|
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [###](./String/Merge-Two-Sorted-Lists.py) | O(N) | O(1)   | Easy | Linked list, Recursion  |
