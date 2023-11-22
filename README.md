@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 7
+Total: 8
 ## Algorithms
 
-* [Array (1/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (2/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (2/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -14,6 +14,7 @@ Total: 7
 |  #  | Title                                    | Solution                  |  Time        | Memory | Difficulty    | Tag          |
 |-----|------------------------------------------|---------------------------| ------------ |--------| ------------- |--------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N) | O(N)   | Easy | Array, Hash Table|
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
 
 
 ## Hash Table
@@ -37,6 +38,6 @@ Total: 7
 
 
 ## Linked List
-|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag           |
-|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |---------------|
-0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [###](./String/Merge-Two-Sorted-Lists.py) | O(N) | O(1)   | Easy | Linked list, Recursion  |
+|  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
+|-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [###](./Linked-List/Merge-Two-Sorted-Lists.py) | O(N) | O(1)   | Easy | Linked list, Recursion  |
