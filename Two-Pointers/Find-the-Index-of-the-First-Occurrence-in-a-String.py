@@ -31,7 +31,6 @@ def str_str(haystack: str, needle: str) -> int:
 
     "leeto" did not occur in "leetcode", so we return -1.
     """
-    res = -1
     len_needle = len(needle)
     len_haystack = len(haystack)
     if len_haystack < len_needle:
@@ -39,4 +38,4 @@ def str_str(haystack: str, needle: str) -> int:
     for i in range(len_haystack - len_needle + 1):
         if haystack[i] == needle[0] and haystack[i:i + len_needle] == needle:
             return i
-    return res
+    return -1

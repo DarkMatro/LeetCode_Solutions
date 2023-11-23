@@ -4,7 +4,7 @@ Solved problems from leetcode. Python
 Total: 9
 ## Algorithms
 
-* [Array (2/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (3/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (2/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -16,6 +16,7 @@ Total: 9
 |-----|------------------------------------------|---------------------------| ------------ |--------| ------------- |--------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N) | O(N)   | Easy | Array, Hash Table|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
+0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N) | O(N)   | Easy | Array, Math|
 
 
 ## Hash Table
