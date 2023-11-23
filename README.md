@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 9
+Total: 11
 ## Algorithms
 
 * [Array (3/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
-* [Math (2/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (3/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (1/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
@@ -30,6 +30,7 @@ Total: 9
 |-----|---------------- |------------------------------------|---------| --------------- | ------------- |-------------|
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1) | Easy | Math, Binary Search|
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1) | Easy | Math|
+0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1) | Easy | Math, Dynamic Programming, Memoization|
 
 
 ## String
