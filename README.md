@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 11
+Total: 12
 ## Algorithms
 
-* [Array (3/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (4/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (3/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -12,11 +12,12 @@ Total: 11
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 
 ## Array
-|  #  | Title                                    | Solution                  |  Time        | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|---------------------------| ------------ |--------| ------------- |--------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N) | O(N)   | Easy | Array, Hash Table|
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
-0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N) | O(N)   | Easy | Array, Math|
+|  #  | Title                                    | Solution                  | Time   | Memory | Difficulty    | Tag          |
+|-----|------------------------------------------|---------------------------|--------|--------| ------------- |--------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N)   | O(N)   | Easy | Array, Hash Table|
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N)   | O(1)   | Easy | Array, Two Pointers|
+0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N)   | O(N)   | Easy | Array, Math|
+0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py) | O(m+n) | O(1)   | Easy | Array, Two Pointers, Sorting|
 
 
 ## Hash Table
