@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 12
+Total: 13
 ## Algorithms
 
 * [Array (4/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -10,6 +10,7 @@ Total: 12
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (1/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
+* [Tree (1/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 
 ## Array
 |  #  | Title                                    | Solution                  | Time   | Memory | Difficulty    | Tag          |
@@ -52,3 +53,10 @@ Total: 12
 |  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [###](./Two-Pointers/Find-the-Index-of-the-First-Occurrence-in-a-String.py) | O(N) | O(1)   | Easy | Two Pointers, String, String Matching  |
+
+
+
+## Tree
+|  #  | Title                                    | Solution                                                            | Time     | Memory | Difficulty    | Tag                                          |
+|-----|------------------------------------------|---------------------------------------------------------------------|----------|--------| ------------- |----------------------------------------------|
+0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [###](./Tree/Binary-Tree-Inorder-Traversal.py) | O(N) | O(N)   | Easy | Stack, Tree, Depth-First Search, Binary Tree |
