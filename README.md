@@ -13,15 +13,15 @@ Total: 20
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 
 ## Array
-|  #  | Title                                    | Solution                  | Time | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|---------------------------|------|--------| ------------- |--------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N) | O(N)   | Easy | Array, Hash Table|
+|  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag          |
+|-----|------------------------------------------|-------------------------------------------------------|------|--------| ------------- |--------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                             | O(N) | O(N)   | Easy | Array, Hash Table|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
-0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N) | O(N)   | Easy | Array, Math|
-0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py) | O(m+n) | O(1)   | Easy | Array, Two Pointers, Sorting|
-0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py) | O(N^2) | O(1)   | Easy | Array, Dynamic Programming|
-0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py) | O(N) | O(1)   | Easy | Array, Dynamic Programming|
-0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/single-number.py) | O(N) | O(1)   | Easy | Array, Bit Manipulation|
+0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py)                            | O(N) | O(N)   | Easy | Array, Math|
+0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py)                  | O(m+n) | O(1)   | Easy | Array, Two Pointers, Sorting|
+0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py)                   | O(N^2) | O(1)   | Easy | Array, Dynamic Programming|
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)     | O(N) | O(1)   | Easy | Array, Dynamic Programming|
+0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/Single-Number.py)                       | O(N) | O(1)   | Easy | Array, Bit Manipulation|
 
 
 ## Hash Table
@@ -39,11 +39,11 @@ Total: 20
 
 
 ## String
-|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag           |
-|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |---------------|
+|  #  | Title                                    | Solution                                 | Time     | Memory | Difficulty    | Tag           |
+|-----|------------------------------------------|------------------------------------------|----------|--------| ------------- |---------------|
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie  |
-0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/valid-parentheses.py) | O(N) | O(N)   | Easy | String, Stack |
-0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py) | O(N) | O(N)   | Easy | Two Pointers, String |
+0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/Valid-Parentheses.py)     | O(N) | O(N)   | Easy | String, Stack |
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N) | O(N)   | Easy | Two Pointers, String |
 
 
 ## Linked List
