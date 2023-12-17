@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 15
+Total: 16
 ## Algorithms
 
 * [Array (4/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -10,7 +10,7 @@ Total: 15
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (1/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
-* [Tree (3/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
+* [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 
 ## Array
 |  #  | Title                                    | Solution                  | Time   | Memory | Difficulty    | Tag          |
@@ -57,8 +57,9 @@ Total: 15
 
 
 ## Tree
-|  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag                                                         |
-|-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |-------------------------------------------------------------|
-0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [###](./Tree/Binary-Tree-Inorder-Traversal.py) | O(N) | O(N)   | Easy | Stack, Tree, Depth-First Search, Binary Tree                |
-0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [###](./Tree/Symmetric-Tree.py)                | O(N) | O(N)   | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [###](./Tree/Maximum-Depth-of-Binary-Tree.py)                | O(N) | O(H)   | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+|  #  | Title                                    | Solution                                       | Time     | Memory  | Difficulty    | Tag                                                              |
+|-----|------------------------------------------|------------------------------------------------|----------|---------| ------------- |------------------------------------------------------------------|
+0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [###](./Tree/Binary-Tree-Inorder-Traversal.py) | O(N) | O(N)    | Easy | Stack, Tree, Depth-First Search, Binary Tree                     |
+0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [###](./Tree/Symmetric-Tree.py)                | O(N) | O(N)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
+0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [###](./Tree/Maximum-Depth-of-Binary-Tree.py)                | O(N) | O(H)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
+0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [###](./Tree/Convert-Sorted-Array-to-Binary-Search-Tree.py)                | O(N) | O(logN) | Easy | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree |
