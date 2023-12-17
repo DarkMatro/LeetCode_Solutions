@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 17
+Total: 18
 ## Algorithms
 
-* [Array (5/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (6/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (3/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (2/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -13,13 +13,14 @@ Total: 17
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 
 ## Array
-|  #  | Title                                    | Solution                  | Time   | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|---------------------------|--------|--------| ------------- |--------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N)   | O(N)   | Easy | Array, Hash Table|
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N)   | O(1)   | Easy | Array, Two Pointers|
-0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N)   | O(N)   | Easy | Array, Math|
+|  #  | Title                                    | Solution                  | Time | Memory | Difficulty    | Tag          |
+|-----|------------------------------------------|---------------------------|------|--------| ------------- |--------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py) | O(N) | O(N)   | Easy | Array, Hash Table|
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
+0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py) | O(N) | O(N)   | Easy | Array, Math|
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py) | O(m+n) | O(1)   | Easy | Array, Two Pointers, Sorting|
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py) | O(N^2) | O(1)   | Easy | Array, Dynamic Programming|
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py) | O(N) | O(1)   | Easy | Array, Dynamic Programming|
 
 
 ## Hash Table
