@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 30
+Total: 31
 ## Algorithms
 
-* [Array (8/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (9/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (5/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -26,6 +26,7 @@ Total: 30
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)     | O(N) | O(1)   | Easy | Array, Dynamic Programming|
 0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/Single-Number.py)                       | O(N) | O(1)   | Easy | Array, Bit Manipulation|
 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | [###](./Array/Majority-Element.py) | O(N) | O(1)   | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting|
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [###](./Array/Contains-Duplicate.py) | O(N) | O(N)   | Easy | Array, Hash Table, Sorting|
 
 
 ## Hash Table
