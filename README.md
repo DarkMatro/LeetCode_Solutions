@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 21
+Total: 22
 ## Algorithms
 
 * [Array (7/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -11,6 +11,7 @@ Total: 21
 * [Linked List (2/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
+* [Database (1/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Array
 |  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag          |
@@ -68,3 +69,10 @@ Total: 21
 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [###](./Tree/Symmetric-Tree.py)                | O(N) | O(N)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [###](./Tree/Maximum-Depth-of-Binary-Tree.py)                | O(N) | O(H)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [###](./Tree/Convert-Sorted-Array-to-Binary-Search-Tree.py)                | O(N) | O(logN) | Easy | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree |
+
+
+
+## Database
+|  #  | Title                                    | Solution                                           | Time     | Memory  | Difficulty    | Tag       |
+|-----|------------------------------------------|----------------------------------------------------|----------|---------| ------------- |-----------|
+0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | O(N) | O(N)    | Easy | Database  |
