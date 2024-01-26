@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 24
+Total: 25
 ## Algorithms
 
-* [Array (7/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (8/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (3/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -23,6 +23,7 @@ Total: 24
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py)                   | O(N^2) | O(1)   | Easy | Array, Dynamic Programming|
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)     | O(N) | O(1)   | Easy | Array, Dynamic Programming|
 0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/Single-Number.py)                       | O(N) | O(1)   | Easy | Array, Bit Manipulation|
+0169 | [Majority Element](https://leetcode.com/problems/majority-element) | [###](./Array/Majority-Element.py) | O(N) | O(1)   | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting|
 
 
 ## Hash Table
