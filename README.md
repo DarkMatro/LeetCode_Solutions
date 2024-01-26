@@ -1,17 +1,19 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 26
+Total: 27
 ## Algorithms
 
 * [Array (8/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (4/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Bit Manipulation (1/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (3/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (2/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+
 
 ## Array
 |  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag          |
@@ -39,6 +41,12 @@ Total: 26
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1) | Easy | Math                                   |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1) | Easy | Math, Dynamic Programming, Memoization |
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1) | Easy | Math, String                           |
+
+
+## Bit Manipulation
+|  #  | Title           | Solution                           | Time | Memory          | Difficulty    | Tag                                    |
+|-----|---------------- |------------------------------------|------| --------------- | ------------- |----------------------------------------|
+0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [###](./Bit-Manipulation/Reverse-Bits.py)           | O(1) | O(1) | Easy | Divide and Conquer, Bit Manipulation                  |
 
 
 ## String
