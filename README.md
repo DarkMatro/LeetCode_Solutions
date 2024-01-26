@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 28
+Total: 29
 ## Algorithms
 
 * [Array (8/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
-* [Math (4/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (5/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (3/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -35,12 +35,13 @@ Total: 28
 
 
 ## Math
-|  #  | Title           | Solution                           | Time    | Memory          | Difficulty    | Tag                                    |
-|-----|---------------- |------------------------------------|---------| --------------- | ------------- |----------------------------------------|
-0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1) | Easy | Math, Binary Search                    |
-0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1) | Easy | Math                                   |
-0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1) | Easy | Math, Dynamic Programming, Memoization |
-0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1) | Easy | Math, String                           |
+|  #  | Title           | Solution                           | Time    | Memory | Difficulty    | Tag                                    |
+|-----|---------------- |------------------------------------|---------|--------| ------------- |----------------------------------------|
+0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1)   | Easy | Math, Binary Search                    |
+0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1)   | Easy | Math                                   |
+0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1)   | Easy | Math, Dynamic Programming, Memoization |
+0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1)   | Easy | Math, String                           |
+0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
 
 
 ## Bit Manipulation
