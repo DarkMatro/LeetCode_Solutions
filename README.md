@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 23
+Total: 24
 ## Algorithms
 
 * [Array (7/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -11,7 +11,7 @@ Total: 23
 * [Linked List (3/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (1/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (2/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Array
 |  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag          |
@@ -74,6 +74,7 @@ Total: 23
 
 
 ## Database
-|  #  | Title                                    | Solution                                           | Time     | Memory  | Difficulty    | Tag       |
-|-----|------------------------------------------|----------------------------------------------------|----------|---------| ------------- |-----------|
-0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | O(N) | O(N)    | Easy | Database  |
+|  #  | Title                                    | Solution                                           | Difficulty  | Tag       |
+|-----|------------------------------------------|----------------------------------------------------|------------ |-----------|
+0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | Easy | Database  |
+0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy | Database  |
