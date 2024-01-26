@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 20
+Total: 21
 ## Algorithms
 
 * [Array (7/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (3/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
-* [Linked List (1/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
+* [Linked List (2/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 
@@ -50,6 +50,7 @@ Total: 20
 |  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [###](./Linked-List/Merge-Two-Sorted-Lists.py) | O(N) | O(1)   | Easy | Linked list, Recursion  |
+0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [###](./Linked-List/Linked-List-Cycle.py) | O(N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers  |
 
 
 
