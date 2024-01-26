@@ -1,13 +1,13 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 27
+Total: 28
 ## Algorithms
 
 * [Array (8/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (4/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
-* [Bit Manipulation (1/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
+* [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (3/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
@@ -47,6 +47,7 @@ Total: 27
 |  #  | Title           | Solution                           | Time | Memory          | Difficulty    | Tag                                    |
 |-----|---------------- |------------------------------------|------| --------------- | ------------- |----------------------------------------|
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [###](./Bit-Manipulation/Reverse-Bits.py)           | O(1) | O(1) | Easy | Divide and Conquer, Bit Manipulation                  |
+0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [###](./Bit-Manipulation/Number-of-1-Bits.py)           | O(1) | O(1) | Easy | Divide and Conquer, Bit Manipulation                  |
 
 
 ## String
