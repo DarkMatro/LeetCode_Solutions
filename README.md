@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 31
+Total: 32
 ## Algorithms
 
 * [Array (9/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -9,7 +9,7 @@ Total: 31
 * [Math (5/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
-* [Linked List (4/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
+* [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (2/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
@@ -67,6 +67,7 @@ Total: 31
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [###](./Linked-List/Linked-List-Cycle.py) | O(N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers |
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [###](./Linked-List/Intersection-of-Two-Linked-Lists.py) | O(M+N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers|
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [###](./Linked-List/Reverse-Linked-List.py) | O(N) | O(1)   | Easy | Linked List, Recursion|
+0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [###](./Linked-List/Palindrome-Linked-List.py) | O(N) | O(N)   | Easy | Linked List, Two Pointers, Stack, Recursion|
 
 
 
