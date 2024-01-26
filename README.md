@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 32
+Total: 33
 ## Algorithms
 
 * [Array (9/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (5/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
-* [String (3/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
@@ -58,6 +58,7 @@ Total: 32
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy | String, Trie  |
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/Valid-Parentheses.py)     | O(N) | O(N)   | Easy | String, Stack |
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N) | O(N)   | Easy | Two Pointers, String |
+0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N) | O(N)   | Easy | Hash Table, String, Sorting |
 
 
 ## Linked List
