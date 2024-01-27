@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 49
+Total: 50
 ## Algorithms
 
-* [Array (12/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (13/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (2/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (6/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -20,6 +20,7 @@ Total: 49
 |-----|------------------------------------------|-------------------------------------------------------|------|--------| ------------- |--------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                             | O(N) | O(N)   | Easy | Array, Hash Table|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
+0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [###](./Array/Remove-Element.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
 0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py)                            | O(N) | O(N)   | Easy | Array, Math|
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py)                  | O(m+n) | O(1)   | Easy | Array, Two Pointers, Sorting|
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py)                   | O(N^2) | O(1)   | Easy | Array, Dynamic Programming|
