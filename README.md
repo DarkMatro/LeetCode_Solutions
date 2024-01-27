@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 39
+Total: 49
 ## Algorithms
 
 * [Array (12/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -12,7 +12,7 @@ Total: 39
 * [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (2/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (12/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Array
@@ -100,3 +100,13 @@ Total: 39
 |-----|------------------------------------------|----------------------------------------------------|------------ |-----------|
 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | Easy | Database  |
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy | Database  |
+0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy | Database  |
+0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [###](./Database/Employee-Bonus.sql) | Easy | Database  |
+0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [###](./Database/Find-Customer-Referee.sql) | Easy | Database  |
+0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [###](./Database/Customer-Placing-the-Largest-Number-of-Orders.sql) | Easy | Database  |
+0595 | [Big Countries](https://leetcode.com/problems/big-countries) | [###](./Database/Big-Countries.sql) | Easy | Database  |
+0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [###](./Database/Classes-More-Than-5-Students.sql) | Easy | Database  |
+0607 | [Sales Person](https://leetcode.com/problems/sales-person) | [###](./Database/Sales-Person.sql) | Easy | Database  |
+0607 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy | Database  |
+0607 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy | Database  |
+0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy | Database  |
