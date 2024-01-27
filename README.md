@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 50
+Total: 51
 ## Algorithms
 
 * [Array (13/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [Hash Table (2/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (6/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -38,6 +38,7 @@ Total: 50
 |-----|------------------------------------------|--------------------------------| ------------ |--------| ------------- |--------------|
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N) | O(1)   | Easy | Hash Table, Math, String|
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](./Hash-Table/First-Unique-Character-in-a-String.py) | O(N) | O(N)   | Easy | Hash Table, String, Queue, Counting|
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](./Hash-Table/Find-the-Difference.py) | O(N) | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting|
 
 
 ## Math
