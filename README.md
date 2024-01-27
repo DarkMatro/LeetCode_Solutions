@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 36
+Total: 37
 ## Algorithms
 
 * [Array (11/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -10,7 +10,7 @@ Total: 36
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
-* [Two Pointers (1/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
+* [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (2/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
@@ -79,6 +79,7 @@ Total: 36
 |  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [###](./Two-Pointers/Find-the-Index-of-the-First-Occurrence-in-a-String.py) | O(N) | O(1)   | Easy | Two Pointers, String, String Matching  |
+0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [###](./Two-Pointers/Reverse-String.py) | O(N) | O(1)   | Easy | Two Pointers, String  |
 
 
 
