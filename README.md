@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 37
+Total: 38
 ## Algorithms
 
-* [Array (11/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (12/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (1/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (6/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -29,6 +29,7 @@ Total: 37
 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [###](./Array/Contains-Duplicate.py) | O(N) | O(N)   | Easy | Array, Hash Table, Sorting|
 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py) | O(N) | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting|
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting|
 
 
 ## Hash Table
