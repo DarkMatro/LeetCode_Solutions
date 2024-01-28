@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 56
+Total: 57
 ## Algorithms
 
-* [Array (14/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (15/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -32,6 +32,7 @@ Total: 56
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting|
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py) | O(N) | O(1)   | Easy | Array, Simulation|
+1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py) | O(N) | O(N)   | Easy | Array, Simulation|
 
 
 ## Hash Table
