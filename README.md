@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 52
+Total: 53
 ## Algorithms
 
 * [Array (13/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -9,7 +9,7 @@ Total: 52
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
-* [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
+* [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (12/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
@@ -44,9 +44,9 @@ Total: 52
 ## Math
 |  #  | Title           | Solution                           | Time    | Memory | Difficulty    | Tag                                    |
 |-----|---------------- |------------------------------------|---------|--------| ------------- |----------------------------------------|
-0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1)   | Easy | Math, Binary Search                    |
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1)   | Easy | Math                                   |
 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [###](./Math/Add-Binary.py) | O(1)    | O(1)   | Easy | Math, String, Bit Manipulation, Simulation                                  |
+0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1)   | Easy | Math, Binary Search                    |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1)   | Easy | Math, Dynamic Programming, Memoization |
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1)   | Easy | Math, String                           |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
@@ -73,6 +73,7 @@ Total: 52
 |  #  | Title                                    | Solution                                       | Time | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|------|--------| ------------- |---------------|
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [###](./Linked-List/Merge-Two-Sorted-Lists.py) | O(N) | O(1)   | Easy | Linked list, Recursion  |
+0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [###](./Linked-List/Remove-Duplicates-from-Sorted-List.py) | O(N) | O(1)   | Easy | Linked list|
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [###](./Linked-List/Linked-List-Cycle.py) | O(N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers |
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [###](./Linked-List/Intersection-of-Two-Linked-Lists.py) | O(M+N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers|
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [###](./Linked-List/Reverse-Linked-List.py) | O(N) | O(1)   | Easy | Linked List, Recursion|
