@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 51
+Total: 52
 ## Algorithms
 
 * [Array (13/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
-* [Math (6/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (5/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -46,6 +46,7 @@ Total: 51
 |-----|---------------- |------------------------------------|---------|--------| ------------- |----------------------------------------|
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1)   | Easy | Math, Binary Search                    |
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1)   | Easy | Math                                   |
+0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [###](./Math/Add-Binary.py) | O(1)    | O(1)   | Easy | Math, String, Bit Manipulation, Simulation                                  |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1)   | Easy | Math, Dynamic Programming, Memoization |
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1)   | Easy | Math, String                           |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
