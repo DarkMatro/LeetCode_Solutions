@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 62
+Total: 63
 ## Algorithms
 
-* [Array (20/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (21/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -31,6 +31,7 @@ Total: 62
 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py) | O(N)     | O(1)   | Easy | Array, Two Pointers                                               |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
+1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [###](./Array/Kids-With-the-Greatest-Number-of-Candies.py) | O(N)     | O(1)   | Easy | Array          |
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [###](./Array/Shuffle-the-Array.py) | O(N)     | O(1)   | Easy | Array                                                             |
 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [###](./Array/Number-of-Good-Pairs.py) | O(N^2)   | O(1)   | Easy | Array, Hash Table, Math, Counting                                 |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [###](./Array/Richest-Customer-Wealth.py) | O(M * N) | O(1)   | Easy | Array, Matrix                                                     |
