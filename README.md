@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 53
+Total: 54
 ## Algorithms
 
 * [Array (13/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -11,7 +11,7 @@ Total: 53
 * [String (4/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
-* [Tree (4/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
+* [Tree (5/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (12/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
@@ -93,6 +93,7 @@ Total: 53
 |  #  | Title                                    | Solution                                       | Time     | Memory  | Difficulty    | Tag                                                              |
 |-----|------------------------------------------|------------------------------------------------|----------|---------| ------------- |------------------------------------------------------------------|
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [###](./Tree/Binary-Tree-Inorder-Traversal.py) | O(N) | O(N)    | Easy | Stack, Tree, Depth-First Search, Binary Tree                     |
+0100 | [Same Tree](https://leetcode.com/problems/same-tree) | [###](./Tree/Same-Tree.py) | O(N) | O(N)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [###](./Tree/Symmetric-Tree.py)                | O(N) | O(N)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [###](./Tree/Maximum-Depth-of-Binary-Tree.py)                | O(N) | O(H)    | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree      |
 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [###](./Tree/Convert-Sorted-Array-to-Binary-Search-Tree.py)                | O(N) | O(logN) | Easy | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree |
