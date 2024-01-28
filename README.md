@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 60
+Total: 61
 ## Algorithms
 
-* [Array (18/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (19/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -16,8 +16,8 @@ Total: 60
 
 
 ## Array
-|  #  | Title                                    | Solution                                              | Time   | Memory | Difficulty    | Tag         |
-|-----|------------------------------------------|-------------------------------------------------------|--------|--------| ------------- |-------------|
+|  #  | Title                                    | Solution                                              | Time   | Memory | Difficulty    | Tag        |
+|-----|------------------------------------------|-------------------------------------------------------|--------|--------| ------------- |------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                             | O(N)   | O(N)   | Easy | Array, Hash Table|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N)   | O(1)   | Easy | Array, Two Pointers|
 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [###](./Array/Remove-Element.py) | O(N)   | O(1)   | Easy | Array, Two Pointers|
@@ -36,6 +36,7 @@ Total: 60
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py) | O(N)   | O(1)   | Easy | Array, Simulation|
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py) | O(N)   | O(N)   | Easy | Array, Simulation|
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [###](./Array/Fina-Value-of-Variable-After-Performing-Operations.py) | O(N)   | O(1)   | Easy | Array, String, Simulation|
+2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | [###](./Array/Number-of-Employees-Who-Met-the-Target.py) | O(N)   | O(1)   | Easy | Array|
 
 
 ## Hash Table
