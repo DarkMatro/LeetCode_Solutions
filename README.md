@@ -16,8 +16,8 @@ Total: 57
 
 
 ## Array
-|  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|-------------------------------------------------------|------|--------| ------------- |--------------|
+|  #  | Title                                    | Solution                                              | Time | Memory | Difficulty    | Tag         |
+|-----|------------------------------------------|-------------------------------------------------------|------|--------| ------------- |-------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                             | O(N) | O(N)   | Easy | Array, Hash Table|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [###](./Array/Remove-Element.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
@@ -31,6 +31,7 @@ Total: 57
 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py) | O(N) | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting|
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py) | O(N) | O(1)   | Easy | Array, Two Pointers|
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting|
+1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [###](./Array/Shuffle-the-Array.py) | O(N) | O(1)   | Easy | Array|
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py) | O(N) | O(1)   | Easy | Array, Simulation|
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py) | O(N) | O(N)   | Easy | Array, Simulation|
 
