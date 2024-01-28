@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 57
+Total: 59
 ## Algorithms
 
-* [Array (15/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (17/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -34,6 +34,7 @@ Total: 57
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [###](./Array/Shuffle-the-Array.py) | O(N) | O(1)   | Easy | Array|
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py) | O(N) | O(1)   | Easy | Array, Simulation|
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py) | O(N) | O(N)   | Easy | Array, Simulation|
+2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [###](./Array/Fina-Value-of-Variable-After-Performing-Operations.py) | O(N) | O(1)   | Easy | Array, String, Simulation|
 
 
 ## Hash Table
