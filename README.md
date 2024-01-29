@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 68
+Total: 69
 ## Algorithms
 
-* [Array (25/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (26/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (3/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -41,6 +41,7 @@ Total: 68
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py)                               | O(N)     | O(N)   | Easy | Array, Simulation                                                |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [###](./Array/Final-Value-of-Variable-After-Performing-Operations.py)  | O(N)     | O(1)   | Easy | Array, String, Simulation                                        |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [###](./Array/Maximum-Number-of-Words-Found-in-Sentences.py)           | O(N)     | O(1)   | Easy | Array, String, Simulation                                        |
+2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [###](./Array/Left-and-Right-Sum-Differences.py)           | O(N)     | O(N)   | Easy | Array, Prefix Sum                                        |
 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | [###](./Array/Number-of-Employees-Who-Met-the-Target.py)               | O(N)     | O(1)   | Easy | Array                                                            |
 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [###](./Array/Count-Pairs-Whose-Sum-is-Less-than-Target.py)            | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Binary Search, Sorting                      |
 
