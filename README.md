@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 85
+Total: 78
 ## Algorithms
 
 * [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -55,6 +55,7 @@ Total: 85
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N) | O(1)   | Easy | Hash Table, Math, String|
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](./Hash-Table/First-Unique-Character-in-a-String.py) | O(N) | O(N)   | Easy | Hash Table, String, Queue, Counting|
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](./Hash-Table/Find-the-Difference.py) | O(N) | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting|
+2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [###](./Hash-Table/Number-of-Arithmetic-Triplets.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Enumeration|
 
 
 ## Math
