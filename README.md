@@ -1,19 +1,19 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 83
+Total: 85
 ## Algorithms
 
 * [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (15/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
-* [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
-* [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
-* [String (8/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
-* [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
-* [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
-* [Tree (5/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (13/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Math (13/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
+* [String (20/667)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [Linked List (6/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
+* [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
+* [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
+* [Database (16/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Array
@@ -75,6 +75,7 @@ Total: 83
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1)   | Easy | Math, String                           |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)    | O(1)   | Easy | Math, Recursion                          |
+0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [###](./Math/Fizz-Buzz.py) | O(N)    | O(1)   | Easy | Math, String, Simulation                         |
 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)    | O(1)   | Easy | Array, Math                         |
 
 
@@ -140,6 +141,7 @@ Total: 83
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy | Database  |
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [###](./Database/Customers-Who-Never-Order.sql) | Easy | Database  |
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [###](./Database/Delete-Duplicate-Emails.sql) | Easy | Database  |
+0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [###](./Database/Rising-Temperature.sql) | Easy | Database  |
 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy | Database  |
 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [###](./Database/Employee-Bonus.sql) | Easy | Database  |
 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [###](./Database/Find-Customer-Referee.sql) | Easy | Database  |
