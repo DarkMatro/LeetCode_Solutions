@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 82
+Total: 83
 ## Algorithms
 
 * [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -139,6 +139,7 @@ Total: 82
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy | Database  |
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy | Database  |
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [###](./Database/Customers-Who-Never-Order.sql) | Easy | Database  |
+0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [###](./Database/Delete-Duplicate-Emails.sql) | Easy | Database  |
 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy | Database  |
 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [###](./Database/Employee-Bonus.sql) | Easy | Database  |
 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [###](./Database/Find-Customer-Referee.sql) | Easy | Database  |
