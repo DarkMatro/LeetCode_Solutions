@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 66
+Total: 67
 ## Algorithms
 
-* [Array (24/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (25/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (2/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -16,32 +16,33 @@ Total: 66
 
 
 ## Array
-|  #  | Title                                    | Solution                                              | Time     | Memory | Difficulty    | Tag                                                              |
-|-----|------------------------------------------|-------------------------------------------------------|----------|--------| ------------- |------------------------------------------------------------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                             | O(N)     | O(N)   | Easy | Array, Hash Table                                                |
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py) | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
-0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [###](./Array/Remove-Element.py) | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
-0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py)                            | O(N)     | O(N)   | Easy | Array, Math                                                      |
-0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py)                  | O(m+n)   | O(1)   | Easy | Array, Two Pointers, Sorting                                     |
-0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py)                   | O(N^2)   | O(1)   | Easy | Array, Dynamic Programming                                       |
-0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)     | O(N)     | O(1)   | Easy | Array, Dynamic Programming                                       |
-0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/Single-Number.py)                       | O(N)     | O(1)   | Easy | Array, Bit Manipulation                                          |
-0169 | [Majority Element](https://leetcode.com/problems/majority-element) | [###](./Array/Majority-Element.py) | O(N)     | O(1)   | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting         |
-0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [###](./Array/Contains-Duplicate.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Sorting                                       |
-0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
-0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py) | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
-0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting          |
+|  #  | Title                                    | Solution                                                               | Time     | Memory | Difficulty    | Tag                                                              |
+|-----|------------------------------------------|------------------------------------------------------------------------|----------|--------| ------------- |------------------------------------------------------------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [###](./Array/Two-Sum.py)                                              | O(N)     | O(N)   | Easy | Array, Hash Table                                                |
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [###](./Array/Remove-Duplicates-from-Sorted-Array.py)                  | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
+0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [###](./Array/Remove-Element.py)                                       | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
+0066 | [Plus One](https://leetcode.com/problems/plus-one) | [###](./Array/Plus-One.py)                                             | O(N)     | O(N)   | Easy | Array, Math                                                      |
+0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [###](./Array/Merge-Sorted-Array.py)                                   | O(m+n)   | O(1)   | Easy | Array, Two Pointers, Sorting                                     |
+0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [###](./Array/Pascal's-Triangle.py)                                    | O(N^2)   | O(1)   | Easy | Array, Dynamic Programming                                       |
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)                      | O(N)     | O(1)   | Easy | Array, Dynamic Programming                                       |
+0136 | [Single Number](https://leetcode.com/problems/single-number) | [###](./Array/Single-Number.py)                                        | O(N)     | O(1)   | Easy | Array, Bit Manipulation                                          |
+0169 | [Majority Element](https://leetcode.com/problems/majority-element) | [###](./Array/Majority-Element.py)                                     | O(N)     | O(1)   | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting         |
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [###](./Array/Contains-Duplicate.py)                                   | O(N)     | O(N)   | Easy | Array, Hash Table, Sorting                                       |
+0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py)                                       | O(N)     | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py)                                          | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py)                        | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting          |
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [###](./Array/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, Sorting, Counting        |
-1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [###](./Array/Kids-With-the-Greatest-Number-of-Candies.py) | O(N)     | O(1)   | Easy | Array                                                            |
-1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [###](./Array/Shuffle-the-Array.py) | O(N)     | O(1)   | Easy | Array                                                            |
-1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [###](./Array/Running-Sum-of-1d-Array.py) | O(N)     | O(1)   | Easy | Array, Prefix Sum                                                          |
-1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [###](./Array/Number-of-Good-Pairs.py) | O(N^2)   | O(1)   | Easy | Array, Hash Table, Math, Counting                                |
-1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [###](./Array/Richest-Customer-Wealth.py) | O(M * N) | O(1)   | Easy | Array, Matrix                                                    |
-1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py) | O(N)     | O(1)   | Easy | Array, Simulation                                                |
-1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py) | O(N)     | O(N)   | Easy | Array, Simulation                                                |
-2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [###](./Array/Fina-Value-of-Variable-After-Performing-Operations.py) | O(N)     | O(1)   | Easy | Array, String, Simulation                                        |
-2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | [###](./Array/Number-of-Employees-Who-Met-the-Target.py) | O(N)     | O(1)   | Easy | Array                                                            |
-2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [###](./Array/Count-Pairs-Whose-Sum-is-Less-than-Target.py) | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Binary Search, Sorting                      |
+1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [###](./Array/Kids-With-the-Greatest-Number-of-Candies.py)             | O(N)     | O(1)   | Easy | Array                                                            |
+1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [###](./Array/Shuffle-the-Array.py)                                    | O(N)     | O(1)   | Easy | Array                                                            |
+1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [###](./Array/Running-Sum-of-1d-Array.py)                              | O(N)     | O(1)   | Easy | Array, Prefix Sum                                                          |
+1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [###](./Array/Number-of-Good-Pairs.py)                                 | O(N^2)   | O(1)   | Easy | Array, Hash Table, Math, Counting                                |
+1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [###](./Array/Richest-Customer-Wealth.py)                              | O(M * N) | O(1)   | Easy | Array, Matrix                                                    |
+1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [###](./Array/Build-Array-from-Permutation.py)                         | O(N)     | O(1)   | Easy | Array, Simulation                                                |
+1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [###](./Array/Concatenation-of-Array.py)                               | O(N)     | O(N)   | Easy | Array, Simulation                                                |
+2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [###](./Array/Final-Value-of-Variable-After-Performing-Operations.py)  | O(N)     | O(1)   | Easy | Array, String, Simulation                                        |
+2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [###](./Array/Maximum-Number-of-Words-Found-in-Sentences.py)           | O(N)     | O(1)   | Easy | Array, String, Simulation                                        |
+2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | [###](./Array/Number-of-Employees-Who-Met-the-Target.py)               | O(N)     | O(1)   | Easy | Array                                                            |
+2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [###](./Array/Count-Pairs-Whose-Sum-is-Less-than-Target.py)            | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Binary Search, Sorting                      |
 
 
 ## Hash Table
