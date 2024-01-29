@@ -1,13 +1,13 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 69
+Total: 70
 ## Algorithms
 
 * [Array (26/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
-* [Bit Manipulation (3/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
+* [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (5/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
@@ -71,6 +71,7 @@ Total: 69
 |-----|---------------- |------------------------------------|------| --------------- | ------------- |----------------------------------------|
 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [###](./Bit-Manipulation/Reverse-Bits.py)           | O(1) | O(1) | Easy | Divide and Conquer, Bit Manipulation                  |
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [###](./Bit-Manipulation/Number-of-1-Bits.py)           | O(1) | O(1) | Easy | Divide and Conquer, Bit Manipulation                  |
+1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | [###](./Bit-Manipulation/Decode-XORed-Array.py)           | O(N) | O(1) | Easy | Array, Bit Manipulation                 |
 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | [###](./Bit-Manipulation/Sum-of-Values-at-Indices-With-K-Set-Bits.py)           | O(N) | O(1) | Easy | Array, Bit Manipulation                  |
 
 
