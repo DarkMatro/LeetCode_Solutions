@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 71
+Total: 72
 ## Algorithms
 
-* [Array (27/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (28/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -31,6 +31,7 @@ Total: 71
 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [###](./Array/Missing-Number.py)                                       | O(N)     | O(N)   | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [###](./Array/Move-Zeroes.py)                                          | O(N)     | O(1)   | Easy | Array, Two Pointers                                              |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [###](./Array/Intersection-of-Two-Arrays-II.py)                        | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting          |
+1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [###](./Array/Decompress-Run-Length-Encoded-List.py)                        | O(N)     | O(1)   | Easy | Array          |
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [###](./Array/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, Sorting, Counting        |
 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [###](./Array/Create-Target-Array-in-the-Given-Order.py) | O(N^2)   | O(1)   | Easy | Array, Simulation       |
 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [###](./Array/Kids-With-the-Greatest-Number-of-Candies.py)             | O(N)     | O(1)   | Easy | Array                                                            |
