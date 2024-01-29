@@ -92,6 +92,7 @@ Total: 79
 |-----|------------------------------------------|------------------------------------------|----------|--------|------------|---------------|
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [###](./String/Longest-Common-Prefix.py) | O(NlogN) | O(1)   | Easy       | String, Trie  |
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [###](./String/Valid-Parentheses.py)     | O(N) | O(N)   | Easy       | String, Stack |
+0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [###](./String/Length-of-Last-Word.py)     | O(N) | O(1)   | Easy       | String|
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N) | O(N)   | Easy       | Two Pointers, String |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N) | O(N)   | Easy       | Hash Table, String, Sorting |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)      | O(N) | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
