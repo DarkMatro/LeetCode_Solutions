@@ -1,11 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 78
+Total: 79
 ## Algorithms
 
 * [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (8/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -56,6 +57,12 @@ Total: 78
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](./Hash-Table/First-Unique-Character-in-a-String.py) | O(N) | O(N)   | Easy | Hash Table, String, Queue, Counting|
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](./Hash-Table/Find-the-Difference.py) | O(N) | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting|
 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [###](./Hash-Table/Number-of-Arithmetic-Triplets.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Enumeration|
+
+
+## Binary Search
+|  #  | Title                                    | Solution                       | Time    | Memory | Difficulty    | Tag                  |
+|-----|------------------------------------------|--------------------------------|---------|--------| ------------- |----------------------|
+0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [###](./Hash-Table/Search-Insert-Position.py) | O(logN) | O(1)   | Easy | Array, Binary Search |
 
 
 ## Math
@@ -136,6 +143,6 @@ Total: 78
 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | [###](./Database/Big-Countries.sql) | Easy | Database  |
 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [###](./Database/Classes-More-Than-5-Students.sql) | Easy | Database  |
 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | [###](./Database/Sales-Person.sql) | Easy | Database  |
-0607 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy | Database  |
-0607 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy | Database  |
+0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy | Database  |
+0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy | Database  |
