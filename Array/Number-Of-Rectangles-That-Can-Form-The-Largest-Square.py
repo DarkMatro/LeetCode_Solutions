@@ -40,5 +40,4 @@ def countGoodRectangles(rectangles: list[list[int]]) -> int:
     3
     """
     max_lens = [min(i) for i in rectangles]
-    d = Counter(max_lens)
-    return d[max(max_lens)]
+    return max_lens.count(max(max_lens))
