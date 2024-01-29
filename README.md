@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 79
+Total: 81
 ## Algorithms
 
 * [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
@@ -13,7 +13,7 @@ Total: 79
 * [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (12/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (13/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Array
@@ -137,6 +137,7 @@ Total: 79
 |-----|------------------------------------------|----------------------------------------------------|------------ |-----------|
 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | Easy | Database  |
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy | Database  |
+0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy | Database  |
 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy | Database  |
 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [###](./Database/Employee-Bonus.sql) | Easy | Database  |
 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [###](./Database/Find-Customer-Referee.sql) | Easy | Database  |
