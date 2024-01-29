@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 76
+Total: 85
 ## Algorithms
 
-* [Array (29/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (38/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -67,6 +67,7 @@ Total: 76
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)    | O(1)   | Easy | Math, String                           |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)    | O(1)   | Easy | Math, Recursion                          |
+2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)    | O(1)   | Easy | Array, Math                         |
 
 
 ## Bit Manipulation
