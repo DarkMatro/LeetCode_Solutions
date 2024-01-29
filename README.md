@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 74
+Total: 75
 ## Algorithms
 
 * [Array (29/1479)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (3/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Math (7/458)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (4/187)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
-* [String (6/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (7/643)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (6/72)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (2/179)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/221)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
@@ -87,6 +87,7 @@ Total: 74
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N) | O(N)   | Easy       | Hash Table, String, Sorting |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)      | O(N) | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)      | O(N) | O(1)   | Easy     | Array, String |
+1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N) | O(1)   | Easy     | Array, String |
 
 
 ## Linked List
