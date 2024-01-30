@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 87
+Total: 89
 ## Algorithms
 
 * [Array (40/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (15/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
-* [Math (13/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [String (20/667)](https://github.com/DarkMatro/LeetCode_Solutions#string)
-* [Linked List (6/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
+* [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
 * [Database (16/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
@@ -78,6 +78,7 @@ Total: 87
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)    | O(k)   | Easy | Hash Table, Math, Two Pointers                           |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)    | O(1)   | Easy | Math, Recursion                          |
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [###](./Math/Fizz-Buzz.py) | O(N)    | O(1)   | Easy | Math, String, Simulation                         |
+1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [###](./Math/Number-of-Steps-to-Reduce-a-Number-to-Zero.py) | O(logN) | O(1)   | Easy | Math, Bit Manipulation                        |
 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)    | O(1)   | Easy | Array, Math                         |
 
 
@@ -113,6 +114,7 @@ Total: 87
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [###](./Linked-List/Intersection-of-Two-Linked-Lists.py) | O(M+N) | O(1)   | Easy | Hash Table, Linked List, Two Pointers|
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [###](./Linked-List/Reverse-Linked-List.py) | O(N) | O(1)   | Easy | Linked List, Recursion|
 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [###](./Linked-List/Palindrome-Linked-List.py) | O(N) | O(N)   | Easy | Linked List, Two Pointers, Stack, Recursion|
+0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [###](./Linked-List/Middle-of-the-Linked-List.py) | O(N) | O(1)   | Easy | Linked list, Two Pointers|
 
 
 
