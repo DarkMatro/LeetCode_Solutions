@@ -1,10 +1,10 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-Total: 93
+Total: 95
 ## Algorithms
 
-* [Array (43/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (45/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -33,6 +33,7 @@ Total: 93
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                     | [###](./Array/Move-Zeroes.py)                                          | O(N)     | O(1)   | Easy | Array, Two Pointers                                           |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                 | [###](./Array/Intersection-of-Two-Arrays-II.py)                        | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting       |
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)                             | [###](./Array/Find-Numbers-with-Even-Number-of-Digits.py)                        | O(N)     | O(1)   | Easy | Array       |
+1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)                             | [###](./Array/Replace-Elements-with-Greatest-Element-on-Right-Side.py)                        | O(N)     | O(1)   | Easy | Array       |
 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)                                       | [###](./Array/Decompress-Run-Length-Encoded-List.py)                        | O(N)     | O(1)   | Easy | Array         |
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)   | [###](./Array/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, Sorting, Counting      |
 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)                               | [###](./Array/Create-Target-Array-in-the-Given-Order.py) | O(N^2)   | O(1)   | Easy | Array, Simulation      |
@@ -44,6 +45,7 @@ Total: 93
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                               | [###](./Array/Shuffle-String.py)                                 | O(N)     | O(1)   | Easy | Array, String                             |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)                                                             | [###](./Array/Richest-Customer-Wealth.py)                              | O(M * N) | O(1)   | Easy | Array, Matrix                                                 |
 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [###](./Array/Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)                              | O(N)     | O(N)   | Easy | Array                                                |
+1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | [###](./Array/Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)                              | O(N)     | O(1)   | Easy | Array                                                |
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)                                                   | [###](./Array/Build-Array-from-Permutation.py)                         | O(N)     | O(1)   | Easy | Array, Simulation                                             |
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                               | [###](./Array/Concatenation-of-Array.py)                               | O(N)     | O(N)   | Easy | Array, Simulation                                             |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)     | [###](./Array/Final-Value-of-Variable-After-Performing-Operations.py)  | O(N)     | O(1)   | Easy | Array, String, Simulation                                     |
