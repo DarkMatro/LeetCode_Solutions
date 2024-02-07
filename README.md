@@ -1,12 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-105%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-106%20%2F%203031-ff69b4.svg)&nbsp;
 
-Total: 105
 ## Algorithms
 
-* [Array (55/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (56/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -54,6 +53,7 @@ Total: 105
 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [###](./Array/Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)                             | O(N) | O(N)   | Easy | Array                                                             |
 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | [###](./Array/Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)                             | O(N) | O(1)   | Easy | Array                                                             |
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [###](./Array/Maximum-Ascending-Subarray-Sum.py)                             | O(N) | O(1)   | Easy | Array                                                             |
+1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | [###](./Array/Minimum-Distance-to-the-Target-Element.py)                             | O(N) | O(1)   | Easy | Array                                                             |
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)                                                  | [###](./Array/Build-Array-from-Permutation.py)                        | O(N) | O(1)   | Easy | Array, Simulation                                                 |
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                              | [###](./Array/Concatenation-of-Array.py)                              | O(N) | O(N)   | Easy | Array, Simulation                                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)    | [###](./Array/Final-Value-of-Variable-After-Performing-Operations.py) | O(N) | O(1)   | Easy | Array, String, Simulation                                         |
