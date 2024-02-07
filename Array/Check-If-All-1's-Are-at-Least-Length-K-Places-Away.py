@@ -22,12 +22,12 @@ def kLengthApart(nums: list[int], k: int) -> bool:
 
     Examples
     --------
-    >>> kLengthApart[1,0,0,0,1,0,0,1], 2)
+    >>> kLengthApart([1,0,0,0,1,0,0,1], 2)
     True
 
     Explanation: Each of the 1s are at least 2 places away from each other.
 
-    >>> kLengthApart[1,0,0,1,0,1], 2)
+    >>> kLengthApart([1,0,0,1,0,1], 2)
     False
 
     Explanation: The second 1 and third 1 are only one apart from each other.

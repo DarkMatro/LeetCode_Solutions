@@ -39,6 +39,12 @@ def minimumRightShifts(nums: list[int]) -> int:
     -1
 
     It's impossible to sort the array using right shifts.
+
+    >>> minimumRightShifts([21])
+    0
+
+    >>> minimumRightShifts([12,28,63,56,69,67,83,37,82,70])
+    -1
     """
     min_idx = 0
     min_v = 101
