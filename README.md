@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-106%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-108%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (56/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (58/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -35,6 +35,7 @@ Solved problems from leetcode. Python
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                | [###](./Array/Intersection-of-Two-Arrays-II.py)                       | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                 | [###](./Array/Max-Consecutive-Ones.py)                        | O(N) | O(1)   | Easy | Array                                                             |
 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                 | [###](./Array/Monotonic-Array.py)                        | O(N) | O(1)   | Easy | Array                                                             |
+1184 | [Monotonic Array](https://leetcode.com/problems/distance-between-bus-stops)                                                 | [###](./Array/Distance-Between-Bus-Stops.py)                        | O(N) | O(1)   | Easy | Array                                                             |
 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)                                                | [###](./Array/Element-Appearing-More-Than-25%-In-Sorted-Array.py)                       | O(logN) | O(1)   | Easy | Array                                                             |
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)                            | [###](./Array/Find-Numbers-with-Even-Number-of-Digits.py)                       | O(N) | O(1)   | Easy | Array                                                             |
 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)                            | [###](./Array/Replace-Elements-with-Greatest-Element-on-Right-Side.py)                       | O(N) | O(1)   | Easy | Array                                                             |
@@ -51,6 +52,7 @@ Solved problems from leetcode. Python
 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)                                                                              | [###](./Array/Three-Consecutive-Odds.py)                                | O(N) | O(1)   | Easy | Array                                                             |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)                                                            | [###](./Array/Richest-Customer-Wealth.py)                             | O(M * N) | O(1)   | Easy | Array, Matrix                                                     |
 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | [###](./Array/Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)                             | O(N) | O(N)   | Easy | Array                                                             |
+1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [###](./Array/Check-if-Array-Is-Sorted-and-Rotated.py)                             | O(N) | O(1)   | Easy | Array                                                             |
 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | [###](./Array/Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)                             | O(N) | O(1)   | Easy | Array                                                             |
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [###](./Array/Maximum-Ascending-Subarray-Sum.py)                             | O(N) | O(1)   | Easy | Array                                                             |
 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | [###](./Array/Minimum-Distance-to-the-Target-Element.py)                             | O(N) | O(1)   | Easy | Array                                                             |
