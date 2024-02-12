@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-110%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-112%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (60/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (62/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -35,6 +35,7 @@ Solved problems from leetcode. Python
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                    | [###](./Array/Move-Zeroes.py)                                         | O(N) | O(1)   | Easy | Array, Two Pointers                                              |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                | [###](./Array/Intersection-of-Two-Arrays-II.py)                       | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting          |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                 | [###](./Array/Max-Consecutive-Ones.py)                        | O(N) | O(1)   | Easy | Array                                                            |
+0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)                                                 | [###](./Array/Longest-Continuous-Increasing-Subsequence.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                 | [###](./Array/Monotonic-Array.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1184 | [Monotonic Array](https://leetcode.com/problems/distance-between-bus-stops)                                                 | [###](./Array/Distance-Between-Bus-Stops.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)                                                | [###](./Array/Element-Appearing-More-Than-25%-In-Sorted-Array.py)                       | O(logN) | O(1)   | Easy | Array                                                            |
@@ -67,6 +68,7 @@ Solved problems from leetcode. Python
 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)                     | [###](./Array/Count-Hills-and-Valleys-in-an-Array.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task)                     | [###](./Array/The-Employee-That-Worked-on-the-Longest-Task.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)                                              | [###](./Array/Left-and-Right-Sum-Differences.py)           | O(N) | O(N)   | Easy | Array, Prefix Sum                                                |
+2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score)                                              | [###](./Array/Find-the-Maximum-Divisibility-Score.py)           | O(N * D) | O(N)   | Easy | Array                                                |
 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)                              | [###](./Array/Number-of-Employees-Who-Met-the-Target.py)              | O(N) | O(1)   | Easy | Array                                                            |
 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)                        | [###](./Array/Count-Pairs-Whose-Sum-is-Less-than-Target.py)           | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Binary Search, Sorting                      |
 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array)                         | [###](./Array/Minimum-Right-Shifts-to-Sort-the-Array.py)           | O(N) | O(1)   | Easy | Array                                                            |
