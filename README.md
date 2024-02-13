@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-112%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-114%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (62/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (64/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -36,7 +36,9 @@ Solved problems from leetcode. Python
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                | [###](./Array/Intersection-of-Two-Arrays-II.py)                       | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting          |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                 | [###](./Array/Max-Consecutive-Ones.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)                                                 | [###](./Array/Longest-Continuous-Increasing-Subsequence.py)                        | O(N) | O(1)   | Easy | Array                                                            |
+0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)                                                 | [###](./Array/1-bit-and-2-bit-Characters.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                 | [###](./Array/Monotonic-Array.py)                        | O(N) | O(1)   | Easy | Array                                                            |
+1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)                                                 | [###](./Array/Binary-Prefix-Divisible-By-5.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1184 | [Monotonic Array](https://leetcode.com/problems/distance-between-bus-stops)                                                 | [###](./Array/Distance-Between-Bus-Stops.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)                                                | [###](./Array/Element-Appearing-More-Than-25%-In-Sorted-Array.py)                       | O(logN) | O(1)   | Easy | Array                                                            |
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)                            | [###](./Array/Find-Numbers-with-Even-Number-of-Digits.py)                       | O(N) | O(1)   | Easy | Array                                                            |
