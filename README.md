@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-114%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-116%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (64/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (66/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -68,12 +68,14 @@ Solved problems from leetcode. Python
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                      | [###](./Array/Maximum-Number-of-Words-Found-in-Sentences.py)          | O(N) | O(1)   | Easy | Array, String, Simulation                                        |
 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)                    | [###](./Array/Count-Equal-and-Divisible-Pairs-in-an-Array.py)          | O(N) | O(N)   | Easy | Array                                                            |
 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)                     | [###](./Array/Count-Hills-and-Valleys-in-an-Array.py)           | O(N) | O(1)   | Easy | Array                                                            |
+2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero)                     | [###](./Array/Find-Closest-Number-to-Zero.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task)                     | [###](./Array/The-Employee-That-Worked-on-the-Longest-Task.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)                                              | [###](./Array/Left-and-Right-Sum-Differences.py)           | O(N) | O(N)   | Easy | Array, Prefix Sum                                                |
 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score)                                              | [###](./Array/Find-the-Maximum-Divisibility-Score.py)           | O(N * D) | O(N)   | Easy | Array                                                |
 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)                              | [###](./Array/Number-of-Employees-Who-Met-the-Target.py)              | O(N) | O(1)   | Easy | Array                                                            |
 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)                        | [###](./Array/Count-Pairs-Whose-Sum-is-Less-than-Target.py)           | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Binary Search, Sorting                      |
 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array)                         | [###](./Array/Minimum-Right-Shifts-to-Sort-the-Array.py)           | O(N) | O(1)   | Easy | Array                                                            |
+2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i)                         | [###](./Array/Maximum-Value-of-an-Ordered-Triplet-I.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)                         | [###](./Array/Minimum-Sum-of-Mountain-Triplets-I.py)            | O(N) | O(N)   | Easy | Array                                                            |
 
 
