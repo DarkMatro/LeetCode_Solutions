@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-116%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-118%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (66/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (68/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -38,6 +38,7 @@ Solved problems from leetcode. Python
 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)                                                 | [###](./Array/Longest-Continuous-Increasing-Subsequence.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)                                                 | [###](./Array/1-bit-and-2-bit-Characters.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                 | [###](./Array/Monotonic-Array.py)                        | O(N) | O(1)   | Easy | Array                                                            |
+0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)                                                 | [###](./Array/Valid-Mountain-Array.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)                                                 | [###](./Array/Binary-Prefix-Divisible-By-5.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1184 | [Monotonic Array](https://leetcode.com/problems/distance-between-bus-stops)                                                 | [###](./Array/Distance-Between-Bus-Stops.py)                        | O(N) | O(1)   | Easy | Array                                                            |
 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)                                                | [###](./Array/Element-Appearing-More-Than-25%-In-Sorted-Array.py)                       | O(logN) | O(1)   | Easy | Array                                                            |
@@ -77,6 +78,7 @@ Solved problems from leetcode. Python
 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array)                         | [###](./Array/Minimum-Right-Shifts-to-Sort-the-Array.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i)                         | [###](./Array/Maximum-Value-of-an-Ordered-Triplet-I.py)           | O(N) | O(1)   | Easy | Array                                                            |
 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)                         | [###](./Array/Minimum-Sum-of-Mountain-Triplets-I.py)            | O(N) | O(N)   | Easy | Array                                                            |
+3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)                         | [###](./Array/Maximum-Area-of-Longest-Diagonal-Rectangle.py)            | O(N) | O(1)   | Easy | Array                                                            |
 
 
 ## Hash Table
