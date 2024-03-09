@@ -43,3 +43,5 @@ def isOneBitCharacter(bits: list[int]) -> bool:
         else:
             i += 2
     return n - i == 1
+
+

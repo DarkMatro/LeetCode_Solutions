@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-120%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-121%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (70/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (71/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -69,6 +69,7 @@ Solved problems from leetcode. Python
 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)    | [###](./Array/Maximum-Difference-Between-Increasing-Elements.py)  | O(N) | O(1)   | Easy       | Array (Variant of 0121)                                         |
 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value)                         | [###](./Array/Smallest-Index-With-Equal-Value.py)  | O(N) | O(1)   | Easy       | Array                                                           |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                      | [###](./Array/Maximum-Number-of-Words-Found-in-Sentences.py)          | O(N) | O(1)   | Easy       | Array, String, Simulation                                       |
+2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array)                      | [###](./Array/All-Divisions-With-the-Highest-Score-of-a-Binary-Array.py)          | O(N) | O(1)   | Medium     | Array                                     |
 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array)                    | [###](./Array/Count-Equal-and-Divisible-Pairs-in-an-Array.py)          | O(N) | O(N)   | Easy       | Array                                                           |
 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array)                     | [###](./Array/Count-Hills-and-Valleys-in-an-Array.py)           | O(N) | O(1)   | Easy       | Array                                                           |
 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero)                     | [###](./Array/Find-Closest-Number-to-Zero.py)           | O(N) | O(1)   | Easy       | Array                                                           |
