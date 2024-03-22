@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-123%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-125%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (73/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (75/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -37,7 +37,9 @@ Solved problems from leetcode. Python
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                                         | [###](./Array/Max-Consecutive-Ones.py)                                     | O(N) | O(1)   | Easy       | Array                                                           |
 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)                               | [###](./Array/Longest-Continuous-Increasing-Subsequence.py)                | O(N) | O(1)   | Easy       | Array                                                           |
 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)                                                             | [###](./Array/1-bit-and-2-bit-Characters.py)                               | O(N) | O(1)   | Easy       | Array                                                           |
+0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)                                                             | [###](./Array/Maximize-Distance-to-Closest-Person.py)                               | O(N) | O(1)   | Medium     | Array                                                           |
 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array)                                                                                   | [###](./Array/Monotonic-Array.py)                                          | O(N) | O(1)   | Easy       | Array                                                           |
+0915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)                                                                                   | [###](./Array/Partition-Array-into-Disjoint-Intervals.py)                                          | O(N) | O(1)   | Medium     | Array                                                           |
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)                                                                         | [###](./Array/Valid-Mountain-Array.py)                                     | O(N) | O(1)   | Easy       | Array                                                           |
 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)                                                         | [###](./Array/Binary-Prefix-Divisible-By-5.py)                             | O(N) | O(1)   | Easy       | Array                                                           |
 1184 | [Monotonic Array](https://leetcode.com/problems/distance-between-bus-stops)                                                                        | [###](./Array/Distance-Between-Bus-Stops.py)                               | O(N) | O(1)   | Easy       | Array                                                           |
