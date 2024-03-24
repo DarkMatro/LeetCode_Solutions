@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-125%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-126%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (75/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (76/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -68,6 +68,7 @@ Solved problems from leetcode. Python
 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)                                                         | [###](./Array/Build-Array-from-Permutation.py)                             | O(N) | O(1)   | Easy       | Array, Simulation                                               |
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                                     | [###](./Array/Concatenation-of-Array.py)                                   | O(N) | O(N)   | Easy       | Array, Simulation                                               |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](./Array/Final-Value-of-Variable-After-Performing-Operations.py)      | O(N) | O(1)   | Easy       | Array, String, Simulation                                       |
+2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array)           | [###](./Array/Sum-of-Beauty-in-the-Array.py)      | O(N) | O(N)   | Medium     | Array                                      |
 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements)                     | [###](./Array/Maximum-Difference-Between-Increasing-Elements.py)           | O(N) | O(1)   | Easy       | Array (Variant of 0121)                                         |
 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value)                                                   | [###](./Array/Smallest-Index-With-Equal-Value.py)                          | O(N) | O(1)   | Easy       | Array                                                           |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](./Array/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N) | O(1)   | Easy       | Array, String, Simulation                                       |
