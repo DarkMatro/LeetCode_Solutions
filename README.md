@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-126%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-127%20%2F%203031-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (76/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (77/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -87,6 +87,7 @@ Solved problems from leetcode. Python
 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i)                                             | [###](./Array/Minimum-Sum-of-Mountain-Triplets-I.py)                       | O(N) | O(N)   | Easy       | Array                                                           |
 2909 | [Minimum Sum of Mountain Triplets II](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii)                                           | [###](./Array/Minimum-Sum-of-Mountain-Triplets-II.py)                      | O(N) | O(N)   | Medium     | Array                                                           |
 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle)                             | [###](./Array/Maximum-Area-of-Longest-Diagonal-Rectangle.py)               | O(N) | O(1)   | Easy       | Array                                                           |
+3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)                             | [###](./Array/Minimum-Operations-to-Exceed-Threshold-Value-I.py)               | O(N) | O(1)   | Easy       | Array                                                           |
 
 
 ## Hash Table
