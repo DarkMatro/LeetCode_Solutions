@@ -35,7 +35,6 @@ def minOperations(nums: list[int], k: int) -> int:
     At this stage, all the elements of nums are greater than or equal to 10 so we can stop.
     It can be shown that 3 is the minimum number of operations needed so that all elements of the
     array are greater than or equal to 10.
-    Example 2:
 
     >>> minOperations([1,1,2,4,9], 1)
     0
