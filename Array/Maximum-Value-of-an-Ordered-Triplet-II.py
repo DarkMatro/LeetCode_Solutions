@@ -1,17 +1,19 @@
+from itertools import accumulate
+
+
 def maximumTripletValue(nums: list[int]) -> int:
     """
-    ID: 2873
+    ID: 2874
     Tags:   Array
-    Time:   O(N^2)
-    Memory: O(1)
+    Time:   O(N)
+    Memory: O(N)
 
     Task
     ----------
     You are given a 0-indexed integer array nums.
 
     Return the maximum value over all triplets of indices (i, j, k) such that i < j < k. If all
-    such triplets have
-    a negative value, return 0.
+    such triplets have a negative value, return 0.
 
     The value of a triplet of indices (i, j, k) is equal to (nums[i] - nums[j]) * nums[k].
 
@@ -43,12 +45,7 @@ def maximumTripletValue(nums: list[int]) -> int:
     Explanation: The only ordered triplet of indices (0, 1, 2) has a negative value of
     (nums[0] - nums[1]) * nums[2] = -3. Hence, the answer would be 0.
     """
-    max_v = 0
-    left = nums[0]
-    for i in range(1, len(nums) - 1):
-        num = nums[i]
-        right = max(nums[i + 1:])
-        v = (left - num) * right
-        left = max(left, num)
-        max_v = max(max_v, v)
-    return max_v
+    pref = list(accumulate(nums, func=max))[:-2]
+    suf = list(accumulate(nums[::-1], func=max))[-3::-1]
+    ans = max([(p - n) * s for p, n, s in zip(pref, nums[1:-1], suf)], default=-1)
+    return 0 if ans < 0 else ans
