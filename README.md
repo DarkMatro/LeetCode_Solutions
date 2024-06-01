@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-132%20%2F%203031-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-134%20%2F%203167-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
-* [Array (82/1550)](https://github.com/DarkMatro/LeetCode_Solutions#array)
+* [Array (48/48)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
-* [String (20/667)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (22/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
@@ -20,11 +20,7 @@ Solved problems from leetcode. Python
 ## Array
 |  #  | Title                                                                                                                                              | Solution                                                                   | Time     | Memory | Difficulty | Tag                                                             |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------|--------|------------|-----------------------------------------------------------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](./Array/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table                                               |
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                           | [###](./Array/Remove-Duplicates-from-Sorted-Array.py)                      | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
-0027 | [Remove Element](https://leetcode.com/problems/remove-element)                                                                                     | [###](./Array/Remove-Element.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval)                                                                                     | [###](./Array/Insert-Interval.py)                                           | O(logN)  | O(1)   | Medium     | Array                                          |
-0066 | [Plus One](https://leetcode.com/problems/plus-one)                                                                                                 | [###](./Array/Plus-One.py)                                                 | O(N)     | O(N)   | Easy       | Array, Math                                                     |
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                             | [###](./Array/Merge-Sorted-Array.py)                                       | O(m+n)   | O(1)   | Easy       | Array, Two Pointers, Sorting                                    |
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                                | [###](./Array/Pascal's-Triangle.py)                                        | O(N^2)   | O(1)   | Easy       | Array, Dynamic Programming                                      |
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                                   | [###](./Array/Best-Time-to-Buy-and-Sell-Stock.py)                          | O(N)     | O(1)   | Easy       | Array, Dynamic Programming                                      |
@@ -36,6 +32,7 @@ Solved problems from leetcode. Python
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                           | [###](./Array/Move-Zeroes.py)                                              | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](./Array/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting         |
 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                                         | [###](./Array/Max-Consecutive-Ones.py)                                     | O(N)     | O(1)   | Easy       | Array                                                           |
+065 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)                                                                         | [###](./Array/Non-decreasing-Array.py)                                     | O(N)     | O(1)   | Medium     | Array                                                           |
 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)                               | [###](./Array/Longest-Continuous-Increasing-Subsequence.py)                | O(N)     | O(1)   | Easy       | Array                                                           |
 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)                                                             | [###](./Array/1-bit-and-2-bit-Characters.py)                               | O(N)     | O(1)   | Easy       | Array                                                           |
 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)                                                            | [###](./Array/Maximize-Distance-to-Closest-Person.py)                               | O(N)     | O(1)   | Medium     | Array                                                           |
@@ -57,7 +54,6 @@ Solved problems from leetcode. Python
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                                               | [###](./Array/Shuffle-the-Array.py)                                        | O(N)     | O(1)   | Easy       | Array                                                           |
 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)                                                                   | [###](./Array/Running-Sum-of-1d-Array.py)                                  | O(N)     | O(1)   | Easy       | Array, Prefix Sum                                               |
 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                                                         | [###](./Array/Number-of-Good-Pairs.py)                                     | O(N^2)   | O(1)   | Easy       | Array, Hash Table, Math, Counting                               |
-1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](./Array/Shuffle-String.py)                                           | O(N)     | O(1)   | Easy       | Array, String                                                   |
 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)                                                                     | [###](./Array/Three-Consecutive-Odds.py)                                   | O(N)     | O(1)   | Easy       | Array                                                           |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)                                                                   | [###](./Array/Richest-Customer-Wealth.py)                                  | O(M * N) | O(1)   | Easy       | Array, Matrix                                                   |
 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square)       | [###](./Array/Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)    | O(N)     | O(N)   | Easy       | Array                                                           |
@@ -98,6 +94,7 @@ Solved problems from leetcode. Python
 ## Hash Table
 |  #  | Title                                    | Solution                       |  Time        | Memory | Difficulty    | Tag          |
 |-----|------------------------------------------|--------------------------------| ------------ |--------| ------------- |--------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table                                               |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N) | O(1)   | Easy | Hash Table, Math, String|
 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [###](./Hash-Table/Ransom-Note.py) | O(N) | O(1)   | Easy | Hash Table, String, Counting|
 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](./Hash-Table/First-Unique-Character-in-a-String.py) | O(N) | O(N)   | Easy | Hash Table, String, Queue, Counting|
@@ -115,6 +112,7 @@ Solved problems from leetcode. Python
 |  #  | Title           | Solution                           | Time    | Memory | Difficulty    | Tag                                    |
 |-----|---------------- |------------------------------------|---------|--------| ------------- |----------------------------------------|
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)    | O(1)   | Easy | Math                                   |
+0066 | [Plus One](https://leetcode.com/problems/plus-one)                                                                                                 | [###](Math/Plus-One.py)                                                 | O(N)     | O(N)   | Easy       | Array, Math                                                     |
 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [###](./Math/Add-Binary.py) | O(1)    | O(1)   | Easy | Math, String, Bit Manipulation, Simulation                                  |
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN) | O(1)   | Easy | Math, Binary Search                    |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)    | O(1)   | Easy | Math, Dynamic Programming, Memoization |
@@ -144,9 +142,11 @@ Solved problems from leetcode. Python
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N) | O(N)   | Easy       | Two Pointers, String |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N) | O(N)   | Easy       | Hash Table, String, Sorting |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)      | O(N) | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
+1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                           | O(N)     | O(1)   | Easy       | Array, String                                                   |
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)      | O(N) | O(1)   | Easy     | Array, String |
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)      | O(N) | O(1)   | Easy     | Array, String |
 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N) | O(1)   | Easy     | Array, String |
+3110 | [Score of a String](https://leetcode.com/problems/core-of-a-string) | [###](./String/Score-of-a-String.py)      | O(N) | O(1)   | Easy     | String |
 
 
 ## Linked List
@@ -165,6 +165,8 @@ Solved problems from leetcode. Python
 ## Two Pointers
 |  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                           | [###](Two-Pointers/Remove-Duplicates-from-Sorted-Array.py)                      | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
+0027 | [Remove Element](https://leetcode.com/problems/remove-element)                                                                                     | [###](Two-Pointers/Remove-Element.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [###](./Two-Pointers/Find-the-Index-of-the-First-Occurrence-in-a-String.py) | O(N) | O(1)   | Easy | Two Pointers, String, String Matching  |
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [###](./Two-Pointers/Reverse-String.py) | O(N) | O(1)   | Easy | Two Pointers, String  |
 
