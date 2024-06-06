@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-140%20%2F%203167-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-141%20%2F%203167-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (28/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (29/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -93,6 +93,7 @@ Solved problems from leetcode. Python
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](String/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [###](./String/Cells-in-a-Range-on-an-Excel-Sheet.py)     | O(r * c) | O(1)   | Easy       | String                          |
+2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                          |
 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [###](./String/Check-if-a-String-Is-an-Acronym-of-Words.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [###](./String/Find-Words-Containing-Character.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 3110 | [Score of a String](https://leetcode.com/problems/core-of-a-string) | [###](./String/Score-of-a-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
