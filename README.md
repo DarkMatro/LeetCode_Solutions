@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-150%20%2F%203173-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-152%20%2F%203173-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (38/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (40/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -94,12 +94,14 @@ Solved problems from leetcode. Python
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
-1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [###](./String/Check-if-Word-Equals-Summation-of-Two-Words.py)      | O(N)     | O(1)   | Easy       | String                          |
+1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [###](./String/Check-if-Word-Equals-Summation-of-Two-Words.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [###](./String/Number-of-Strings-That-Appear-as-Substrings-in-Word.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](String/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [###](./String/Cells-in-a-Range-on-an-Excel-Sheet.py)     | O(r * c) | O(1)   | Easy       | String                                 |
+2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [###](./String/Percentage-of-Letter-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                                 |
+2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | [###](./String/Count-the-Number-of-Vowel-Strings-in-Range.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | [###](./String/Number-of-Senior-Citizens.py)     | O(N)     | O(1)   | Easy     | Array, String                          |
 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | [###](./String/remove-trailing-zeros-from-a-stringe.py)     | O(N)     | O(1)   | Easy     | String                                 |
 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [###](./String/Check-if-a-String-Is-an-Acronym-of-Words.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
