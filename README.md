@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-154%20%2F%203173-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-158%20%2F%203198-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (42/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (44/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (16/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (18/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -98,10 +98,12 @@ Solved problems from leetcode. Python
 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [###](./String/Number-of-Strings-That-Appear-as-Substrings-in-Word.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](String/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
+2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [###](./String/Check-if-All-A's-Appears-Before-All-B's.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [###](./String/Cells-in-a-Range-on-an-Excel-Sheet.py)     | O(r * c) | O(1)   | Easy       | String                                 |
 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [###](./String/Count-Prefixes-of-a-Given-String.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [###](./String/Percentage-of-Letter-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                                 |
+2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/core-of-a-string) | [###](./Maximum-Value-of-a-String-in-an-Array.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | [###](./String/Count-the-Number-of-Vowel-Strings-in-Range.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | [###](./String/Number-of-Senior-Citizens.py)     | O(N)     | O(1)   | Easy     | Array, String                          |
 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | [###](./String/remove-trailing-zeros-from-a-stringe.py)     | O(N)     | O(1)   | Easy     | String                                 |
@@ -238,3 +240,5 @@ Solved problems from leetcode. Python
 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy | Database  |
 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy | Database  |
+1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [###](./Database/Recyclable-and-Low-Fat-Products.sql) | Easy | Database  |
+2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql) | Easy | Database  |
