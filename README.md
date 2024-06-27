@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-168%20%2F%203198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-177%20%2F%203198-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (46/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (48/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (26/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (33/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -84,6 +84,8 @@ Solved problems from leetcode. Python
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting            |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)     | O(N)     | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
 0709 | [To Lower Case](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/to-lower-case.py)     | O(N)     | O(1)   | Easy     | String                                 |
+0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [###](./String/Number-of-Lines-To-Write-String.py) | O(N) | O(1)   | Easy       | Array, String                  |
+0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [###](./String/Goat-Latin.py) | O(N) | O(1)   | Easy       | String                  |
 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [###](./String/Delete-Columns-to-Make-Sorted.py)     | O(N * M) | O(1)   | Easy     | Array, String                          |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [###](./String/Defanging-an-IP-Address.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [###](./String/Decrypt-String-from-Alphabet-to-Integer-Mapping.py)     | O(N)     | O(1)   | Easy     | String                                 |
@@ -243,12 +245,19 @@ Solved problems from leetcode. Python
 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy | Database  |
 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | [###](./Database/Swap-Salary.sql) | Easy | Database  |
+1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [###](./Database/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql) | Easy | Database  |
 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [###](./Database/Product-Sales-Analysis-I.sql) | Easy | Database  |
+1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy | Database  |
+1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy | Database  |
+1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [###](./Database/List-the-Products-Ordered-in-a-Period.sql) | Easy | Database  |
 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [###](./Database/Replace-Employee-ID-With-The-Unique-Identifier.sql) | Easy | Database  |
+1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [###](./Database/Group-Sold-Products-By-The-Date.sql) | Easy | Database  |
 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [###](./Database/Bank-Account-Summary-II.sql) | Easy | Database  |
 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [###](./Database/Invalid-Tweets.sql) | Easy | Database  |
 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [###](./Database/Daily-Leads-and-Partners.sql) | Easy | Database  |
 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | [###](./Database/Find-Total-Time-Spent-by-Each-Employee.sql) | Easy | Database  |
 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [###](./Database/Recyclable-and-Low-Fat-Products.sql) | Easy | Database  |
 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [###](./Database/Rearrange-Products-Table.sql) | Easy | Database  |
+1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [###](./Database/The-Latest-Login-in-2020.sql) | Easy | Database  |
+1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | [###](./Database/Employees-With-Missing-Information.sql) | Easy | Database  |
 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql) | Easy | Database  |
