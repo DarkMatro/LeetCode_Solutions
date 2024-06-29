@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-185%20%2F%203198-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-191%20%2F%203199-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (50/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (52/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (39/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (43/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -95,6 +95,7 @@ Solved problems from leetcode. Python
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [###](./String/Goal-Parser-Interpretation.py)     | O(N)     | O(1)   | Easy       | String                                 |
 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [###](./String/Reformat-Phone-Number.py) | O(N)     | O(1)   | Easy       | String                  |
+1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [###](./String/Minimum-Changes-To-Make-Alternating-Binary-String.py)      | O(N)     | O(1)   | Easy       | String                          |
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
@@ -104,6 +105,7 @@ Solved problems from leetcode. Python
 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [###](./String/Check-if-Numbers-Are-Ascending-in-a-Sentence.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](String/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [###](./String/Check-if-All-A's-Appears-Before-All-B's.py)      | O(N)     | O(1)   | Easy       | String                                 |
+2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [###](./String/Capitalize-the-Title.py)      | O(N)     | O(1)   | Easy       | String                          |
 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [###](./String/Cells-in-a-Range-on-an-Excel-Sheet.py)     | O(r * c) | O(1)   | Easy       | String                                 |
 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [###](./String/Count-Prefixes-of-a-Given-String.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [###](./String/Largest-3-Same-Digit-Number-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
@@ -252,11 +254,14 @@ Solved problems from leetcode. Python
 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [###](./Database/Project-Employees-I.sql) | Easy | Database  |
 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy | Database  |
 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy | Database  |
+1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [###](./Database/Students-and-Examinations.sql) | Easy | Database  |
 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [###](./Database/List-the-Products-Ordered-in-a-Period.sql) | Easy | Database  |
 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [###](./Database/Replace-Employee-ID-With-The-Unique-Identifier.sql) | Easy | Database  |
+1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | [###](./Database/Top-Travellers.sql) | Easy | Database  |
 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [###](./Database/Group-Sold-Products-By-The-Date.sql) | Easy | Database  |
 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | [###](./Database/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql) | Easy | Database  |
 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [###](./Database/Bank-Account-Summary-II.sql) | Easy | Database  |
+1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [###](./Database/Percentage-of-Users-Attended-a-Contest.sql) | Easy | Database  |
 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [###](./Database/Average-Time-of-Process-per-Machine.sql) | Easy | Database  |
 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [###](./Database/Fix-Names-in-a-Table.sql) | Easy | Database  |
 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [###](./Database/Invalid-Tweets.sql) | Easy | Database  |
@@ -266,6 +271,7 @@ Solved problems from leetcode. Python
 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [###](./Database/Recyclable-and-Low-Fat-Products.sql) | Easy | Database  |
 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee) | [###](./Database/Primary-Department-for-Each-Employee.sql) | Easy | Database  |
 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [###](./Database/Rearrange-Products-Table.sql) | Easy | Database  |
+1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | [###](./Database/Calculate-Special-Bonus.sql) | Easy | Database  |
 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [###](./Database/The-Latest-Login-in-2020.sql) | Easy | Database  |
 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | [###](./Database/Employees-With-Missing-Information.sql) | Easy | Database  |
 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql) | Easy | Database  |
