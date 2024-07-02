@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-204%20%2F%203204-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-207%20%2F%203204-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (56/699)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (58/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (52/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (53/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -92,8 +92,10 @@ Solved problems from leetcode. Python
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [###](./String/Defanging-an-IP-Address.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [###](./String/Decrypt-String-from-Alphabet-to-Integer-Mapping.py)     | O(N)     | O(1)   | Easy     | String                                 |
 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [###](./String/Generate-a-String-With-Characters-That-Have-Odd-Counts.py)     | O(1)     | O(1)   | Easy     | String                                 |
+1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [###](./String/Consecutive-Characters.py) | O(N)     | O(1)   | Easy       | String                  |
 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                  |
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                          | O(N)     | O(1)   | Easy       | Array, String                          |
+1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [###](./String/Slowest-Key.py) | O(N)     | O(1)   | Easy       | Array, String                   |
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [###](./String/Goal-Parser-Interpretation.py)     | O(N)     | O(1)   | Easy       | String                                 |
 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [###](./String/Reformat-Phone-Number.py) | O(N)     | O(1)   | Easy       | String                  |
@@ -249,6 +251,7 @@ Solved problems from leetcode. Python
 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | [###](./Database/Big-Countries.sql) | Easy       | Database  |
 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [###](./Database/Classes-More-Than-5-Students.sql) | Easy       | Database  |
 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | [###](./Database/Sales-Person.sql) | Easy       | Database  |
+0608 | [Tree Node](https://leetcode.com/problems/tree-node) | [###](./Database/Tree-Node.sql) | Medium     | Database  |
 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy       | Database  |
 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy       | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy       | Database  |
