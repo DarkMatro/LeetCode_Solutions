@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-207%20%2F%203204-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-210%20%2F%203204-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (58/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (60/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (53/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (54/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -83,6 +83,7 @@ Solved problems from leetcode. Python
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                   |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting            |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)     | O(N)     | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
+0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [###](./String/Detect-Capital.py)      | O(1)     | O(1)   | Easy       | String            |
 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [###](./String/Longest-Uncommon-Subsequence-I.py)      | O(1)     | O(N)   | Easy       | String            |
 0709 | [To Lower Case](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/to-lower-case.py)     | O(N)     | O(1)   | Easy     | String                                 |
 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [###](./String/Number-of-Lines-To-Write-String.py) | O(N)     | O(1)   | Easy       | Array, String                  |
@@ -105,6 +106,7 @@ Solved problems from leetcode. Python
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | [###](./String/Longer-Contiguous-Segments-of-Ones-than-Zeros.py) | O(N)     | O(1)   | Easy       | String                  |
 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [###](./String/Check-if-Word-Equals-Summation-of-Two-Words.py)      | O(N)     | O(1)   | Easy       | String                                 |
+1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [###](./String/Delete-Characters-to-Make-Fancy-String.py)      | O(N)     | O(1)   | Easy       | String                          |
 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [###](./String/Number-of-Strings-That-Appear-as-Substrings-in-Word.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [###](./String/Check-if-Numbers-Are-Ascending-in-a-Sentence.py)      | O(N)     | O(1)   | Easy       | String                                 |
@@ -255,6 +257,7 @@ Solved problems from leetcode. Python
 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy       | Database  |
 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy       | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy       | Database  |
+0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [###](./Database/Exchange-Seats.sql) | Medium       | Database  |
 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | [###](./Database/Swap-Salary.sql) | Easy       | Database  |
 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [###](./Database/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql) | Easy       | Database  |
 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [###](./Database/Product-Sales-Analysis-I.sql) | Easy       | Database  |
