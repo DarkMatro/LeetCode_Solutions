@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-210%20%2F%203204-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-213%20%2F%203205-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (60/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (62/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (54/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (55/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -96,6 +96,7 @@ Solved problems from leetcode. Python
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [###](./String/Consecutive-Characters.py) | O(N)     | O(1)   | Easy       | String                  |
 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                  |
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                          | O(N)     | O(1)   | Easy       | Array, String                          |
+1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [###](./String/Thousand-Separator.py) | O(N)     | O(1)   | Easy       | String                  |
 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [###](./String/Slowest-Key.py) | O(N)     | O(1)   | Easy       | Array, String                   |
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [###](./String/Goal-Parser-Interpretation.py)     | O(N)     | O(1)   | Easy       | String                                 |
@@ -117,6 +118,7 @@ Solved problems from leetcode. Python
 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [###](./String/Count-Prefixes-of-a-Given-String.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [###](./String/Largest-3-Same-Digit-Number-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [###](./String/Percentage-of-Letter-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
+2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | [###](./String/Strong-Password-Checker-II.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [###](./String/Circular-Sentence.py)     | O(N)     | O(N)   | Easy       | String                         |
 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/core-of-a-string) | [###](./Maximum-Value-of-a-String-in-an-Array.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
@@ -266,6 +268,7 @@ Solved problems from leetcode. Python
 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql) | Easy       | Database  |
 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy       | Database  |
 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy       | Database  |
+1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [###](./Database/Last-Person-to-Fit-in-the-Bus.sql) | Medium     | Database  |
 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [###](./Database/Queries-Quality-and-Percentage.sql) | Easy       | Database  |
 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [###](./Database/Average-Selling-Price.sql) | Easy       | Database  |
 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [###](./Database/Students-and-Examinations.sql) | Easy       | Database  |
