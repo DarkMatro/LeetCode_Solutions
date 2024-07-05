@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-213%20%2F%203205-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-215%20%2F%203205-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (62/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (64/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -88,11 +88,13 @@ Solved problems from leetcode. Python
 0709 | [To Lower Case](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/to-lower-case.py)     | O(N)     | O(1)   | Easy     | String                                 |
 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [###](./String/Number-of-Lines-To-Write-String.py) | O(N)     | O(1)   | Easy       | Array, String                  |
 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [###](./String/Goat-Latin.py) | O(N)     | O(1)   | Easy       | String                  |
+0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [###](./String/Positions-of-Large-Groups.py) | O(N)     | O(1)   | Easy       | String                  |
 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [###](./String/Delete-Columns-to-Make-Sorted.py)     | O(N * M) | O(1)   | Easy     | Array, String                          |
 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | [###](./String/Occurrences-After-Bigram.py) | O(N)     | O(1)   | Easy       | String                          |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [###](./String/Defanging-an-IP-Address.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [###](./String/Decrypt-String-from-Alphabet-to-Integer-Mapping.py)     | O(N)     | O(1)   | Easy     | String                                 |
 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [###](./String/Generate-a-String-With-Characters-That-Have-Odd-Counts.py)     | O(1)     | O(1)   | Easy     | String                                 |
+1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [###](./String/Reformat-The-String.py) | O(N)     | O(1)   | Easy       | String                  |
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [###](./String/Consecutive-Characters.py) | O(N)     | O(1)   | Easy       | String                  |
 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                  |
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                          | O(N)     | O(1)   | Easy       | Array, String                          |
@@ -243,6 +245,7 @@ Solved problems from leetcode. Python
 |  #  | Title                                    | Solution                                          | Difficulty | Tag       |
 |-----|------------------------------------------|---------------------------------------------------|------------|-----------|
 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | Easy       | Database  |
+0178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [###](./Database/Rank-Scores.sql) | Medium     | Database  |
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy       | Database  |
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy       | Database  |
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [###](./Database/Customers-Who-Never-Order.sql) | Easy       | Database  |
@@ -259,7 +262,7 @@ Solved problems from leetcode. Python
 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy       | Database  |
 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy       | Database  |
 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy       | Database  |
-0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [###](./Database/Exchange-Seats.sql) | Medium       | Database  |
+0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [###](./Database/Exchange-Seats.sql) | Medium     | Database  |
 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | [###](./Database/Swap-Salary.sql) | Easy       | Database  |
 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [###](./Database/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql) | Easy       | Database  |
 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [###](./Database/Product-Sales-Analysis-I.sql) | Easy       | Database  |
