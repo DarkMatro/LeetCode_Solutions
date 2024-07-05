@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-215%20%2F%203205-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-216%20%2F%203205-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (55/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (56/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
