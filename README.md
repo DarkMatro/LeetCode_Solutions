@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-216%20%2F%203205-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-222%20%2F%203214-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (64/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (68/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (56/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (58/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -83,52 +83,56 @@ Solved problems from leetcode. Python
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                   |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting            |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)     | O(N)     | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
-0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [###](./String/Detect-Capital.py)      | O(1)     | O(1)   | Easy       | String            |
-0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [###](./String/Longest-Uncommon-Subsequence-I.py)      | O(1)     | O(N)   | Easy       | String            |
+0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [###](./String/Detect-Capital.py)      | O(1)     | O(1)   | Easy       | String                                 |
+0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [###](./String/Longest-Uncommon-Subsequence-I.py)      | O(1)     | O(N)   | Easy       | String                                 |
+0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | [###](./String/Student-Attendance-Record-I.py)      | O(N)     | O(1)   | Easy       | String                                 |
 0709 | [To Lower Case](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/to-lower-case.py)     | O(N)     | O(1)   | Easy     | String                                 |
-0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [###](./String/Number-of-Lines-To-Write-String.py) | O(N)     | O(1)   | Easy       | Array, String                  |
-0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [###](./String/Goat-Latin.py) | O(N)     | O(1)   | Easy       | String                  |
-0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [###](./String/Positions-of-Large-Groups.py) | O(N)     | O(1)   | Easy       | String                  |
+0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [###](./String/Number-of-Lines-To-Write-String.py) | O(N)     | O(1)   | Easy       | Array, String                          |
+0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [###](./String/Goat-Latin.py) | O(N)     | O(1)   | Easy       | String                                 |
+0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [###](./String/Positions-of-Large-Groups.py) | O(N)     | O(1)   | Easy       | String                                 |
 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [###](./String/Delete-Columns-to-Make-Sorted.py)     | O(N * M) | O(1)   | Easy     | Array, String                          |
-1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | [###](./String/Occurrences-After-Bigram.py) | O(N)     | O(1)   | Easy       | String                          |
+1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | [###](./String/Occurrences-After-Bigram.py) | O(N)     | O(1)   | Easy       | String                                 |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | [###](./String/Defanging-an-IP-Address.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [###](./String/Decrypt-String-from-Alphabet-to-Integer-Mapping.py)     | O(N)     | O(1)   | Easy     | String                                 |
 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [###](./String/Generate-a-String-With-Characters-That-Have-Odd-Counts.py)     | O(1)     | O(1)   | Easy     | String                                 |
-1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [###](./String/Reformat-The-String.py) | O(N)     | O(1)   | Easy       | String                  |
-1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [###](./String/Consecutive-Characters.py) | O(N)     | O(1)   | Easy       | String                  |
-1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                  |
+1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [###](./String/Reformat-The-String.py) | O(N)     | O(1)   | Easy       | String                                 |
+1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters) | [###](./String/Consecutive-Characters.py) | O(N)     | O(1)   | Easy       | String                                 |
+1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                                 |
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                          | O(N)     | O(1)   | Easy       | Array, String                          |
-1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [###](./String/Thousand-Separator.py) | O(N)     | O(1)   | Easy       | String                  |
-1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [###](./String/Slowest-Key.py) | O(N)     | O(1)   | Easy       | Array, String                   |
+1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [###](./String/Thousand-Separator.py) | O(N)     | O(1)   | Easy       | String                                 |
+1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [###](./String/Slowest-Key.py) | O(N)     | O(1)   | Easy       | Array, String                          |
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [###](./String/Goal-Parser-Interpretation.py)     | O(N)     | O(1)   | Easy       | String                                 |
-1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [###](./String/Reformat-Phone-Number.py) | O(N)     | O(1)   | Easy       | String                  |
-1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [###](./String/Minimum-Changes-To-Make-Alternating-Binary-String.py)      | O(N)     | O(1)   | Easy       | String                          |
+1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [###](./String/Reformat-Phone-Number.py) | O(N)     | O(1)   | Easy       | String                                 |
+1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [###](./String/Minimum-Changes-To-Make-Alternating-Binary-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
-1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | [###](./String/Longer-Contiguous-Segments-of-Ones-than-Zeros.py) | O(N)     | O(1)   | Easy       | String                  |
+1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | [###](./String/Longer-Contiguous-Segments-of-Ones-than-Zeros.py) | O(N)     | O(1)   | Easy       | String                                 |
 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [###](./String/Check-if-Word-Equals-Summation-of-Two-Words.py)      | O(N)     | O(1)   | Easy       | String                                 |
-1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [###](./String/Delete-Characters-to-Make-Fancy-String.py)      | O(N)     | O(1)   | Easy       | String                          |
+1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [###](./String/Delete-Characters-to-Make-Fancy-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [###](./String/Number-of-Strings-That-Appear-as-Substrings-in-Word.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | [###](./String/Check-if-Numbers-Are-Ascending-in-a-Sentence.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)                             | [###](String/Maximum-Number-of-Words-Found-in-Sentences.py)               | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | [###](./String/Check-if-All-A's-Appears-Before-All-B's.py)      | O(N)     | O(1)   | Easy       | String                                 |
-2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [###](./String/Capitalize-the-Title.py)      | O(N)     | O(1)   | Easy       | String                          |
+2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [###](./String/Capitalize-the-Title.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | [###](./String/Cells-in-a-Range-on-an-Excel-Sheet.py)     | O(r * c) | O(1)   | Easy       | String                                 |
 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [###](./String/Count-Prefixes-of-a-Given-String.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [###](./String/Largest-3-Same-Digit-Number-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [###](./String/Percentage-of-Letter-in-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | [###](./String/Strong-Password-Checker-II.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                                 |
-2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [###](./String/Circular-Sentence.py)     | O(N)     | O(N)   | Easy       | String                         |
+2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | [###](./String/Determine-if-Two-Events-Have-Conflict.py)     | O(1)     | O(N)   | Easy       | Array, String                          |
+2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [###](./String/Circular-Sentence.py)     | O(N)     | O(N)   | Easy       | String                                 |
 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/core-of-a-string) | [###](./Maximum-Value-of-a-String-in-an-Array.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
+2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) | [###](./String/Shortest-Distance-to-Target-String-in-a-Circular-Array.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | [###](./String/Count-the-Number-of-Vowel-Strings-in-Range.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | [###](./String/Number-of-Senior-Citizens.py)     | O(N)     | O(1)   | Easy     | Array, String                          |
 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | [###](./String/remove-trailing-zeros-from-a-stringe.py)     | O(N)     | O(1)   | Easy     | String                                 |
 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | [###](./String/Split-Strings-by-Separator.py)      | O(Nm)    | O(1)   | Easy       | Array, String                          |
 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [###](./String/Check-if-a-String-Is-an-Acronym-of-Words.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
+2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [###](./String/Check-if-Strings-Can-be-Made-Equal-With-Operations-I.py)      | O(1)     | O(1)   | Easy       | String                                 |
 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [###](./String/Find-Words-Containing-Character.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [###](./String/Number-of-Changing-Keys.py)      | O(N)     | O(1)   | Easy       | String                                 |
 3110 | [Score of a String](https://leetcode.com/problems/core-of-a-string) | [###](./String/Score-of-a-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
@@ -297,6 +301,8 @@ Solved problems from leetcode. Python
 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [###](./Database/Rearrange-Products-Table.sql) | Easy       | Database  |
 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | [###](./Database/Calculate-Special-Bonus.sql) | Easy       | Database  |
 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [###](./Database/The-Latest-Login-in-2020.sql) | Easy       | Database  |
+1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [###](./Database/Count-Salary-Categories.sql) | Medium     | Database  |
+1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | [###](./Database/Confirmation-Rate.sql) | Medium     | Database  |
 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | [###](./Database/Employees-With-Missing-Information.sql) | Easy       | Database  |
 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company) | [###](./Database/Employees-Whose-Manager-Left-the-Company.sql) | Easy       | Database  |
 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql) | Easy       | Database  |
