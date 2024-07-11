@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-222%20%2F%203214-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-225%20%2F%203214-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (68/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (70/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (58/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (59/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -100,6 +100,7 @@ Solved problems from leetcode. Python
 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date) | [###](./String/Reformat-Date.py) | O(1)     | O(1)   | Easy       | String                                 |
 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string)                                                                                     | [###](String/Shuffle-String.py)                                          | O(N)     | O(1)   | Easy       | Array, String                          |
 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | [###](./String/Thousand-Separator.py) | O(N)     | O(1)   | Easy       | String                                 |
+1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [###](./String/Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py) | O(N)     | O(1)   | Easy       | String                          |
 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [###](./String/Slowest-Key.py) | O(N)     | O(1)   | Easy       | Array, String                          |
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [###](./String/Check-If-Two-String-Arrays-are-Equivalent.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [###](./String/Goal-Parser-Interpretation.py)     | O(N)     | O(1)   | Easy       | String                                 |
@@ -128,6 +129,7 @@ Solved problems from leetcode. Python
 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/core-of-a-string) | [###](./Maximum-Value-of-a-String-in-an-Array.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) | [###](./String/Shortest-Distance-to-Target-String-in-a-Circular-Array.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | [###](./String/Count-the-Number-of-Vowel-Strings-in-Range.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
+2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string) | [###](./String/Find-the-longest-balanced-substring-of-a-binary-stringe.py)     | O(N)     | O(1)   | Easy       | String                                 |
 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | [###](./String/Number-of-Senior-Citizens.py)     | O(N)     | O(1)   | Easy     | Array, String                          |
 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | [###](./String/remove-trailing-zeros-from-a-stringe.py)     | O(N)     | O(1)   | Easy     | String                                 |
 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | [###](./String/Split-Strings-by-Separator.py)      | O(Nm)    | O(1)   | Easy       | Array, String                          |
@@ -275,6 +277,7 @@ Solved problems from leetcode. Python
 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql) | Easy       | Database  |
 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy       | Database  |
 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy       | Database  |
+1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [###](./Database/Monthly-Transactions-I.sql) | Medium     | Database  |
 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [###](./Database/Last-Person-to-Fit-in-the-Bus.sql) | Medium     | Database  |
 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [###](./Database/Queries-Quality-and-Percentage.sql) | Easy       | Database  |
 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [###](./Database/Average-Selling-Price.sql) | Easy       | Database  |
