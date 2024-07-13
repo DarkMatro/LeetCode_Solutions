@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-228%20%2F%203215-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-231%20%2F%203215-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
 * [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
-* [String (72/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (74/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (60/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (61/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -109,6 +109,7 @@ Solved problems from leetcode. Python
 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [###](./String/Reformat-Phone-Number.py) | O(N)     | O(1)   | Easy       | String                                 |
 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string) | [###](./String/Minimum-Changes-To-Make-Alternating-Binary-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [###](./String/Count-Items-Matching-a-Rule.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
+1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [###](./String/Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)      | O(N)     | O(1)   | Easy       | String                          |
 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [###](./String/Truncate-Sentence.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | [###](./String/Longer-Contiguous-Segments-of-Ones-than-Zeros.py) | O(N)     | O(1)   | Easy       | String                                 |
@@ -137,6 +138,7 @@ Solved problems from leetcode. Python
 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | [###](./String/Split-Strings-by-Separator.py)      | O(Nm)    | O(1)   | Easy       | Array, String                          |
 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [###](./String/Check-if-a-String-Is-an-Acronym-of-Words.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [###](./String/Check-if-Strings-Can-be-Made-Equal-With-Operations-I.py)      | O(1)     | O(1)   | Easy       | String                                 |
+2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | [###](./String/Make-Three-Strings-Equal.py)     | O(NlogN) | O(1)   | Easy     | String                          |
 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [###](./String/Find-Words-Containing-Character.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [###](./String/Number-of-Changing-Keys.py)      | O(N)     | O(1)   | Easy       | String                                 |
 3110 | [Score of a String](https://leetcode.com/problems/core-of-a-string) | [###](./String/Score-of-a-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
@@ -265,6 +267,7 @@ Solved problems from leetcode. Python
 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [###](./Database/Customer-Placing-the-Largest-Number-of-Orders.sql) | Easy       | Database  |
 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | [###](./Database/Big-Countries.sql) | Easy       | Database  |
 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [###](./Database/Classes-More-Than-5-Students.sql) | Easy       | Database  |
+0602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) | [###](./Database/Friend-Requests-II-Who-Has-the-Most-Friends.sql) | Medium     | Database  |
 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | [###](./Database/Sales-Person.sql) | Easy       | Database  |
 0608 | [Tree Node](https://leetcode.com/problems/tree-node) | [###](./Database/Tree-Node.sql) | Medium     | Database  |
 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy       | Database  |
