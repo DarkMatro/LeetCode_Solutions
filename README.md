@@ -1,11 +1,10 @@
 # LeetCode Solutions
 Solved free problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-245%20%2F%202575-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-245%20%2F%202575-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 
 ## Algorithms
-
-* [Array (49/49)](https://github.com/DarkMatro/LeetCode_Solutions#array)
 * [String (74/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
