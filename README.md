@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Solved problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-231%20%2F%203215-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-235%20%2F%203237-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (61/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (65/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -259,6 +259,7 @@ Solved problems from leetcode. Python
 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy       | Database  |
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy       | Database  |
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [###](./Database/Customers-Who-Never-Order.sql) | Easy       | Database  |
+0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [###](./Database/Department-Highest-Salary.sql) | Medium       | Database  |
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [###](./Database/Delete-Duplicate-Emails.sql) | Easy       | Database  |
 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [###](./Database/Rising-Temperature.sql) | Easy       | Database  |
 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy       | Database  |
@@ -282,12 +283,15 @@ Solved problems from leetcode. Python
 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | [###](./Database/Sales-Analysis-III.sql) | Easy       | Database  |
 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql) | Easy       | Database  |
 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy       | Database  |
+1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | [###](./Database/Market-Analysis-I.sql) | Medium     | Database  |
+1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | [###](./Database/Product-Price-at-a-Given-Date.sql) | Medium     | Database  |
 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy       | Database  |
 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [###](./Database/Monthly-Transactions-I.sql) | Medium     | Database  |
 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [###](./Database/Last-Person-to-Fit-in-the-Bus.sql) | Medium     | Database  |
 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [###](./Database/Queries-Quality-and-Percentage.sql) | Easy       | Database  |
 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [###](./Database/Average-Selling-Price.sql) | Easy       | Database  |
 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [###](./Database/Students-and-Examinations.sql) | Easy       | Database  |
+1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [###](./Database/Restaurant-Growth.sql) | Medium       | Database  |
 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [###](./Database/List-the-Products-Ordered-in-a-Period.sql) | Easy       | Database  |
 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [###](./Database/Replace-Employee-ID-With-The-Unique-Identifier.sql) | Easy       | Database  |
 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | [###](./Database/Capital-Gain-Loss.sql) | Medium     | Database  |
