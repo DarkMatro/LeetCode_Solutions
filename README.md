@@ -1,7 +1,7 @@
 # LeetCode Solutions
-Solved problems from leetcode. Python
+Solved free problems from leetcode. Python
 
-![Progress](https://img.shields.io/badge/progress-235%20%2F%203237-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-245%20%2F%202575-ff69b4.svg)&nbsp;
 
 ## Algorithms
 
@@ -14,7 +14,7 @@ Solved problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (65/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
+* [Database (75/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -252,70 +252,80 @@ Solved problems from leetcode. Python
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)                                                                   | [###](Matrix/Richest-Customer-Wealth.py)                                  | O(M * N) | O(1)   | Easy       | Array, Matrix                                                   |
 
 ## Database
-|  #  | Title                                    | Solution                                          | Difficulty | Tag       |
-|-----|------------------------------------------|---------------------------------------------------|------------|-----------|
-0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [###](./Database/Combine-Two-Tables.sql) | Easy       | Database  |
-0178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [###](./Database/Rank-Scores.sql) | Medium     | Database  |
-0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql) | Easy       | Database  |
-0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [###](./Database/Duplicate-Emails.sql) | Easy       | Database  |
-0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [###](./Database/Customers-Who-Never-Order.sql) | Easy       | Database  |
-0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [###](./Database/Department-Highest-Salary.sql) | Medium       | Database  |
-0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [###](./Database/Delete-Duplicate-Emails.sql) | Easy       | Database  |
-0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [###](./Database/Rising-Temperature.sql) | Easy       | Database  |
-0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [###](./Database/Game-Play-Analysis-I.sql) | Easy       | Database  |
-0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [###](./Database/Employee-Bonus.sql) | Easy       | Database  |
-0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [###](./Database/Find-Customer-Referee.sql) | Easy       | Database  |
-0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [###](./Database/Customer-Placing-the-Largest-Number-of-Orders.sql) | Easy       | Database  |
-0595 | [Big Countries](https://leetcode.com/problems/big-countries) | [###](./Database/Big-Countries.sql) | Easy       | Database  |
-0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [###](./Database/Classes-More-Than-5-Students.sql) | Easy       | Database  |
-0602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) | [###](./Database/Friend-Requests-II-Who-Has-the-Most-Friends.sql) | Medium     | Database  |
-0607 | [Sales Person](https://leetcode.com/problems/sales-person) | [###](./Database/Sales-Person.sql) | Easy       | Database  |
-0608 | [Tree Node](https://leetcode.com/problems/tree-node) | [###](./Database/Tree-Node.sql) | Medium     | Database  |
-0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [###](./Database/Triangle-Judgement.sql) | Easy       | Database  |
-0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [###](./Database/Biggest-Single-Number.sql) | Easy       | Database  |
-0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [###](./Database/Not-Boring-Movies.sql) | Easy       | Database  |
-0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [###](./Database/Exchange-Seats.sql) | Medium     | Database  |
-0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | [###](./Database/Swap-Salary.sql) | Easy       | Database  |
-1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [###](./Database/Customers-Who-Bought-All-Products.sql) | Medium     | Database  |
+|  #  | Title                                                                                                                                              | Solution                                                                       | Difficulty | Tag       |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|-----------|
+0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables)                                                                             | [###](./Database/Combine-Two-Tables.sql)                                       | Easy       | Database  |
+0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)                                                                       | [###](./Database/Second-Highest-Salary.sql)                                    | Medium     | Database  |
+0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)                                                                             | [###](./Database/Nth-Highest-Salary.sql)                                       | Medium     | Database  |
+0178 | [Rank Scores](https://leetcode.com/problems/rank-scores)                                                                                           | [###](./Database/Rank-Scores.sql)                                              | Medium     | Database  |
+0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                           | [###](./Database/Consecutive-Numbers.sql)                                      | Medium     | Database  |
+0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)                             | [###](./Database/Employees-Earning-More-Than-Their-Managers.sql)               | Easy       | Database  |
+0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                                 | [###](./Database/Duplicate-Emails.sql)                                         | Easy       | Database  |
+0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                               | [###](./Database/Customers-Who-Never-Order.sql)                                | Easy       | Database  |
+0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                               | [###](./Database/Department-Highest-Salary.sql)                                | Medium     | Database  |
+0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)                                                                   | [###](./Database/Delete-Duplicate-Emails.sql)                                  | Easy       | Database  |
+0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature)                                                                             | [###](./Database/Rising-Temperature.sql)                                       | Easy       | Database  |
+0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)                                                                         | [###](./Database/Game-Play-Analysis-I.sql)                                     | Easy       | Database  |
+0550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)                                                                       | [###](./Database/Game-Play-Analysis-IV.sql)                                    | Medium       | Database  |
+0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)                                   | [###](./Database/Managers-with-at-Least-5-Direct-Reports.sql)                  | Medium       | Database  |
+0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus)                                                                                     | [###](./Database/Employee-Bonus.sql)                                           | Easy       | Database  |
+0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                                                                       | [###](./Database/Find-Customer-Referee.sql)                                    | Easy       | Database  |
+0585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016)                                                                           | [###](./Database/Investments-in-2016.sql)                                      | Medium       | Database  |
+0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)                       | [###](./Database/Customer-Placing-the-Largest-Number-of-Orders.sql)            | Easy       | Database  |
+0595 | [Big Countries](https://leetcode.com/problems/big-countries)                                                                                       | [###](./Database/Big-Countries.sql)                                            | Easy       | Database  |
+0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)                                                         | [###](./Database/Classes-More-Than-5-Students.sql)                             | Easy       | Database  |
+0602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)                          | [###](./Database/Friend-Requests-II-Who-Has-the-Most-Friends.sql)              | Medium     | Database  |
+0607 | [Sales Person](https://leetcode.com/problems/sales-person)                                                                                         | [###](./Database/Sales-Person.sql)                                             | Easy       | Database  |
+0608 | [Tree Node](https://leetcode.com/problems/tree-node)                                                                                               | [###](./Database/Tree-Node.sql)                                                | Medium     | Database  |
+0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement)                                                                             | [###](./Database/Triangle-Judgement.sql)                                       | Easy       | Database  |
+0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number)                                                                       | [###](./Database/Biggest-Single-Number.sql)                                    | Easy       | Database  |
+0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies)                                                                               | [###](./Database/Not-Boring-Movies.sql)                                        | Easy       | Database  |
+0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats)                                                                                     | [###](./Database/Exchange-Seats.sql)                                           | Medium     | Database  |
+0627 | [Swap Salary](https://leetcode.com/problems/swap-salary)                                                                                           | [###](./Database/Swap-Salary.sql)                                              | Easy       | Database  |
+1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)                                               | [###](./Database/Customers-Who-Bought-All-Products.sql)                        | Medium     | Database  |
 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [###](./Database/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql) | Easy       | Database  |
-1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [###](./Database/Product-Sales-Analysis-I.sql) | Easy       | Database  |
-1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [###](./Database/Project-Employees-I.sql) | Easy       | Database  |
-1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | [###](./Database/Sales-Analysis-III.sql) | Easy       | Database  |
-1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql) | Easy       | Database  |
-1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [###](./Database/Article-Views-I.sql) | Easy       | Database  |
-1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | [###](./Database/Market-Analysis-I.sql) | Medium     | Database  |
-1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | [###](./Database/Product-Price-at-a-Given-Date.sql) | Medium     | Database  |
-1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | [###](./Database/Reformat-Department-Table.sql) | Easy       | Database  |
-1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [###](./Database/Monthly-Transactions-I.sql) | Medium     | Database  |
-1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [###](./Database/Last-Person-to-Fit-in-the-Bus.sql) | Medium     | Database  |
-1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [###](./Database/Queries-Quality-and-Percentage.sql) | Easy       | Database  |
-1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [###](./Database/Average-Selling-Price.sql) | Easy       | Database  |
-1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [###](./Database/Students-and-Examinations.sql) | Easy       | Database  |
-1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [###](./Database/Restaurant-Growth.sql) | Medium       | Database  |
-1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [###](./Database/List-the-Products-Ordered-in-a-Period.sql) | Easy       | Database  |
-1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [###](./Database/Replace-Employee-ID-With-The-Unique-Identifier.sql) | Easy       | Database  |
-1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | [###](./Database/Capital-Gain-Loss.sql) | Medium     | Database  |
-1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | [###](./Database/Top-Travellers.sql) | Easy       | Database  |
-1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [###](./Database/Group-Sold-Products-By-The-Date.sql) | Easy       | Database  |
-1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [###](./Database/Find-Users-With-Valid-E-Mails.sql) | Easy       | Database  |
-1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [###](./Database/Patients-With-a-Condition.sql) | Easy       | Database  |
-1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | [###](./Database/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql) | Easy       | Database  |
-1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [###](./Database/Bank-Account-Summary-II.sql) | Easy       | Database  |
-1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [###](./Database/Percentage-of-Users-Attended-a-Contest.sql) | Easy       | Database  |
-1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [###](./Database/Average-Time-of-Process-per-Machine.sql) | Easy       | Database  |
-1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [###](./Database/Fix-Names-in-a-Table.sql) | Easy       | Database  |
-1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [###](./Database/Invalid-Tweets.sql) | Easy       | Database  |
-1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [###](./Database/Daily-Leads-and-Partners.sql) | Easy       | Database  |
-1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | [###](./Database/Find-Followers-Count.sql) | Easy       | Database  |
-1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee) | [###](./Database/The-Number-of-Employees-Which-Report-to-Each-Employee.sql) | Easy       | Database  |
-1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | [###](./Database/Find-Total-Time-Spent-by-Each-Employee.sql) | Easy       | Database  |
-1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [###](./Database/Recyclable-and-Low-Fat-Products.sql) | Easy       | Database  |
-1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee) | [###](./Database/Primary-Department-for-Each-Employee.sql) | Easy       | Database  |
-1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | [###](./Database/Rearrange-Products-Table.sql) | Easy       | Database  |
-1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | [###](./Database/Calculate-Special-Bonus.sql) | Easy       | Database  |
-1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [###](./Database/The-Latest-Login-in-2020.sql) | Easy       | Database  |
-1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [###](./Database/Count-Salary-Categories.sql) | Medium     | Database  |
-1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | [###](./Database/Confirmation-Rate.sql) | Medium     | Database  |
-1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | [###](./Database/Employees-With-Missing-Information.sql) | Easy       | Database  |
-1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company) | [###](./Database/Employees-Whose-Manager-Left-the-Company.sql) | Easy       | Database  |
-2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql) | Easy       | Database  |
+1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)                                                                 | [###](./Database/Product-Sales-Analysis-I.sql)                                 | Easy       | Database  |
+1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)                                                             | [###](./Database/Product-Sales-Analysis-III.sql)                               | Medium       | Database  |
+1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i)                                                                           | [###](./Database/Project-Employees-I.sql)                                      | Easy       | Database  |
+1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                             | [###](./Database/Sales-Analysis-III.sql)                                       | Easy       | Database  |
+1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)                                         | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql)                     | Easy       | Database  |
+1148 | [Article Views I](https://leetcode.com/problems/article-views-i)                                                                                   | [###](./Database/Article-Views-I.sql)                                          | Easy       | Database  |
+1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i)                                                                               | [###](./Database/Market-Analysis-I.sql)                                        | Medium     | Database  |
+1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date)                                                       | [###](./Database/Product-Price-at-a-Given-Date.sql)                            | Medium     | Database  |
+1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)                                                             | [###](./Database/Immediate-Food-Delivery-II.sql)                               | Medium     | Database  |
+1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                               | [###](./Database/Reformat-Department-Table.sql)                                | Easy       | Database  |
+1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)                                                                     | [###](./Database/Monthly-Transactions-I.sql)                                   | Medium     | Database  |
+1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus)                                                       | [###](./Database/Last-Person-to-Fit-in-the-Bus.sql)                            | Medium     | Database  |
+1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)                                                     | [###](./Database/Queries-Quality-and-Percentage.sql)                           | Easy       | Database  |
+1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price)                                                                       | [###](./Database/Average-Selling-Price.sql)                                    | Easy       | Database  |
+1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations)                                                               | [###](./Database/Students-and-Examinations.sql)                                | Easy       | Database  |
+1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth)                                                                               | [###](./Database/Restaurant-Growth.sql)                                        | Medium     | Database  |
+1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period)                                       | [###](./Database/List-the-Products-Ordered-in-a-Period.sql)                    | Easy       | Database  |
+1341 | [Movie Rating](https://leetcode.com/problems/movie-rating)                                                                                         | [###](./Database/Movie-Rating.sql)                                             | Medium     | Database  |
+1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)                     | [###](./Database/Replace-Employee-ID-With-The-Unique-Identifier.sql)           | Easy       | Database  |
+1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss)                                                                                | [###](./Database/Capital-Gain-Loss.sql)                                        | Medium     | Database  |
+1407 | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                     | [###](./Database/Top-Travellers.sql)                                           | Easy       | Database  |
+1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date)                                                   | [###](./Database/Group-Sold-Products-By-The-Date.sql)                          | Easy       | Database  |
+1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails)                                                       | [###](./Database/Find-Users-With-Valid-E-Mails.sql)                            | Easy       | Database  |
+1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                               | [###](./Database/Patients-With-a-Condition.sql)                                | Easy       | Database  |
+1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)     | [###](./Database/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql)   | Easy       | Database  |
+1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)                                                                   | [###](./Database/Bank-Account-Summary-II.sql)                                  | Easy       | Database  |
+1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest)                                     | [###](./Database/Percentage-of-Users-Attended-a-Contest.sql)                   | Easy       | Database  |
+1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)                                           | [###](./Database/Average-Time-of-Process-per-Machine.sql)                      | Easy       | Database  |
+1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                         | [###](./Database/Fix-Names-in-a-Table.sql)                                     | Easy       | Database  |
+1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)                                                                                     | [###](./Database/Invalid-Tweets.sql)                                           | Easy       | Database  |
+1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners)                                                                 | [###](./Database/Daily-Leads-and-Partners.sql)                                 | Easy       | Database  |
+1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count)                                                                         | [###](./Database/Find-Followers-Count.sql)                                     | Easy       | Database  |
+1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)       | [###](./Database/The-Number-of-Employees-Which-Report-to-Each-Employee.sql)    | Easy       | Database  |
+1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee)                                     | [###](./Database/Find-Total-Time-Spent-by-Each-Employee.sql)                   | Easy       | Database  |
+1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products)                                                   | [###](./Database/Recyclable-and-Low-Fat-Products.sql)                          | Easy       | Database  |
+1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee)                                         | [###](./Database/Primary-Department-for-Each-Employee.sql)                     | Easy       | Database  |
+1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table)                                                                 | [###](./Database/Rearrange-Products-Table.sql)                                 | Easy       | Database  |
+1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus)                                                                   | [###](./Database/Calculate-Special-Bonus.sql)                                  | Easy       | Database  |
+1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020)                                                                 | [###](./Database/The-Latest-Login-in-2020.sql)                                 | Easy       | Database  |
+1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories)                                                                   | [###](./Database/Count-Salary-Categories.sql)                                  | Medium     | Database  |
+1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)                                                                               | [###](./Database/Confirmation-Rate.sql)                                        | Medium     | Database  |
+1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information)                                             | [###](./Database/Employees-With-Missing-Information.sql)                       | Easy       | Database  |
+1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)                                 | [###](./Database/Employees-Whose-Manager-Left-the-Company.sql)                 | Easy       | Database  |
+2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)                 | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)         | Easy       | Database  |
+3220 | [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions)                                                               | [###](./Database/Odd-and-Even-Transactions.sql)                                | Medium     | Database  |
