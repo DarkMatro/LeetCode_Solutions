@@ -1,8 +1,9 @@
 # LeetCode Solutions
-Solved free problems from leetcode. Python
+Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-245%20%2F%202575-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-248%20%2F%202575-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Algorithms
 * [String (74/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
@@ -13,7 +14,6 @@ Solved free problems from leetcode. Python
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
 * [Two Pointers (14/191)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Tree (5/224)](https://github.com/DarkMatro/LeetCode_Solutions#tree)
-* [Database (75/247)](https://github.com/DarkMatro/LeetCode_Solutions#database)
 * [Dynamic Programming (3/499)](https://github.com/DarkMatro/LeetCode_Solutions#dynamic-programming)
 * [Simulation (6/147)](https://github.com/DarkMatro/LeetCode_Solutions#simulation)
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
@@ -262,17 +262,20 @@ Solved free problems from leetcode. Python
 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                                 | [###](./Database/Duplicate-Emails.sql)                                         | Easy       | Database  |
 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                               | [###](./Database/Customers-Who-Never-Order.sql)                                | Easy       | Database  |
 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                               | [###](./Database/Department-Highest-Salary.sql)                                | Medium     | Database  |
+0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)                                                               | [###](./Database/Department-Top-Three-Salaries.sql)                                | Hard       | Database  |
 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)                                                                   | [###](./Database/Delete-Duplicate-Emails.sql)                                  | Easy       | Database  |
 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature)                                                                             | [###](./Database/Rising-Temperature.sql)                                       | Easy       | Database  |
+0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                             | [###](./Database/Trips-and-Users.sql)                                       | Hard       | Database  |
 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)                                                                         | [###](./Database/Game-Play-Analysis-I.sql)                                     | Easy       | Database  |
-0550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)                                                                       | [###](./Database/Game-Play-Analysis-IV.sql)                                    | Medium       | Database  |
-0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)                                   | [###](./Database/Managers-with-at-Least-5-Direct-Reports.sql)                  | Medium       | Database  |
+0550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)                                                                       | [###](./Database/Game-Play-Analysis-IV.sql)                                    | Medium     | Database  |
+0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)                                   | [###](./Database/Managers-with-at-Least-5-Direct-Reports.sql)                  | Medium     | Database  |
 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus)                                                                                     | [###](./Database/Employee-Bonus.sql)                                           | Easy       | Database  |
 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                                                                       | [###](./Database/Find-Customer-Referee.sql)                                    | Easy       | Database  |
-0585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016)                                                                           | [###](./Database/Investments-in-2016.sql)                                      | Medium       | Database  |
+0585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016)                                                                           | [###](./Database/Investments-in-2016.sql)                                      | Medium     | Database  |
 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)                       | [###](./Database/Customer-Placing-the-Largest-Number-of-Orders.sql)            | Easy       | Database  |
 0595 | [Big Countries](https://leetcode.com/problems/big-countries)                                                                                       | [###](./Database/Big-Countries.sql)                                            | Easy       | Database  |
 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)                                                         | [###](./Database/Classes-More-Than-5-Students.sql)                             | Easy       | Database  |
+0601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium)                                                         | [###](./Database/Human-Traffic-of-Stadium.sql)                             | Hard       | Database  |
 0602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)                          | [###](./Database/Friend-Requests-II-Who-Has-the-Most-Friends.sql)              | Medium     | Database  |
 0607 | [Sales Person](https://leetcode.com/problems/sales-person)                                                                                         | [###](./Database/Sales-Person.sql)                                             | Easy       | Database  |
 0608 | [Tree Node](https://leetcode.com/problems/tree-node)                                                                                               | [###](./Database/Tree-Node.sql)                                                | Medium     | Database  |
@@ -284,7 +287,7 @@ Solved free problems from leetcode. Python
 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)                                               | [###](./Database/Customers-Who-Bought-All-Products.sql)                        | Medium     | Database  |
 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [###](./Database/Actors-and-Directors-Who-Cooperated-At-Least-Three-Times.sql) | Easy       | Database  |
 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)                                                                 | [###](./Database/Product-Sales-Analysis-I.sql)                                 | Easy       | Database  |
-1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)                                                             | [###](./Database/Product-Sales-Analysis-III.sql)                               | Medium       | Database  |
+1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)                                                             | [###](./Database/Product-Sales-Analysis-III.sql)                               | Medium     | Database  |
 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i)                                                                           | [###](./Database/Project-Employees-I.sql)                                      | Easy       | Database  |
 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                             | [###](./Database/Sales-Analysis-III.sql)                                       | Easy       | Database  |
 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)                                         | [###](./Database/User-Activity-for-the-Past-30-Days-I.sql)                     | Easy       | Database  |
