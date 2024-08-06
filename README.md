@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-251%20%2F%202575-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-254%20%2F%202575-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Algorithms
-* [String (77/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (80/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -82,6 +82,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [###](./String/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                   |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [###](./String/Valid-Anagram.py)      | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting            |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [###](./String/Remove-Duplicate-Letters.py)     | O(N)     | O(k)   | Medium     | String, Stack, Greedy, Monotonic Stack |
+0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | [###](./String/Number-of-Segments-in-a-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | [###](./String/License-Key-Formatting.py)      | O(N)     | O(N)   | Easy       | String                                 |
 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [###](./String/Detect-Capital.py)      | O(1)     | O(1)   | Easy       | String                                 |
 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [###](./String/Longest-Uncommon-Subsequence-I.py)      | O(1)     | O(N)   | Easy       | String                                 |
@@ -114,6 +115,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [###](./String/Replace-All-Digits-with-Characters.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | [###](./String/Longer-Contiguous-Segments-of-Ones-than-Zeros.py) | O(N)     | O(1)   | Easy       | String                                 |
 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | [###](./String/Check-if-Word-Equals-Summation-of-Two-Words.py)      | O(N)     | O(1)   | Easy       | String                                 |
+1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [###](./String/Remove-All-Occurrences-of-a-Substring.py)      | O(N)     | O(1)   | Medium     | String                                 |
 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [###](./String/Delete-Characters-to-Make-Fancy-String.py)      | O(N)     | O(1)   | Easy       | String                                 |
 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [###](./String/Number-of-Strings-That-Appear-as-Substrings-in-Word.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)           | [###](String/Final-Value-of-Variable-After-Performing-Operations.py)     | O(N)     | O(1)   | Easy       | Array, String, Simulation              |
@@ -129,6 +131,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | [###](./String/Strong-Password-Checker-II.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [###](./String/Count-Asterisks.py)      | O(N)     | O(1)   | Easy       | String                                 |
 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | [###](./String/Determine-if-Two-Events-Have-Conflict.py)     | O(1)     | O(N)   | Easy       | Array, String                          |
+2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary) | [###](./String/Words-Within-Two-Edits-of-Dictionary.py)      | O(Len(Queries)∗Len(Dictionary)∗Len(Q))     | O(1)   | Medium     | String                                 |
 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence) | [###](./String/Circular-Sentence.py)     | O(N)     | O(N)   | Easy       | String                                 |
 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/core-of-a-string) | [###](./Maximum-Value-of-a-String-in-an-Array.py)      | O(N)     | O(1)   | Easy       | Array, String                          |
 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) | [###](./String/Shortest-Distance-to-Target-String-in-a-Circular-Array.py)     | O(N)     | O(1)   | Easy       | Array, String                          |
