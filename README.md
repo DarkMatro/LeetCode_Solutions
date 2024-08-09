@@ -1,12 +1,12 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-260%20%2F%202575-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-263%20%2F%202575-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Algorithms
-* [String (86/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
+* [String (89/704)](https://github.com/DarkMatro/LeetCode_Solutions#string)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Math (14/479)](https://github.com/DarkMatro/LeetCode_Solutions#math)
@@ -76,9 +76,10 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 ## String
 |  #  | Title                                                                                                                                                  | Solution                                 | Time          | Memory | Difficulty | Tag                                    |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------|--------|------------|----------------------------------------|
+0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                                           | [###](./String/Zigzag-Conversion.py) | O(N)      | O(N)   | Medium     | String                                 |
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                                                                           | [###](./String/Longest-Common-Prefix.py) | O(NlogN)      | O(1)   | Easy       | String, Trie                           |
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                   | [###](./String/Valid-Parentheses.py)     | O(N)          | O(N)   | Easy       | String, Stack                          |
-0038 | [Count and Say](https://leetcode.com/problems/count-and-say)                                                                                   | [###](./String/Count-and-Say.py)     | O(N * 2^N)    | O(N)   | Medium     | String                         |
+0038 | [Count and Say](https://leetcode.com/problems/count-and-say)                                                                                   | [###](./String/Count-and-Say.py)     | O(N * 2^N)    | O(N)   | Medium     | String                                 |
 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                                               | [###](./String/Length-of-Last-Word.py)     | O(N)          | O(1)   | Easy       | String                                 |
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                                     | [###](./String/Valid-Palindrome.py)      | O(N)          | O(N)   | Easy       | Two Pointers, String                   |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                           | [###](./String/Valid-Anagram.py)      | O(N)          | O(N)   | Easy       | Hash Table, String, Sorting            |
@@ -89,12 +90,13 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)                                                         | [###](./String/Longest-Uncommon-Subsequence-I.py)      | O(1)          | O(N)   | Easy       | String                                 |
 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)                                                               | [###](./String/Student-Attendance-Record-I.py)      | O(N)          | O(1)   | Easy       | String                                 |
 0709 | [To Lower Case](https://leetcode.com/problems/remove-duplicate-letters)                                                                                | [###](./String/to-lower-case.py)     | O(N)          | O(1)   | Easy       | String                                 |
+0722 | [Remove Comments](https://leetcode.com/problems/remove-comments)                                                                                | [###](./String/Remove-Comments.py)     | O(N)          | O(N)   | Medium     | Array, String                          |
 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)                                                       | [###](./String/Number-of-Lines-To-Write-String.py) | O(N)          | O(1)   | Easy       | Array, String                          |
 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin)                                                                                                 | [###](./String/Goat-Latin.py) | O(N)          | O(1)   | Easy       | String                                 |
 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups)                                                                   | [###](./String/Positions-of-Large-Groups.py) | O(N)          | O(1)   | Easy       | String                                 |
 0831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information)                                                                   | [###](./String/Masking-Personal-Information.py) | O(N)          | O(1)   | Medium     | String                                 |
 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)                                                           | [###](./String/Delete-Columns-to-Make-Sorted.py)     | O(N * M)      | O(1)   | Easy       | Array, String                          |
-1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)                                                           | [###](./String/Binary-String-With-Substrings-Representing-1-To-N.py)     | O(NlogN)      | O(1)   | Medium     | String                          |
+1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)                                                           | [###](./String/Binary-String-With-Substrings-Representing-1-To-N.py)     | O(NlogN)      | O(1)   | Medium     | String                                 |
 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram)                                                                     | [###](./String/Occurrences-After-Bigram.py) | O(N)          | O(1)   | Easy       | String                                 |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)                                                                       | [###](./String/Defanging-an-IP-Address.py)      | O(N)          | O(1)   | Easy       | String                                 |
 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)                       | [###](./String/Decrypt-String-from-Alphabet-to-Integer-Mapping.py)     | O(N)          | O(1)   | Easy       | String                                 |
@@ -153,6 +155,8 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 3110 | [Score of a String](https://leetcode.com/problems/core-of-a-string)                                                                                    | [###](./String/Score-of-a-String.py)      | O(N)          | O(1)   | Easy       | String                                 |
 3136 | [Valid Word](https://leetcode.com/problems/valid-word)                                                                                                 | [###](./String/Valid-Word.py)      | O(N)          | O(1)   | Easy       | String                                 |
 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii)                                                                                                 | [###](./String/String-Compression-III.py)      | O(N)          | O(1)   | Medium     | String                                 |
+3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string)                                                                                                 | [###](./String/Find-the-Encrypted-String.py)      | O(1)          | O(1)   | Easy       | String                                 |
+
 
 ## Hash Table
 |  #  | Title                                    | Solution                       |  Time        | Memory | Difficulty    | Tag          |
