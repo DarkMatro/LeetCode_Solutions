@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-287%20%2F%203252-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-290%20%2F%203252-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-76%20%2F%2076-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (34/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (37/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -172,6 +172,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)            | O(k)   | Easy | Hash Table, Math, Two Pointers             |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)            | O(1)   | Easy | Math, Recursion                            |
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [###](./Math/Fizz-Buzz.py) | O(N)            | O(1)   | Easy | Math, String, Simulation                   |
+0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [###](./Math/Construct-the-Rectangle.py) | O(sqrt(N))      | O(1)   | Easy | Math                  |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy | Math                                       |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [###](./Math/Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py) | O(1)            | O(1)   | Easy | Math                                       |
@@ -179,13 +180,15 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [###](./Math/Number-of-Steps-to-Reduce-a-Number-to-Zero.py) | O(logN)         | O(1)   | Easy | Math, Bit Manipulation                     |
 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [###](./Math/Calculate-Money-in-Leetcode-Bank.py) | O(1)            | O(1)   | Easy | Math                                       |
 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [###](./Math/Determine-Color-of-a-Chessboard-Square.py) | O(1)            | O(1)   | Easy | Math, String                               |
+1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | [###](./Math/Sign-of-the-Product-of-an-Array.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [###](./Math/Sum-of-Digits-in-Base-K.py) | O(1)            | O(1)   | Easy | Math                                       |
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [###](./Math/A-Number-After-a-Double-Reversal.py) | O(1)            | O(1)   | Easy | Math                                       |
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [###](./Math/Add-Two-Integers.py) | O(1)            | O(1)   | Easy | Math                                       |
+2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | [###](./Math/Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [###](./Math/Convert-the-Temperature.py) | O(1)            | O(1)   | Easy | Math                                       |
 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | [###](./Math/Count-the-Digits-That-Divide-a-Number.py) | O(D)            | O(1)   | Easy | Math                                       |
 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)            | O(1)   | Easy | Array, Math                                |
-2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | [###](./Math/Alternating-Digit-Sum.py) | O(N)            | O(N)   | Easy | Math                                |
+2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | [###](./Math/Alternating-Digit-Sum.py) | O(N)            | O(N)   | Easy | Math                                       |
 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [###](./Math/Calculate-Delayed-Arrival-Time.py) | O(1)            | O(1)   | Easy | Math                                       |
 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [###](./Math/Sum-Multiples.py) | O(N)            | O(1)   | Easy | Math                                       |
 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [###](./Math/Find-the-Maximum-Achievable-Number.py) | O(1)            | O(1)   | Easy | Math                                       |
