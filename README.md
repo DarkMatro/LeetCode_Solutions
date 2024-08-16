@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-290%20%2F%203252-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-293%20%2F%203252-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-76%20%2F%2076-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (37/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (40/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -172,9 +172,12 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)            | O(k)   | Easy | Hash Table, Math, Two Pointers             |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)            | O(1)   | Easy | Math, Recursion                            |
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [###](./Math/Fizz-Buzz.py) | O(N)            | O(1)   | Easy | Math, String, Simulation                   |
-0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [###](./Math/Construct-the-Rectangle.py) | O(sqrt(N))      | O(1)   | Easy | Math                  |
+0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [###](./Math/Construct-the-Rectangle.py) | O(sqrt(N))      | O(1)   | Easy | Math                                       |
+0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [###](./Math/Range-Addition-II.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy | Math                                       |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy | Array, Math                                |
+1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | [###](./Math/Prime-Arrangements.py) | O(Nsqrt(N))     | O(1)   | Easy | Math                                       |
+1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | [###](./Math/Day-of-the-Week.py) | O(1)            | O(1)   | Easy | Math                                       |
 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [###](./Math/Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py) | O(1)            | O(1)   | Easy | Math                                       |
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [###](./Math/Find-N-Unique-Integers-Sum-up-to-Zero.py) | O(1)            | O(1)   | Easy | Math                                       |
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [###](./Math/Number-of-Steps-to-Reduce-a-Number-to-Zero.py) | O(logN)         | O(1)   | Easy | Math, Bit Manipulation                     |
