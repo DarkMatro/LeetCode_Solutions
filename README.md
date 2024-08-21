@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-303%20%2F%203262-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-306%20%2F%203262-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-76%20%2F%2076-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (50/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (53/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -168,6 +168,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [###](./Math/Add-Binary.py) | O(1)            | O(1)   | Easy | Math, String, Bit Manipulation, Simulation |
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [###](./Math/Sqrt(x).py)           | O(logN)         | O(1)   | Easy | Math, Binary Search                        |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)            | O(1)   | Easy | Math, Dynamic Programming, Memoization     |
+0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [###](./Math/Excel-Sheet-Column-Title.py) | O(logN)         | O(1)   | Easy | Math, String                               |
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)            | O(1)   | Easy | Math, String                               |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)            | O(k)   | Easy | Hash Table, Math, Two Pointers             |
 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | [###](./Math/Ugly-Number.py) | O(logN)         | O(1)   | Easy | Math                                       |
@@ -175,6 +176,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [###](./Math/Fizz-Buzz.py) | O(N)            | O(1)   | Easy | Math, String, Simulation                   |
 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [###](./Math/Construct-the-Rectangle.py) | O(sqrt(N))      | O(1)   | Easy | Math                                       |
 0504 | [Base 7](https://leetcode.com/problems/base-7) | [###](./Math/Base-7.py) | O(1)            | O(1)   | Easy | Math                                       |
+0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [###](./Math/Perfect-Number.py) | O(sqrt(num))    | O(1)   | Easy | Math                                       |
 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [###](./Math/Range-Addition-II.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy | Math                                       |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy | Array, Math                                |
@@ -199,6 +201,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | [###](./Math/Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [###](./Math/Convert-the-Temperature.py) | O(1)            | O(1)   | Easy | Math                                       |
 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | [###](./Math/Count-the-Digits-That-Divide-a-Number.py) | O(D)            | O(1)   | Easy | Math                                       |
+2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria) | [###](./Math/Categorize-Box-According-to-Criteria.py) | O(1)            | O(1)   | Easy | Math                                       |
 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | [###](./Math/Alternating-Digit-Sum.py) | O(N)            | O(N)   | Easy | Math                                       |
 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [###](./Math/Calculate-Delayed-Arrival-Time.py) | O(1)            | O(1)   | Easy | Math                                       |
