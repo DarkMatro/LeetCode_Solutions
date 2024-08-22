@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-306%20%2F%203262-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-309%20%2F%203263-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-76%20%2F%2076-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (53/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (56/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -191,12 +191,15 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [###](./Math/Number-of-Steps-to-Reduce-a-Number-to-Zero.py) | O(logN)         | O(1)   | Easy | Math, Bit Manipulation                     |
 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | [###](./Math/Number-of-Days-Between-Two-Dates.py) | O(1)            | O(1)   | Easy | Math, String                               |
 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [###](./Math/Count-Odd-Numbers-in-an-Interval-Range.py) | O(1)            | O(1)   | Easy | Math                                       |
+1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [###](./Math/Minimum-Operations-to-Make-Array-Equal.py) | O(1)            | O(1)   | Easy | Math                                       |
 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [###](./Math/Calculate-Money-in-Leetcode-Bank.py) | O(1)            | O(1)   | Easy | Math                                       |
+1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [###](./Math/Check-if-Number-is-a-Sum-of-Powers-of-Three.py) | O(logN)         | O(1)   | Easy | Math                                       |
 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [###](./Math/Determine-Color-of-a-Chessboard-Square.py) | O(1)            | O(1)   | Easy | Math, String                               |
 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | [###](./Math/Sign-of-the-Product-of-an-Array.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [###](./Math/Sum-of-Digits-in-Base-K.py) | O(1)            | O(1)   | Easy | Math                                       |
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [###](./Math/A-Number-After-a-Double-Reversal.py) | O(1)            | O(1)   | Easy | Math                                       |
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [###](./Math/Add-Two-Integers.py) | O(1)            | O(1)   | Easy | Math                                       |
+2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [###](./Math/Number-of-Zero-Filled-Subarrays.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | [###](./Math/Count-Days-Spent-Together.py) | O(1)            | O(1)   | Easy | Math, String                               |
 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | [###](./Math/Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [###](./Math/Convert-the-Temperature.py) | O(1)            | O(1)   | Easy | Math                                       |
