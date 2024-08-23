@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-309%20%2F%203263-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-312%20%2F%203263-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-49%20%2F%2049-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-76%20%2F%2076-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%2078-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (56/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (59/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -179,6 +179,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [###](./Math/Perfect-Number.py) | O(sqrt(num))    | O(1)   | Easy | Math                                       |
 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [###](./Math/Range-Addition-II.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy | Math                                       |
+0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts) | [###](./Math/Escape-The-Ghosts.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [###](./Math/Add-to-Array-Form-of-Integer.py) | O(N)            | O(1)   | Easy | Array, Math                                |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [###](./Math/Greatest-Common-Divisor-of-Strings.py) | O(1)            | O(1)   | Easy | Math, String                               |
@@ -189,7 +190,9 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [###](./Math/Find-N-Unique-Integers-Sum-up-to-Zero.py) | O(1)            | O(1)   | Easy | Math                                       |
 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [###](./Math/Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.py) | O(N)            | O(1)   | Easy | Math                                       |
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [###](./Math/Number-of-Steps-to-Reduce-a-Number-to-Zero.py) | O(logN)         | O(1)   | Easy | Math, Bit Manipulation                     |
+1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | [###](./Math/Angle-Between-Hands-of-a-Clock.py) | O(1)            | O(1)   | Easy | Math                                       |
 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | [###](./Math/Number-of-Days-Between-Two-Dates.py) | O(1)            | O(1)   | Easy | Math, String                               |
+1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors) | [###](./Math/Closest-Divisors.py) | O(logN)         | O(1)   | Easy | Math                               |
 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [###](./Math/Count-Odd-Numbers-in-an-Interval-Range.py) | O(1)            | O(1)   | Easy | Math                                       |
 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [###](./Math/Minimum-Operations-to-Make-Array-Equal.py) | O(1)            | O(1)   | Easy | Math                                       |
 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [###](./Math/Calculate-Money-in-Leetcode-Bank.py) | O(1)            | O(1)   | Easy | Math                                       |
