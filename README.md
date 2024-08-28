@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-325%20%2F%203267-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-113%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-328%20%2F%203269-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-116%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-103%20%2F%20716-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20280-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Algorithms
-* [Math (72/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (75/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -170,7 +170,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [###](./Math/Climbing-Stairs.py) | O(N)            | O(1)   | Easy       | Math, Dynamic Programming, Memoization     |
 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [###](./Math/Excel-Sheet-Column-Title.py) | O(logN)         | O(1)   | Easy       | Math, String                               |
 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [###](./Math/Excel-Sheet-Column-Number.py) | O(N)            | O(1)   | Easy       | Math, String                               |
-0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [###](./Math/Factorial-Trailing-Zeroes.py) | O(logN)         | O(1)   | Medium     | Math                               |
+0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [###](./Math/Factorial-Trailing-Zeroes.py) | O(logN)         | O(1)   | Medium     | Math                                       |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](./Math/Happy-Number.py) | O(k)            | O(k)   | Easy       | Hash Table, Math, Two Pointers             |
 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | [###](./Math/Ugly-Number.py) | O(logN)         | O(1)   | Easy       | Math                                       |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](./Math/Power-of-Three.py) | O(1)            | O(1)   | Easy       | Math, Recursion                            |
@@ -183,6 +183,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [###](./Math/Range-Addition-II.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [###](./Math/Beautiful-Arrangement-II.py) | O(N)            | O(N)   | Medium     | Array, Math                                |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy       | Math                                       |
+0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | [###](./Math/Global-and-Local-Inversions.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts) | [###](./Math/Escape-The-Ghosts.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [###](./Math/Add-to-Array-Form-of-Integer.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
@@ -200,6 +201,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | [###](./Math/Angle-Between-Hands-of-a-Clock.py) | O(1)            | O(1)   | Medium     | Math                                       |
 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | [###](./Math/Number-of-Days-Between-Two-Dates.py) | O(1)            | O(1)   | Easy       | Math, String                               |
 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors) | [###](./Math/Closest-Divisors.py) | O(logN)         | O(1)   | Medium     | Math                                       |
+1390 | [Four Divisors](https://leetcode.com/problems/four-divisors) | [###](./Math/Four-Divisors.py) | O(Nsqrt(N))     | O(N)   | Medium     | Array, Math                                |
 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s) | [###](./Math/Number-of-Substrings-With-Only-1s.py) | O(N)            | O(1)   | Medium     | Math, String                               |
 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [###](./Math/Count-Odd-Numbers-in-an-Interval-Range.py) | O(1)            | O(1)   | Easy       | Math                                       |
 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal) | [###](./Math/Minimum-Operations-to-Make-Array-Equal.py) | O(1)            | O(1)   | Medium     | Math                                       |
@@ -209,8 +211,9 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [###](./Math/Determine-Color-of-a-Chessboard-Square.py) | O(1)            | O(1)   | Easy       | Math, String                               |
 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | [###](./Math/Sign-of-the-Product-of-an-Array.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [###](./Math/Sum-of-Digits-in-Base-K.py) | O(1)            | O(1)   | Easy       | Math                                       |
-1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) | [###](./Math/The-Number-of-Full-Rounds-You-Have-Played.py) | O(1)            | O(1)   | Medium     | Math, String                                       |
+1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played) | [###](./Math/The-Number-of-Full-Rounds-You-Have-Played.py) | O(1)            | O(1)   | Medium     | Math, String                               |
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [###](./Math/A-Number-After-a-Double-Reversal.py) | O(1)            | O(1)   | Easy       | Math                                       |
+2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length) | [###](./Math/Find-Palindrome-With-Fixed-Length.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [###](./Math/Add-Two-Integers.py) | O(1)            | O(1)   | Easy       | Math                                       |
 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [###](./Math/Number-of-Zero-Filled-Subarrays.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | [###](./Math/Count-Days-Spent-Together.py) | O(1)            | O(1)   | Easy       | Math, String                               |
