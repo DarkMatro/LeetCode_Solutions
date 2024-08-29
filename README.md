@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-328%20%2F%203269-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-116%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-329%20%2F%203269-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-117%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-103%20%2F%20716-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20280-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
-## Algorithms
-* [Math (75/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+## Tags
+* [Math (76/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -189,6 +189,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [###](./Math/Add-to-Array-Form-of-Integer.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | [###](./Math/Convert-to-Base--2.py) | O(1)            | O(1)   | Medium     | Math                                       |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [###](./Math/Greatest-Common-Divisor-of-Strings.py) | O(1)            | O(1)   | Easy       | Math, String                               |
+1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers) | [###](./Math/Adding-Two-Negabinary-Numbers.py) | O(N)            | O(N)   | Medium     | Array, Math                        |
 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | [###](./Math/Maximum-of-Absolute-Value-Expression.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | [###](./Math/Day-of-the-Year.py) | O(1)            | O(1)   | Easy       | Math, String                               |
 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | [###](./Math/Prime-Arrangements.py) | O(Nsqrt(N))     | O(1)   | Easy       | Math                                       |
