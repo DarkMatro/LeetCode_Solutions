@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-329%20%2F%203269-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-330%20%2F%203278-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-117%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-103%20%2F%20716-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20280-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Math (76/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (78/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -163,6 +163,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 ## Math
 |  #  | Title           | Solution                           | Time            | Memory | Difficulty | Tag                                        |
 |-----|---------------- |------------------------------------|-----------------|--------|------------|--------------------------------------------|
+0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [###](./Math/Reverse-Integer.py) | O(logX)         | O(1)   | Medium     | Math                                       |
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [###](./Math/Palindrome-Number.py) | O(1)            | O(1)   | Easy       | Math                                       |
 0066 | [Plus One](https://leetcode.com/problems/plus-one)                                                                                                 | [###](Math/Plus-One.py)                                                | O(N)            | O(N)   | Easy       | Array, Math                                |
 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [###](./Math/Add-Binary.py) | O(1)            | O(1)   | Easy       | Math, String, Bit Manipulation, Simulation |
