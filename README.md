@@ -1,14 +1,14 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-330%20%2F%203278-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-117%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-333%20%2F%203279-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-118%20%2F%201721-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-103%20%2F%20716-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20280-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Math (78/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
+* [Math (81/512)](https://github.com/DarkMatro/LeetCode_Solutions#math)
 * [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
@@ -185,8 +185,10 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | [###](./Math/Beautiful-Arrangement-II.py) | O(N)            | O(N)   | Medium     | Array, Math                                |
 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [###](./Math/Self-Dividing-Numbers.py) | O((R−L)∗Log(R)) | O(1)   | Easy       | Math                                       |
 0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions) | [###](./Math/Global-and-Local-Inversions.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
+0780 | [Reaching Points](https://leetcode.com/problems/reaching-points) | [###](./Math/Reaching-Points.py) | O(log(max(tx,ty)))            | O(1)   | Hard       | Math                                |
 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts) | [###](./Math/Escape-The-Ghosts.py) | O(N)            | O(1)   | Medium     | Array, Math                                |
 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [###](./Math/Smallest-Range-I.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
+0927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts) | [###](./Math/Three-Equal-Parts.py) | O(N)            | O(1)   | Hard       | Array, Math                                |
 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [###](./Math/Add-to-Array-Form-of-Integer.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | [###](./Math/Convert-to-Base--2.py) | O(1)            | O(1)   | Medium     | Math                                       |
 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [###](./Math/Greatest-Common-Divisor-of-Strings.py) | O(1)            | O(1)   | Easy       | Math, String                               |
@@ -230,6 +232,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [###](./Math/Sum-Multiples.py) | O(N)            | O(1)   | Easy       | Math                                       |
 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [###](./Math/Find-the-Maximum-Achievable-Number.py) | O(1)            | O(1)   | Easy       | Math                                       |
 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | [###](./Math/Account-Balance-After-Rounded-Purchase.py) | O(1)            | O(1)   | Easy       | Math                                       |
+2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time) | [###](./Math/Determine-if-a-Cell-Is-Reachable-at-a-Given-Time.py) | O(1)            | O(1)   | Medium     | Math                                       |
 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [###](./Math/Divisible-and-Non-divisible-Sums-Difference.py) | O(N)            | O(1)   | Easy       | Math                                       |
 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game) | [###](./Math/Alice-and-Bob-Playing-Flower-Game.py) | O(1)            | O(1)   | Medium     | Math                                       |
 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | [###](./Math/Find-the-Sum-of-Encrypted-Integers.py) | O(N)            | O(1)   | Easy       | Array, Math                                |
