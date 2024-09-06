@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-335%20%2F%203279-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-118%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-104%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-338%20%2F%203279-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-119%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-106%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-83%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (16/515)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (19/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -24,6 +24,8 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 * [Sorting (9/410)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Memoization (1/38)](https://github.com/DarkMatro/LeetCode_Solutions#memoization)
 * [Recursion (4/45)](https://github.com/DarkMatro/LeetCode_Solutions#recursion)
+* [Counting (5/144)](https://github.com/DarkMatro/LeetCode_Solutions#counting)
+* [Enumeration (1/93)](https://github.com/DarkMatro/LeetCode_Solutions#enumeration)
 
 
 ## Array
@@ -240,20 +242,13 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 
 
 ## Hash Table
-|  #  | Title                                    | Solution                       |  Time        | Memory | Difficulty    | Tag          |
-|-----|------------------------------------------|--------------------------------| ------------ |--------| ------------- |--------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table                                               |
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N) | O(1)   | Easy | Hash Table, Math, String|
-0169 | [Majority Element](https://leetcode.com/problems/majority-element)                                                                                 | [###](Hash-Table/Majority-Element.py)                                         | O(N)     | O(1)   | Easy       | Array, Hash Table, Divide and Conquer, Sorting, Counting        |
-0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                             | [###](Hash-Table/Contains-Duplicate.py)                                       | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                      |
-0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                     | [###](Hash-Table/Missing-Number.py)                                           | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
-0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](Hash-Table/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting         |
-0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [###](./Hash-Table/Ransom-Note.py) | O(N) | O(1)   | Easy | Hash Table, String, Counting|
-0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](./Hash-Table/First-Unique-Character-in-a-String.py) | O(N) | O(N)   | Easy | Hash Table, String, Queue, Counting|
-0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](./Hash-Table/Find-the-Difference.py) | O(N) | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting|
-1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)         | [###](Hash-Table/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py)     | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting, Counting                            |
-1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                                                         | [###](Hash-Table/Number-of-Good-Pairs.py)                                     | O(N^2)   | O(1)   | Easy       | Array, Hash Table, Math, Counting                               |
-2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [###](./Hash-Table/Number-of-Arithmetic-Triplets.py) | O(N) | O(N)   | Easy | Array, Hash Table, Two Pointers, Enumeration|
+|  #  | Title                                    | Solution                       | Time     | Memory | Difficulty    | Tag                                                               |
+|-----|------------------------------------------|--------------------------------|----------|--------| ------------- |-------------------------------------------------------------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table                                                 |
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)     | O(1)   | Easy | Hash Table, Math, String                                          |
+0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [###](./Hash-Table/Jewels-and-Stones.py) | O(N + M) | O(N)   | Easy | Hash Table, String                                                |
+3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [###](./Hash-Table/Permutation-Difference-between-Two-Strings.py) | O(N)     | O(1)   | Easy | Hash Table, String                                                |
+3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)   | O(1)   | Easy | Array, Hash Table                                         |
 
 
 ## Binary Search
@@ -351,7 +346,11 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 ## Sorting
 |  #  | Title                                    | Solution                            | Time    | Memory | Difficulty    | Tag                  |
 |-----|------------------------------------------|-------------------------------------|---------|--------| ------------- |----------------------|
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                             | [###](Sorting/Contains-Duplicate.py)                                       | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                           | [###](Sorting/Valid-Anagram.py)      | O(N)          | O(N)   | Easy       | Hash Table, String, Sorting            |
+0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                     | [###](Sorting/Missing-Number.py)                                           | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](Sorting/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](Sorting/Find-the-Difference.py) | O(N)     | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting                     |
 
 ## Monotonic Stack
 |  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
@@ -367,6 +366,20 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 |  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
 |-----|------------------------------------------|-----------------------------------------|---------|--------| ------------- |----------------------|
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [###](Recursion/Power-of-Three.py) | O(1)               | O(1)   | Easy       | Math, Recursion                            |
+
+## Counting
+|  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
+|-----|------------------------------------------|-----------------------------------------|---------|--------| ------------- |----------------------|
+0169 | [Majority Element](https://leetcode.com/problems/majority-element)                                                                                 | [###](Counting/Majority-Element.py)                                         | O(N)     | O(1)   | Easy       | Array, Hash Table, Divide and Conquer, Sorting, Counting          |
+0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [###](Counting/Ransom-Note.py) | O(N)     | O(1)   | Easy | Hash Table, String, Counting                                      |
+0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [###](Counting/First-Unique-Character-in-a-String.py) | O(N)     | O(N)   | Easy | Hash Table, String, Queue, Counting                               |
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)         | [###](Counting/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py)     | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting, Counting                              |
+1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)                                                                         | [###](Counting/Number-of-Good-Pairs.py)                                     | O(N^2)   | O(1)   | Easy       | Array, Hash Table, Math, Counting                                 |
+
+## Enumeration
+|  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
+|-----|------------------------------------------|-----------------------------------------|---------|--------| ------------- |----------------------|
+2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [###](Enumeration/Number-of-Arithmetic-Triplets.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Enumeration                      |
 
 ## Database
 |  #  | Title                                                                                                                                              | Solution                                                                       | Difficulty | Tag       |
