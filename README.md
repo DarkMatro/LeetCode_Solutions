@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-338%20%2F%203279-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-119%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-106%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-341%20%2F%203279-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-120%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-108%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-83%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (19/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (22/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -247,6 +247,9 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table                                                 |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)     | O(1)   | Easy | Hash Table, Math, String                                          |
 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [###](./Hash-Table/Jewels-and-Stones.py) | O(N + M) | O(N)   | Easy | Hash Table, String                                                |
+1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [###](./Hash-Table/Check-if-the-Sentence-Is-Pangram.py) | O(N) | O(1)   | Easy | Hash Table, String                                                |
+2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | [###](./Hash-Table/Decode-the-Message.py) | O(N) | O(1)   | Easy | Hash Table, String                                                |
+2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [###](./Hash-Table/Find-Common-Elements-Between-Two-Arrays.py) | O(N) | O(N)   | Easy | Array, Hash Table                                                |
 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [###](./Hash-Table/Permutation-Difference-between-Two-Strings.py) | O(N)     | O(1)   | Easy | Hash Table, String                                                |
 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)   | O(1)   | Easy | Array, Hash Table                                         |
 
