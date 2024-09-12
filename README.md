@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-353%20%2F%203283-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-130%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-115%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-356%20%2F%203284-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-131%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-118%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-83%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (34/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (37/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -253,11 +253,14 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [###](./Hash-Table/Find-Common-Characters.py) | O(NM)    | O(N)   | Easy | Array, Hash Table, String       |
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [###](./Hash-Table/Unique-Number-of-Occurrences.py) | O(N)     | O(1)   | Easy | Array, Hash Table               |
 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [###](./Hash-Table/Destination-City.py) | O(N)     | O(N)   | Easy | Array, Hash Table, String       |
+1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)     | O(1)   | Easy | Hash Table, String       |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [###](./Hash-Table/Check-if-the-Sentence-Is-Pangram.py) | O(N)     | O(1)   | Easy | Hash Table, String              |
 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [###](./Hash-Table/Maximum-Number-of-Words-You-Can-Type.py) | O(N)     | O(N)   | Easy | Hash Table, String              |
+2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [###](./Hash-Table/Count-Vowel-Substrings-of-a-String.py) | O(N^2)   | O(1)   | Easy | Hash Table, String              |
 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [###](./Hash-Table/Rings-and-Rods.py) | O(N)     | O(1)   | Easy | Hash Table, String              |
 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [###](./Hash-Table/Find-the-Difference-of-Two-Arrays.py) | O(N)     | O(N)   | Easy | Array, Hash Table               |
 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | [###](./Hash-Table/Decode-the-Message.py) | O(N)     | O(1)   | Easy | Hash Table, String              |
+2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | [###](./Hash-Table/Check-Distances-Between-Same-Letters.py) | O(N)     | O(1)   | Easy | Array, Hash Table, String              |
 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [###](./Hash-Table/Find-the-Distinct-Difference-Array.py) | O(N)     | O(1)   | Easy | Array, Hash Table               |
 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | [###](./Hash-Table/Minimize-String-Length.py) | O(N)     | O(1)   | Easy | Hash Table, String              |
 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [###](./Hash-Table/Subarrays-Distinct-Element-Sum-of-Squares-I.py) | O(N^2)   | O(1)   | Easy | Array, Hash Table               |
