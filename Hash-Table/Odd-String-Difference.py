@@ -1,6 +1,5 @@
 from collections import Counter
 
-
 def oddString(words: list[str]) -> str:
     """
     ID: 2451
