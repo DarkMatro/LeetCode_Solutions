@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-373%20%2F%203299-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-376%20%2F%203308-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-143%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-126%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+[![String](https://img.shields.io/badge/String-129%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-86%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (54/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (57/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -246,6 +246,8 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 |-----|------------------------------------------|--------------------------------|----------|--------| ------------- |---------------------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table         |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)     | O(1)   | Easy | Hash Table, Math, String  |
+0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [###](./Hash-Table/Isomorphic-Strings.py) | O(N)     | O(1)   | Easy | Hash Table, String  |
+0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [###](./Hash-Table/Word-Pattern.py) | O(N)     | O(N)   | Easy | Hash Table, String  |
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [###](./Hash-Table/Find-All-Numbers-Disappeared-in-an-Array.py) | O(N)     | O(1)   | Easy | Array, Hash Table         |
 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [###](./Hash-Table/Keyboard-Row.py) | O(N)     | O(N)   | Easy | Array, Hash Table, String |
 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [###](./Hash-Table/Distribute-Candies.py) | O(1)     | O(1)   | Easy | Array, Hash Table         |
@@ -264,6 +266,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [###](./Hash-Table/Path-Crossing.py) | O(N)     | O(N)   | Easy | Hash Table, String        |
 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)     | O(1)   | Easy | Hash Table, String        |
 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [###](./Hash-Table/Check-Array-Formation-Through-Concatenation.py) | O(N)     | O(N)   | Easy | Array, Hash Table         |
+1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [###](./Hash-Table/Second-Largest-Digit-in-a-String.py) | O(N)     | O(N)   | Easy | Hash Table, String         |
 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [###](./Hash-Table/Check-if-the-Sentence-Is-Pangram.py) | O(N)     | O(1)   | Easy | Hash Table, String        |
 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [###](./Hash-Table/Maximum-Number-of-Words-You-Can-Type.py) | O(N)     | O(N)   | Easy | Hash Table, String        |
 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [###](./Hash-Table/Count-Vowel-Substrings-of-a-String.py) | O(N^2)   | O(1)   | Easy | Hash Table, String        |
