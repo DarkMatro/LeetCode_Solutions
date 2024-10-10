@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-390%20%2F%203313-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-154%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-136%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-391%20%2F%203313-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-155%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-137%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-88%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (71/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (72/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -264,6 +264,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [###](./Hash-Table/Unique-Morse-Code-Words.py) | O(NM)    | O(N)   | Easy       | Array, Hash Table, String |
 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [###](./Hash-Table/Buddy-Strings.py) | O(NM)    | O(N)   | Easy       | Hash Table, String        |
 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [###](./Hash-Table/Find-and-Replace-Pattern.py) | O(N)     | O(1)   | Medium     | Array, Hash Table, String |
+0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [###](./Hash-Table/Word-Subsets.py) | O(N + M) | O(N)   | Medium     | Array, Hash Table, String |
 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [###](./Hash-Table/Unique-Email-Addresses.py) | O(1)     | O(N)   | Easy       | Array, Hash Table, String |
 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [###](./Hash-Table/Verifying-an-Alien-Dictionary.py) | O(N*M)   | O(N)   | Easy       | Array, Hash Table, String |
 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [###](./Hash-Table/N-Repeated-Element-in-Size-2N-Array.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
