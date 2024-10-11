@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-392%20%2F%203313-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-155%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-138%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-394%20%2F%203313-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-156%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-140%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-88%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (73/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (75/623)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -242,67 +242,69 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 
 
 ## Hash Table
-|  #  | Title                                    | Solution                       | Time    | Memory | Difficulty | Tag                       |
-|-----|------------------------------------------|--------------------------------|---------|--------|------------|---------------------------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [###](./Hash-Table/Integer-to-Roman.py) | O(N)    | O(1)   | Medium     | Hash Table, Math, String  |
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)    | O(1)   | Easy       | Hash Table, Math, String  |
-0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [###](./Hash-Table/Isomorphic-Strings.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [###](./Hash-Table/Word-Pattern.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [###](./Hash-Table/Find-All-Duplicates-in-an-Array.py) | O(N)    | O(1)   | Medium     | Array, Hash Table         |
-0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [###](./Hash-Table/Number-of-Boomerangs.py) | O(N^2)  | O(N)   | Medium     | Array, Hash Table, Math   |
-0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [###](./Hash-Table/Find-All-Numbers-Disappeared-in-an-Array.py) | O(N)    | O(1)   | Easy       | Array, Hash Table         |
-0454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | [###](./Hash-Table/4Sum_II.py) | O(N^2)  | O(N)   | Medium     | Array, Hash Table         |
-0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [###](./Hash-Table/Keyboard-Row.py) | O(N)    | O(N)   | Easy       | Array, Hash Table, String |
-0554 | [Brick Wall](https://leetcode.com/problems/brick-wall) | [###](./Hash-Table/Brick-Wall.py) | O(NM)   | O(N)   | Medium     | Array, Hash Table |
-0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [###](./Hash-Table/Distribute-Candies.py) | O(1)    | O(1)   | Easy       | Array, Hash Table         |
-0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [###](./Hash-Table/Minimum-Index-Sum-of-Two-Lists.py) | O(N)    | O(N)   | Easy       | Array, Hash Table, String |
-0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [###](./Hash-Table/Find-Duplicate-File-in-System.py) | O(N)    | O(N)   | Medium     | Array, Hash Table, String |
-0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [###](./Hash-Table/Degree-of-an-Array.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [###](./Hash-Table/Shortest-Completing-Word.py) | O(NM)   | O(M)   | Easy       | Array, Hash Table, String |
+|  #  | Title                                    | Solution                       | Time     | Memory | Difficulty | Tag                       |
+|-----|------------------------------------------|--------------------------------|----------|--------|------------|---------------------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                   | [###](Hash-Table/Two-Sum.py)                                                  | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [###](./Hash-Table/Integer-to-Roman.py) | O(N)     | O(1)   | Medium     | Hash Table, Math, String  |
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)     | O(1)   | Easy       | Hash Table, Math, String  |
+0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [###](./Hash-Table/Isomorphic-Strings.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [###](./Hash-Table/Word-Pattern.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [###](./Hash-Table/Find-All-Duplicates-in-an-Array.py) | O(N)     | O(1)   | Medium     | Array, Hash Table         |
+0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [###](./Hash-Table/Number-of-Boomerangs.py) | O(N^2)   | O(N)   | Medium     | Array, Hash Table, Math   |
+0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [###](./Hash-Table/Find-All-Numbers-Disappeared-in-an-Array.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
+0454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | [###](./Hash-Table/4Sum_II.py) | O(N^2)   | O(N)   | Medium     | Array, Hash Table         |
+0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [###](./Hash-Table/Keyboard-Row.py) | O(N)     | O(N)   | Easy       | Array, Hash Table, String |
+0554 | [Brick Wall](https://leetcode.com/problems/brick-wall) | [###](./Hash-Table/Brick-Wall.py) | O(NM)    | O(N)   | Medium     | Array, Hash Table |
+0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [###](./Hash-Table/Distribute-Candies.py) | O(1)     | O(1)   | Easy       | Array, Hash Table         |
+0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [###](./Hash-Table/Minimum-Index-Sum-of-Two-Lists.py) | O(N)     | O(N)   | Easy       | Array, Hash Table, String |
+0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [###](./Hash-Table/Find-Duplicate-File-in-System.py) | O(N)     | O(N)   | Medium     | Array, Hash Table, String |
+0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [###](./Hash-Table/Degree-of-an-Array.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [###](./Hash-Table/Shortest-Completing-Word.py) | O(NM)    | O(M)   | Easy       | Array, Hash Table, String |
 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [###](./Hash-Table/Jewels-and-Stones.py) | O(N + M) | O(N)   | Easy       | Hash Table, String        |
-0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [###](./Hash-Table/Unique-Morse-Code-Words.py) | O(NM)   | O(N)   | Easy       | Array, Hash Table, String |
-0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [###](./Hash-Table/Buddy-Strings.py) | O(NM)   | O(N)   | Easy       | Hash Table, String        |
-0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [###](./Hash-Table/Find-and-Replace-Pattern.py) | O(N)    | O(1)   | Medium     | Array, Hash Table, String |
+0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [###](./Hash-Table/Unique-Morse-Code-Words.py) | O(NM)    | O(N)   | Easy       | Array, Hash Table, String |
+0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [###](./Hash-Table/Buddy-Strings.py) | O(NM)    | O(N)   | Easy       | Hash Table, String        |
+0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [###](./Hash-Table/Find-and-Replace-Pattern.py) | O(N)     | O(1)   | Medium     | Array, Hash Table, String |
 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [###](./Hash-Table/Word-Subsets.py) | O(N + M) | O(N)   | Medium     | Array, Hash Table, String |
-0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [###](./Hash-Table/Unique-Email-Addresses.py) | O(1)    | O(N)   | Easy       | Array, Hash Table, String |
-0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [###](./Hash-Table/Verifying-an-Alien-Dictionary.py) | O(N*M)  | O(N)   | Easy       | Array, Hash Table, String |
-0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [###](./Hash-Table/N-Repeated-Element-in-Size-2N-Array.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [###](./Hash-Table/Find-Common-Characters.py) | O(NM)   | O(N)   | Easy       | Array, Hash Table, String |
-1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | [###](./Hash-Table/Alphabet-Board-Path.py) | O(N)    | O(N)   | Medium     | Hash Table, String |
-1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [###](./Hash-Table/Unique-Number-of-Occurrences.py) | O(N)    | O(1)   | Easy       | Array, Hash Table         |
-1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [###](./Hash-Table/Count-Largest-Group.py) | O(N)    | O(N)   | Easy       | Hash Table, Math          |
-1436 | [Destination City](https://leetcode.com/problems/destination-city) | [###](./Hash-Table/Destination-City.py) | O(N)    | O(N)   | Easy       | Array, Hash Table, String |
+0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [###](./Hash-Table/Unique-Email-Addresses.py) | O(1)     | O(N)   | Easy       | Array, Hash Table, String |
+0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [###](./Hash-Table/Verifying-an-Alien-Dictionary.py) | O(N*M)   | O(N)   | Easy       | Array, Hash Table, String |
+0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [###](./Hash-Table/N-Repeated-Element-in-Size-2N-Array.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [###](./Hash-Table/Find-Common-Characters.py) | O(NM)    | O(N)   | Easy       | Array, Hash Table, String |
+1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | [###](./Hash-Table/Alphabet-Board-Path.py) | O(N)     | O(N)   | Medium     | Hash Table, String |
+1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [###](./Hash-Table/Unique-Number-of-Occurrences.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
+1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [###](./Hash-Table/Count-Largest-Group.py) | O(N)     | O(N)   | Easy       | Hash Table, Math          |
+1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | [###](./Hash-Table/HTML-Entity-Parser.py) | O(N)     | O(N)   | Medium     | Hash Table, String          |
+1436 | [Destination City](https://leetcode.com/problems/destination-city) | [###](./Hash-Table/Destination-City.py) | O(N)     | O(N)   | Easy       | Array, Hash Table, String |
 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [###](./Hash-Table/People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List.py) | O(M*N^2) | O(N)   | Medium     | Array, Hash Table, String |
-1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [###](./Hash-Table/Path-Crossing.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [###](./Hash-Table/Check-Array-Formation-Through-Concatenation.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [###](./Hash-Table/Second-Largest-Digit-in-a-String.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | [###](./Hash-Table/Number-of-Different-Integers-in-a-String.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [###](./Hash-Table/Evaluate-the-Bracket-Pairs-of-a-String.py) | O(N)    | O(1)   | Medium     | Array, Hash Table, String |
-1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | [###](./Hash-Table/Finding-the-Users-Active-Minutes.py) | O(N)    | O(N)   | Medium     | Array, Hash Table         |
-1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [###](./Hash-Table/Check-if-the-Sentence-Is-Pangram.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [###](./Hash-Table/Maximum-Number-of-Words-You-Can-Type.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [###](./Hash-Table/Count-Vowel-Substrings-of-a-String.py) | O(N^2)  | O(1)   | Easy       | Hash Table, String        |
-2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [###](./Hash-Table/Rings-and-Rods.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [###](./Hash-Table/Find-the-Difference-of-Two-Arrays.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | [###](./Hash-Table/Decode-the-Message.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum) | [###](./Hash-Table/Find-Subarrays-With-Equal-Sum.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | [###](./Hash-Table/Check-Distances-Between-Same-Letters.py) | O(N)    | O(1)   | Easy       | Array, Hash Table, String |
-2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | [###](./Hash-Table/Odd-String-Difference.py) | O(Nn)   | O(N)   | Easy       | Array, Hash Table, String |
-2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [###](./Hash-Table/Convert-an-Array-Into-a-2D-Array-With-Conditions.py) | O(N)    | O(N)   | Medium     | Array, Hash Table         |
-2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [###](./Hash-Table/Find-the-Distinct-Difference-Array.py) | O(N)    | O(1)   | Easy       | Array, Hash Table         |
-2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | [###](./Hash-Table/Minimize-String-Length.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating) | [###](./Hash-Table/Check-if-The-Number-is-Fascinating.py) | O(1)    | O(1)   | Easy       | Hash Table, Math          |
+1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique) | [###](./Hash-Table/Making-File-Names-Unique.py) | O(N)     | O(N)   | Medium     | Array, Hash Table, String |
+1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [###](./Hash-Table/Path-Crossing.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [###](./Hash-Table/Check-Array-Formation-Through-Concatenation.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [###](./Hash-Table/Second-Largest-Digit-in-a-String.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | [###](./Hash-Table/Number-of-Different-Integers-in-a-String.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [###](./Hash-Table/Evaluate-the-Bracket-Pairs-of-a-String.py) | O(N)     | O(1)   | Medium     | Array, Hash Table, String |
+1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes) | [###](./Hash-Table/Finding-the-Users-Active-Minutes.py) | O(N)     | O(N)   | Medium     | Array, Hash Table         |
+1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [###](./Hash-Table/Check-if-the-Sentence-Is-Pangram.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [###](./Hash-Table/Maximum-Number-of-Words-You-Can-Type.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [###](./Hash-Table/Count-Vowel-Substrings-of-a-String.py) | O(N^2)   | O(1)   | Easy       | Hash Table, String        |
+2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods) | [###](./Hash-Table/Rings-and-Rods.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [###](./Hash-Table/Find-the-Difference-of-Two-Arrays.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | [###](./Hash-Table/Decode-the-Message.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum) | [###](./Hash-Table/Find-Subarrays-With-Equal-Sum.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | [###](./Hash-Table/Check-Distances-Between-Same-Letters.py) | O(N)     | O(1)   | Easy       | Array, Hash Table, String |
+2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | [###](./Hash-Table/Odd-String-Difference.py) | O(Nn)    | O(N)   | Easy       | Array, Hash Table, String |
+2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [###](./Hash-Table/Convert-an-Array-Into-a-2D-Array-With-Conditions.py) | O(N)     | O(N)   | Medium     | Array, Hash Table         |
+2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [###](./Hash-Table/Find-the-Distinct-Difference-Array.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
+2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | [###](./Hash-Table/Minimize-String-Length.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating) | [###](./Hash-Table/Check-if-The-Number-is-Fascinating.py) | O(1)     | O(1)   | Easy       | Hash Table, Math          |
 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | [###](./Hash-Table/Max-Pair-Sum-in-an-Array.py) | O(Nlogn) | O(N)   | Easy       | Array, Hash Table         |
-2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [###](./Hash-Table/Subarrays-Distinct-Element-Sum-of-Squares-I.py) | O(N^2)  | O(1)   | Easy       | Array, Hash Table         |
-2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [###](./Hash-Table/Find-Common-Elements-Between-Two-Arrays.py) | O(N)    | O(N)   | Easy       | Array, Hash Table         |
-3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse) | [###](./Hash-Table/Existence-of-a-Substring-in-a-String-and-Its-Reverse.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [###](./Hash-Table/Count-the-Number-of-Special-Characters-I.py) | O(N)    | O(N)   | Easy       | Hash Table, String        |
-3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [###](./Hash-Table/Permutation-Difference-between-Two-Strings.py) | O(N)    | O(1)   | Easy       | Hash Table, String        |
-3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [###](./Hash-Table/Find-Occurrences-of-an-Element-in-an-Array.py) | O(N)    | O(N)   | Medium     | Array, Hash Table         |
-3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)  | O(1)   | Easy       | Array, Hash Table         |
-3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [###](./Hash-Table/The-Two-Sneaky-Numbers-of-Digitville.py) | O(N)    | O(N)   | Easy       | Array, Hash Table, Math   |
+2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [###](./Hash-Table/Subarrays-Distinct-Element-Sum-of-Squares-I.py) | O(N^2)   | O(1)   | Easy       | Array, Hash Table         |
+2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [###](./Hash-Table/Find-Common-Elements-Between-Two-Arrays.py) | O(N)     | O(N)   | Easy       | Array, Hash Table         |
+3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse) | [###](./Hash-Table/Existence-of-a-Substring-in-a-String-and-Its-Reverse.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [###](./Hash-Table/Count-the-Number-of-Special-Characters-I.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
+3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [###](./Hash-Table/Permutation-Difference-between-Two-Strings.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
+3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [###](./Hash-Table/Find-Occurrences-of-an-Element-in-an-Array.py) | O(N)     | O(N)   | Medium     | Array, Hash Table         |
+3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)   | O(1)   | Easy       | Array, Hash Table         |
+3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [###](./Hash-Table/The-Two-Sneaky-Numbers-of-Digitville.py) | O(N)     | O(N)   | Easy       | Array, Hash Table, Math   |
 
 
 ## Binary Search
