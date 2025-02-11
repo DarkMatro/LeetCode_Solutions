@@ -1,8 +1,8 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-394%20%2F%203313-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-156%20%2F%201732-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-399%20%2F%203450-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-161%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-140%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-88%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
@@ -81,6 +81,13 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [###](./Array/Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray.py)               | O(N)     | O(1)   | Easy      | Array                   |
 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/)                                                     | [###](./Array/Find-the-Integer-Added-to-Array-I.py)               | O(NlogN) | O(1)   | Easy      | Array                   |
 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/description/)                                                                                         | [###](./Array/Special-Array-I.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/)                                                                                         | [###](./Array/Find-Indices-of-Stable-Mountains.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/)                                                                                         | [###](./Array/Adjacent-Increasing-Subarrays-Detection-I.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/description/)                                                                                         | [###](./Array/Button-with-Longest-Push-Time.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/)                                                                                         | [###](./Array/Count-Subarrays-of-Length-Three-With-a-Condition.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/)                                                                                         | [###](./Array/Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.py)               | O(N)     | O(1)   | Easy      | Array                   |
+
+
 
 
 ## String
