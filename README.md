@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-399%20%2F%203450-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-402%20%2F%203450-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-161%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-140%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-88%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
-[![Database](https://img.shields.io/badge/Database-78%20%2F%20283-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
+[![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
@@ -525,3 +525,6 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)                                 | [###](./Database/Employees-Whose-Manager-Left-the-Company.sql)                 | Easy       | Database  |
 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)                 | [###](./Database/Number-of-Unique-Subjects-Taught-by-Each-Teacher.sql)         | Easy       | Database  |
 3220 | [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions)                                                               | [###](./Database/Odd-and-Even-Transactions.sql)                                | Medium     | Database  |
+3374 | [First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii)                                                               | [###](./Database/First-Letter-Capitalization-II.sql)                                | Hard       | Database  |
+3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved)                                                               | [###](./Database/Find-Students-Who-Improved.sql)                                | Medium     | Database  |
+3436 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails)                                                               | [###](./Database/Find-Valid-Emails.sql)                                | Easy       | Database  |
