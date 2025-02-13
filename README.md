@@ -1,9 +1,9 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-402%20%2F%203450-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-404%20%2F%203451-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-161%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-140%20%2F%20718-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+[![String](https://img.shields.io/badge/String-142%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-88%20%2F%20520-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
@@ -93,8 +93,8 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 ## String
 |  #  | Title                                                                                                                                                  | Solution                                 | Time          | Memory | Difficulty | Tag                                    |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------|--------|------------|----------------------------------------|
-0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                                           | [###](./String/Zigzag-Conversion.py) | O(N)      | O(N)   | Medium     | String                                 |
-0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                                           | [###](./String/String-to-Integer-(atoi).py) | O(N)      | O(1)   | Medium     | String                                 |
+0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                                           | [###](./String/Zigzag-Conversion.py) | O(N)          | O(N)   | Medium     | String                                 |
+0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                                           | [###](./String/String-to-Integer-(atoi).py) | O(N)          | O(1)   | Medium     | String                                 |
 0038 | [Count and Say](https://leetcode.com/problems/count-and-say)                                                                                   | [###](./String/Count-and-Say.py)     | O(N * 2^N)    | O(N)   | Medium     | String                                 |
 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                                                               | [###](./String/Length-of-Last-Word.py)     | O(N)          | O(1)   | Easy       | String                                 |
 0065 | [Valid Number](https://leetcode.com/problems/valid-number)                                                                               | [###](./String/Valid-Number.py)     | O(N)          | O(1)   | Hard       | String                                 |
@@ -169,6 +169,8 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 3136 | [Valid Word](https://leetcode.com/problems/valid-word)                                                                                                 | [###](./String/Valid-Word.py)      | O(N)          | O(1)   | Easy       | String                                 |
 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii)                                                                                                 | [###](./String/String-Compression-III.py)      | O(N)          | O(1)   | Medium     | String                                 |
 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string)                                                                                                 | [###](./String/Find-the-Encrypted-String.py)      | O(1)          | O(1)   | Easy       | String                                 |
+3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i)                                                                                                 | [###](./String/Find-the-Original-Typed-String-I.py)      | O(N)          | O(1)   | Easy       | String                                 |
+3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string)                                                                                                 | [###](./String/Check-Balanced-String.py)      | O(N)          | O(1)   | Easy       | String                                 |
 
 
 ## Math
