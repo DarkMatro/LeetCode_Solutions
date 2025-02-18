@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-413%20%2F%203459-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-165%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-147%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-415%20%2F%203460-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-167%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-148%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-94%20%2F%20558-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (79/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (81/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -263,7 +263,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [###](./Hash-Table/Roman-to-Integer.py) | O(N)     | O(1)   | Easy       | Hash Table, Math, String  |
 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [###](./Hash-Table/Isomorphic-Strings.py) | O(N)     | O(1)   | Easy       | Hash Table, String        |
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [###](./Hash-Table/Word-Pattern.py) | O(N)     | O(N)   | Easy       | Hash Table, String        |
-0423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english) | [###](./Hash-Table/Reconstruct-Original-Digits-from-English.py) | O(N)     | O(N)   | Medium     | Hash Table, Math, String        |
+0423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english) | [###](./Hash-Table/Reconstruct-Original-Digits-from-English.py) | O(N)     | O(N)   | Medium     | Hash Table, Math, String  |
 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [###](./Hash-Table/Find-All-Duplicates-in-an-Array.py) | O(N)     | O(1)   | Medium     | Array, Hash Table         |
 0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [###](./Hash-Table/Number-of-Boomerangs.py) | O(N^2)   | O(N)   | Medium     | Array, Hash Table, Math   |
 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [###](./Hash-Table/Find-All-Numbers-Disappeared-in-an-Array.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
@@ -277,6 +277,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [###](./Hash-Table/Shortest-Completing-Word.py) | O(NM)    | O(M)   | Easy       | Array, Hash Table, String |
 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [###](./Hash-Table/Jewels-and-Stones.py) | O(N + M) | O(N)   | Easy       | Hash Table, String        |
 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [###](./Hash-Table/Unique-Morse-Code-Words.py) | O(NM)    | O(N)   | Easy       | Array, Hash Table, String |
+0822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game) | [###](./Hash-Table/Card-Flipping-Game.py) | O(N)     | O(1)   | Medium     | Array, Hash Table         |
 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [###](./Hash-Table/Buddy-Strings.py) | O(NM)    | O(N)   | Easy       | Hash Table, String        |
 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [###](./Hash-Table/Find-and-Replace-Pattern.py) | O(N)     | O(1)   | Medium     | Array, Hash Table, String |
 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [###](./Hash-Table/Word-Subsets.py) | O(N + M) | O(N)   | Medium     | Array, Hash Table, String |
@@ -321,6 +322,7 @@ Solved free problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python
 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [###](./Hash-Table/Find-Occurrences-of-an-Element-in-an-Array.py) | O(N)     | O(N)   | Medium     | Array, Hash Table         |
 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)   | O(1)   | Easy       | Array, Hash Table         |
 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [###](./Hash-Table/The-Two-Sneaky-Numbers-of-Digitville.py) | O(N)     | O(N)   | Easy       | Array, Hash Table, Math   |
+3295 | [Report Spam Message](https://leetcode.com/problems/report-spam-message) | [###](./Hash-Table/Report-Spam-Message.py) | O(M+N)   | O(N)   | Medium     | Array, Hash Table, String |
 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | [###](./Hash-Table/Minimum-Operations-to-Make-Array-Values-Equal-to-K.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | [###](./Hash-Table/Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.py) | O(N)     | O(1)   | Easy       | Array, Hash Table         |
 
