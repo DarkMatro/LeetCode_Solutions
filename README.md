@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-417%20%2F%203460-711c91.svg)&nbsp;
+![Progress](https://img.shields.io/badge/Progress-419%20%2F%203460-711c91.svg)&nbsp;
 [![Array](https://img.shields.io/badge/Array-168%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-148%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+[![String](https://img.shields.io/badge/String-150%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-95%20%2F%20558-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (83/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (85/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -295,6 +295,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [###](./Hash-Table/People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List.py) | O(M*N^2) | O(N)    | Medium     | Array, Hash Table, String |
 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique) | [###](./Hash-Table/Making-File-Names-Unique.py) | O(N)     | O(N)    | Medium     | Array, Hash Table, String |
 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [###](./Hash-Table/Path-Crossing.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
+1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves) | [###](./Hash-Table/Can-Convert-String-in-K-Moves.py) | O(N)     | O(1)    | Medium     | Hash Table, String        |
 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)     | O(1)    | Easy       | Hash Table, String        |
 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [###](./Hash-Table/Check-Array-Formation-Through-Concatenation.py) | O(N)     | O(N)    | Easy       | Array, Hash Table         |
 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [###](./Hash-Table/Second-Largest-Digit-in-a-String.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
@@ -320,6 +321,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [###](./Hash-Table/Find-Common-Elements-Between-Two-Arrays.py) | O(N)     | O(N)    | Easy       | Array, Hash Table         |
 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse) | [###](./Hash-Table/Existence-of-a-Substring-in-a-String-and-Its-Reverse.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [###](./Hash-Table/Count-the-Number-of-Special-Characters-I.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
+3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | [###](./Hash-Table/Count-the-Number-of-Special-Characters-II.py) | O(N)     | O(N)    | Medium     | Hash Table, String        |
 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [###](./Hash-Table/Permutation-Difference-between-Two-Strings.py) | O(N)     | O(1)    | Easy       | Hash Table, String        |
 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [###](./Hash-Table/Find-Occurrences-of-an-Element-in-an-Array.py) | O(N)     | O(N)    | Medium     | Array, Hash Table         |
 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [###](./Hash-Table/Find-the-Number-of-Good-Pairs-I.py) | O(N*M)   | O(1)    | Easy       | Array, Hash Table         |
