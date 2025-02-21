@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-419%20%2F%203460-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-168%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-421%20%2F%203460-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-170%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-150%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-95%20%2F%20558-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 
 ## Tags
-* [Hash Table (85/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Hash Table (87/667)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -298,6 +298,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves) | [###](./Hash-Table/Can-Convert-String-in-K-Moves.py) | O(N)     | O(1)    | Medium     | Hash Table, String        |
 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | [###](./Hash-Table/Largest-Substring-Between-Two-Equal-Characters.py) | O(N)     | O(1)    | Easy       | Hash Table, String        |
 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | [###](./Hash-Table/Check-Array-Formation-Through-Concatenation.py) | O(N)     | O(N)    | Easy       | Array, Hash Table         |
+1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals) | [###](./Hash-Table/Count-Good-Meals.py) | O(N)     | O(N)    | Medium     | Array, Hash Table         |
 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | [###](./Hash-Table/Second-Largest-Digit-in-a-String.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | [###](./Hash-Table/Number-of-Different-Integers-in-a-String.py) | O(N)     | O(N)    | Easy       | Hash Table, String        |
 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string) | [###](./Hash-Table/Evaluate-the-Bracket-Pairs-of-a-String.py) | O(N)     | O(1)    | Medium     | Array, Hash Table, String |
@@ -315,6 +316,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [###](./Hash-Table/Convert-an-Array-Into-a-2D-Array-With-Conditions.py) | O(N)     | O(N)    | Medium     | Array, Hash Table         |
 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [###](./Hash-Table/Find-the-Distinct-Difference-Array.py) | O(N)     | O(1)    | Easy       | Array, Hash Table         |
 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | [###](./Hash-Table/Minimize-String-Length.py) | O(N)     | O(1)    | Easy       | Hash Table, String        |
+2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries) | [###](./Hash-Table/Sum-of-Matrix-After-Queries.py) | O(N)     | O(N)    | Medium     | Array, Hash Table        |
 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating) | [###](./Hash-Table/Check-if-The-Number-is-Fascinating.py) | O(1)     | O(1)    | Easy       | Hash Table, Math          |
 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | [###](./Hash-Table/Max-Pair-Sum-in-an-Array.py) | O(Nlogn) | O(N)    | Easy       | Array, Hash Table         |
 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [###](./Hash-Table/Subarrays-Distinct-Element-Sum-of-Squares-I.py) | O(N^2)   | O(1)    | Easy       | Array, Hash Table         |
