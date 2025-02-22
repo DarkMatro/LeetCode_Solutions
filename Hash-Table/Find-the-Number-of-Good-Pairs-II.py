@@ -1,17 +1,20 @@
+from collections import Counter
+
+
 def numberOfPairs(nums1: list[int], nums2: list[int], k: int) -> int:
     """
-    ID: 3162
+    ID: 3164
     Tags:   Array, Hash Table
-    Time:   O(N * M)
-    Memory: O(1)
+    Time:   O(N)
+    Memory: O(N)
 
     Task
     ----------
     You are given 2 integer arrays nums1 and nums2 of lengths n and m respectively. You are also
     given a positive integer k.
 
-    A pair (i, j) is called good if nums1[i] is divisible by nums2[j] * k (0 <= i <= n - 1,
-    0 <= j <= m - 1).
+    A pair (i, j) is called good if nums1[i] is divisible by
+    nums2[j] * k (0 <= i <= n - 1, 0 <= j <= m - 1).
 
     Return the total number of good pairs.
 
@@ -25,7 +28,7 @@ def numberOfPairs(nums1: list[int], nums2: list[int], k: int) -> int:
 
     Returns
     -------
-    out : int
+    int
 
     Examples
     --------
@@ -41,9 +44,11 @@ def numberOfPairs(nums1: list[int], nums2: list[int], k: int) -> int:
     Explanation:
     The 2 good pairs are (3, 0) and (3, 1).
     """
-    ans = 0
-    for x in nums1:
-        for y in nums2:
-            if x % (y * k) == 0:
-                ans += 1
-    return ans
+    freqs = Counter(num * k for num in nums2)
+    counts = [0] * (max(nums1) + 1)
+
+    for num, count in freqs.items():
+        for multiplier in range(num, len(counts), num):
+            counts[multiplier] += count
+
+    return sum(counts[num] for num in nums1)
