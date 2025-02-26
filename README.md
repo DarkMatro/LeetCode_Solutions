@@ -1,15 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-427%20%2F%203466-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-175%20%2F%201840-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-151%20%2F%20762-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
-[![Math](https://img.shields.io/badge/Math-96%20%2F%20558-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
+![Progress](https://img.shields.io/badge/Progress-428%20%2F%203466-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-176%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-151%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+[![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
+[![Hash_Table](https://img.shields.io/badge/hash_table-93%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Hash Table (93/669)](https://github.com/DarkMatro/LeetCode_Solutions#hash-table)
+* [Sorting (9/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -21,7 +22,6 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 * [Matrix (1/223)](https://github.com/DarkMatro/LeetCode_Solutions#matrix)
 * [Trie (1/53)](https://github.com/DarkMatro/LeetCode_Solutions#trie)
 * [Stack (4/159)](https://github.com/DarkMatro/LeetCode_Solutions#stack)
-* [Sorting (9/410)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Memoization (1/38)](https://github.com/DarkMatro/LeetCode_Solutions#memoization)
 * [Recursion (4/45)](https://github.com/DarkMatro/LeetCode_Solutions#recursion)
 * [Counting (5/144)](https://github.com/DarkMatro/LeetCode_Solutions#counting)
@@ -255,7 +255,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/Minimum-Element-After-Replacement-With-Digit-Sum) | [###](./Math/Minimum-Element-After-Replacement-With-Digit-Sum.py) | O(N)               | O(1)   | Easy       | Array, Math |
 
 
-## Hash Table
+## Hash_Table
 |  #  | Title                                                                                                                                                                            | Solution                                                                                       | Time         | Memory  | Difficulty | Tag                      |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|---------|------------|--------------------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                                                 | [###](Hash-Table/Two-Sum.py)                                                                   | O(N)         | O(N)    | Easy       | Array, Hash Table        |
@@ -292,6 +292,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)                                                                                 | [###](./Hash-Table/Smallest-Integer-Divisible-by-K.py)                                         | O(N)         | O(1)    | Medium     | Hash Table, Math         |
 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path)                                                                                                         | [###](./Hash-Table/Alphabet-Board-Path.py)                                                     | O(N)         | O(N)    | Medium     | Hash Table, String       |
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)                                                                                       | [###](./Hash-Table/Unique-Number-of-Occurrences.py)                                            | O(N)         | O(1)    | Easy       | Array, Hash Table        |
+1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency)                                                                                       | [###](./Hash-Table/Maximum-Equal-Frequency.py)                                            | O(N)         | O(N)    | Hard       | Array, Hash Table        |
 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group)                                                                                                         | [###](./Hash-Table/Count-Largest-Group.py)                                                     | O(N)         | O(N)    | Easy       | Hash Table, Math         |
 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser)                                                                                                           | [###](./Hash-Table/HTML-Entity-Parser.py)                                                      | O(N)         | O(N)    | Medium     | Hash Table, String       |
 1436 | [Destination City](https://leetcode.com/problems/destination-city)                                                                                                               | [###](./Hash-Table/Destination-City.py)                                                        | O(N)         | O(N)    | Easy       | Array, Hash Table, String |
