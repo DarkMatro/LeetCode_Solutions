@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-428%20%2F%203466-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-176%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-151%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-430%20%2F%203476-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-178%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-152%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
-[![Hash_Table](https://img.shields.io/badge/hash_table-93%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-95%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Sorting (9/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (11/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -340,6 +340,18 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3447 | [Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints)                                                           | [###](./Hash-Table/Assign-Elements-to-Groups-with-Constraints.py)                              | O(N*sqrt(n)) | O(N)    | Medium     | Array, Hash Table        |
 
 
+## Sorting
+|  #  | Title                                    | Solution                            | Time     | Memory | Difficulty    | Tag                  |
+|-----|------------------------------------------|-------------------------------------|----------|--------| ------------- |----------------------|
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                             | [###](Sorting/Contains-Duplicate.py)                                       | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                           | [###](Sorting/Valid-Anagram.py)      | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting            |
+0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                     | [###](Sorting/Missing-Number.py)                                           | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](Sorting/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](Sorting/Find-the-Difference.py) | O(N)     | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting                     |
+1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN) | O(N)   | Easy | Array, Sorting                    |
+2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | [###](Sorting/Sort-the-People.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, String, Sorting                    |
+
+
 ## Binary Search
 |  #  | Title                                    | Solution                       | Time    | Memory | Difficulty    | Tag                  |
 |-----|------------------------------------------|--------------------------------|---------|--------| ------------- |----------------------|
@@ -431,15 +443,6 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 |  #  | Title                                    | Solution                            | Time    | Memory | Difficulty    | Tag                  |
 |-----|------------------------------------------|-------------------------------------|---------|--------| ------------- |----------------------|
 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                   | [###](./Stack/Valid-Parentheses.py) | O(N)          | O(N)   | Easy       | String, Stack                          |
-
-## Sorting
-|  #  | Title                                    | Solution                            | Time    | Memory | Difficulty    | Tag                  |
-|-----|------------------------------------------|-------------------------------------|---------|--------| ------------- |----------------------|
-0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                             | [###](Sorting/Contains-Duplicate.py)                                       | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
-0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                           | [###](Sorting/Valid-Anagram.py)      | O(N)          | O(N)   | Easy       | Hash Table, String, Sorting            |
-0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                     | [###](Sorting/Missing-Number.py)                                           | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
-0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](Sorting/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
-0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](Sorting/Find-the-Difference.py) | O(N)     | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting                     |
 
 ## Monotonic Stack
 |  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
