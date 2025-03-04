@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-430%20%2F%203476-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-178%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-152%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-432%20%2F%203476-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-179%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-153%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 [![Hash_Table](https://img.shields.io/badge/Hash_Table-95%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Sorting (11/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (13/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -349,6 +349,8 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                       | [###](Sorting/Intersection-of-Two-Arrays-II.py)                            | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [###](Sorting/Find-the-Difference.py) | O(N)     | O(N)   | Easy | Hash Table, String, Bit Manipulation, Sorting                     |
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN) | O(N)   | Easy | Array, Sorting                    |
+1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | [###](Sorting/Sorting-the-Sentence.py) | O(NlogN) | O(N)   | Easy | String, Sorting                   |
+1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [###](Sorting/Maximum-Product-Difference-Between-Two-Pairs.py) | O(NlogN) | O(N)   | Easy | Array, Sorting                   |
 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | [###](Sorting/Sort-the-People.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, String, Sorting                    |
 
 
