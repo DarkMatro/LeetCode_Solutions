@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-436%20%2F%203476-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-183%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-438%20%2F%203476-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-185%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-153%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-98%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-99%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Sorting (17/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (19/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -341,13 +341,15 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 
 
 ## Sorting
-|  #  | Title                                                                                                                                                      | Solution                                                                       | Time | Memory | Difficulty | Tag                                                               |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------|--------|------------|-------------------------------------------------------------------|
-0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                                     | [###](Sorting/Contains-Duplicate.py)                                           | O(N) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
-0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                               | [###](Sorting/Valid-Anagram.py)                                                | O(N) | O(N)   | Easy       | Hash Table, String, Sorting                                       |
-0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                             | [###](Sorting/Missing-Number.py)                                               | O(N) | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
-0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                               | [###](Sorting/Intersection-of-Two-Arrays-II.py)                                | O(N) | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
-0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                                   | [###](Sorting/Find-the-Difference.py)                                          | O(N) | O(N)   | Easy       | Hash Table, String, Bit Manipulation, Sorting                     |
+|  #  | Title                                                                                                                                                      | Solution                                                                       | Time     | Memory | Difficulty | Tag                                                               |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------|--------|------------|-------------------------------------------------------------------|
+0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                                                     | [###](Sorting/Contains-Duplicate.py)                                           | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                                                               | [###](Sorting/Valid-Anagram.py)                                                | O(N)     | O(N)   | Easy       | Hash Table, String, Sorting                                       |
+0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                             | [###](Sorting/Missing-Number.py)                                               | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
+0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                               | [###](Sorting/Intersection-of-Two-Arrays-II.py)                                | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
+0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                                   | [###](Sorting/Find-the-Difference.py)                                          | O(N)     | O(N)   | Easy       | Hash Table, String, Bit Manipulation, Sorting                     |
+1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                     |
+1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)                                                                                   | [###](Sorting/Rank-Transform-of-an-Array.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                     |
 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)                                                                                   | [###](Sorting/Make-Two-Arrays-Equal-by-Reversing-Subarrays.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)                                                     | [###](Sorting/Sort-Array-by-Increasing-Frequency.py)                           | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
@@ -355,7 +357,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)                                 | [###](Sorting/Maximum-Product-Difference-Between-Two-Pairs.py)                 | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)                                 | [###](Sorting/Neither-Minimum-nor-Maximum.py)                 | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people)                                                                                           | [###](Sorting/Sort-the-People.py)                                              | O(NlogN) | O(N)   | Easy       | Array, Hash Table, String, Sorting                                |
-2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)                                                                                           | [###](Sorting/Number-of-Unequal-Triplets-in-Array.py)                                              | O(N) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)                                                                                           | [###](Sorting/Number-of-Unequal-Triplets-in-Array.py)                                              | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 
 
 ## Binary Search
