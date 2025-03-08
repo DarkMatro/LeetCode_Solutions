@@ -2,15 +2,15 @@
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
 ![Progress](https://img.shields.io/badge/Progress-438%20%2F%203476-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-185%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![Array](https://img.shields.io/badge/Array-188%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-153%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-99%20%2F%20669-85d102.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-99%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Sorting (19/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (22/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -86,8 +86,6 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/description/)                                                                                         | [###](./Array/Button-with-Longest-Push-Time.py)               | O(N)     | O(1)   | Easy      | Array                   |
 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/)                                                                                         | [###](./Array/Count-Subarrays-of-Length-Three-With-a-Condition.py)               | O(N)     | O(1)   | Easy      | Array                   |
 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/)                                                                                         | [###](./Array/Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.py)               | O(N)     | O(1)   | Easy      | Array                   |
-
-
 
 
 ## String
@@ -348,9 +346,12 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                             | [###](Sorting/Missing-Number.py)                                               | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                               | [###](Sorting/Intersection-of-Two-Arrays-II.py)                                | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                                   | [###](Sorting/Find-the-Difference.py)                                          | O(N)     | O(N)   | Easy       | Hash Table, String, Bit Manipulation, Sorting                     |
-1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                     |
-1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)                                                                                   | [###](Sorting/Rank-Transform-of-an-Array.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                     |
+1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
+1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)                                                                                   | [###](Sorting/Rank-Transform-of-an-Array.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)                                                                                   | [###](Sorting/Make-Two-Arrays-Equal-by-Reversing-Subarrays.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)                                                                                   | [###](Sorting/Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
+1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)                                                                                   | [###](Sorting/Can-Make-Arithmetic-Progression-From-Sequence.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
+1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)                                                                                   | [###](Sorting/Mean-of-Array-After-Removing-Some-Elements.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)                                                     | [###](Sorting/Sort-Array-by-Increasing-Frequency.py)                           | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)                                                                                 | [###](Sorting/Sorting-the-Sentence.py)                                         | O(NlogN) | O(N)   | Easy       | String, Sorting                                                   |
