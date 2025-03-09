@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-441%20%2F%203476-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-188%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-153%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-444%20%2F%203480-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-191%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-154%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-96%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-99%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-100%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 
 
 ## Tags
-* [Sorting (22/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (25/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -346,6 +346,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                             | [###](Sorting/Missing-Number.py)                                               | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                               | [###](Sorting/Intersection-of-Two-Arrays-II.py)                                | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                                   | [###](Sorting/Find-the-Difference.py)                                          | O(N)     | O(N)   | Easy       | Hash Table, String, Bit Manipulation, Sorting                     |
+0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)                                                                                   | [###](Sorting/Largest-Number-At-Least-Twice-of-Others.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Sorting                     |
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                          | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)                                                                                   | [###](Sorting/Rank-Transform-of-an-Array.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)                                                                                   | [###](Sorting/Make-Two-Arrays-Equal-by-Reversing-Subarrays.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
@@ -356,6 +357,8 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)                                                                                 | [###](Sorting/Sorting-the-Sentence.py)                                         | O(NlogN) | O(N)   | Easy       | String, Sorting                                                   |
 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)                                 | [###](Sorting/Maximum-Product-Difference-Between-Two-Pairs.py)                 | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
+2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently)                                 | [###](Sorting/Sort-Even-and-Odd-Indices-Independently.py)                 | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
+2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)                                 | [###](Sorting/Find-Resultant-Array-After-Removing-Anagrams.py)                 | O(NlogN) | O(1)   | Easy       | Array, Hash Table, String, Sorting                                                    |
 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)                                 | [###](Sorting/Neither-Minimum-nor-Maximum.py)                 | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people)                                                                                           | [###](Sorting/Sort-the-People.py)                                              | O(NlogN) | O(N)   | Easy       | Array, Hash Table, String, Sorting                                |
 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)                                                                                           | [###](Sorting/Number-of-Unequal-Triplets-in-Array.py)                                              | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
