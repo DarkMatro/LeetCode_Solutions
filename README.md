@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-447%20%2F%203480-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-194%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-449%20%2F%203480-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-196%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-154%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-98%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-101%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-102%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Tags
-* [Sorting (28/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (30/441)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -345,6 +345,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0268 | [Missing Number](https://leetcode.com/problems/missing-number)                                                                                             | [###](Sorting/Missing-Number.py)                                               | O(N)     | O(N)   | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                               | [###](Sorting/Intersection-of-Two-Arrays-II.py)                                | O(N)     | O(N)   | Easy       | Array, Hash Table, Two Pointers, Binary Search, Sorting           |
 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference)                                                                                   | [###](Sorting/Find-the-Difference.py)                                          | O(N)     | O(N)   | Easy       | Hash Table, String, Bit Manipulation, Sorting                     |
+0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number)                                                                                   | [###](Sorting/Third-Maximum-Number.py)                                          | O(NlogN) | O(N)   | Easy       | Array, Sorting                     |
 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)                                                         | [###](Sorting/Maximum-Product-of-Three-Numbers.py)                             | O(NlogN) | O(N)   | Easy       | Array, Math, Sorting                                              |
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)                                           | [###](Sorting/Largest-Number-At-Least-Twice-of-Others.py)                      | O(NlogN) | O(N)   | Easy       | Array, Sorting                                                    |
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                  | O(NlogN) | O(1)   | Easy       | Array, Sorting                                                    |
@@ -363,6 +364,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people)                                                                                           | [###](Sorting/Sort-the-People.py)                                              | O(NlogN) | O(N)   | Easy       | Array, Hash Table, String, Sorting                                |
 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)                                                   | [###](Sorting/Number-of-Unequal-Triplets-in-Array.py)                          | O(N)     | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good)                                                                             | [###](Sorting/Check-if-Array-is-Good.py)                                       | O(NlogN) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)                                                                             | [###](Sorting/Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum.py)                                       | O(N) | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle)                                                                             | [###](Sorting/Type-of-Triangle.py)                                       | O(1)     | O(1)   | Easy       | Array, Math, Sorting                                        |
 
 
