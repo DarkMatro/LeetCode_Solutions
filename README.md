@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-455%20%2F%203482-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-200%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-158%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-458%20%2F%203486-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-202%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-159%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-98%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Hash_Table](https://img.shields.io/badge/Hash_Table-106%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Tags
-* [Sorting (36/444)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (39/444)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -353,6 +353,8 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings)                                           | [###](Sorting/Groups-of-Special-Equivalent-Strings.py)                      | O(NMlogM) | O(NM)  | Medium     | Array, Hash Table, String, Sorting                                |
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)                                                                   | [###](Sorting/Minimum-Absolute-Difference.py)                                  | O(NlogN)  | O(1)   | Easy       | Array, Sorting                                                    |
 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)                                                                     | [###](Sorting/Rank-Transform-of-an-Array.py)                                   | O(NlogN)  | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)                                                                     | [###](Sorting/Filter-Restaurants-by-Vegan-Friendly,-Price-and-Distance.py)                                   | O(NlogN)  | O(1)   | Medium     | Array, Sorting                                                    |
+1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence)                                                                     | [###](Sorting/Rearrange-Words-in-a-Sentence.py)                                   | O(NlogN)  | O(1)   | Medium     | String, Sorting                                                   |
 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)                                 | [###](Sorting/Make-Two-Arrays-Equal-by-Reversing-Subarrays.py)                 | O(NlogN)  | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)           | [###](Sorting/Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)      | O(NlogN)  | O(1)   | Easy       | Array, Sorting                                                    |
 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)                               | [###](Sorting/Can-Make-Arithmetic-Progression-From-Sequence.py)                | O(NlogN)  | O(1)   | Easy       | Array, Sorting                                                    |
@@ -368,6 +370,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum)                                                                   | [###](Sorting/Neither-Minimum-nor-Maximum.py)                                  | O(NlogN)  | O(N)   | Easy       | Array, Sorting                                                    |
 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people)                                                                                           | [###](Sorting/Sort-the-People.py)                                              | O(NlogN)  | O(N)   | Easy       | Array, Hash Table, String, Sorting                                |
 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array)                                                   | [###](Sorting/Number-of-Unequal-Triplets-in-Array.py)                          | O(N)      | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
+2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition)                                                   | [###](Sorting/Find-the-Value-of-the-Partition.py)                          | O(NlogN)  | O(1)   | Medium     | Array, Sorting                                                    |
 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good)                                                                             | [###](Sorting/Check-if-Array-is-Good.py)                                       | O(NlogN)  | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string)                                                                             | [###](Sorting/Sort-Vowels-in-a-String.py)                                       | O(NlogN)  | O(N)   | Medium     | String, Sorting                                                   |
 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)                                                                             | [###](Sorting/Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum.py)                                       | O(N)      | O(N)   | Easy       | Array, Hash Table, Sorting                                        |
