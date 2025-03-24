@@ -81,24 +81,3 @@ def findHighAccessEmployees(access_times: list[list[str]]) -> list[str]:
         if often_access(sorted(v)):
             ans.append(k)
     return ans
-
-
-def often_access(arr: list[int]) -> bool:
-    for i in range(0, len(arr) - 2):
-        if arr[i + 2] - arr[i] < 60:
-            return True
-    return False
-
-
-at = {}
-for name, time in zip(keyName, keyTime):
-    time = int(time[:2]) * 60 + int(time[3:])
-    if name not in at:
-        at[name] = [time]
-    else:
-        at[name].append(time)
-ans = []
-for k, v in at.items():
-    if often_access(sorted(v)):
-        ans.append(k)
-return ans
