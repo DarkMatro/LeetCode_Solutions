@@ -1,15 +1,15 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-479%20%2F%203496-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-219%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+![Progress](https://img.shields.io/badge/Progress-480%20%2F%203497-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-220%20%2F%201847-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
 [![String](https://img.shields.io/badge/String-168%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
-[![Math](https://img.shields.io/badge/Math-103%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
+[![Math](https://img.shields.io/badge/Math-104%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Hash_Table](https://img.shields.io/badge/Hash_Table-113%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Tags
-* [Sorting (60/444)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+* [Sorting (61/444)](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -372,6 +372,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays)                                                                                             | [###](Sorting/Arithmetic-Subarrays.py)                   | O(NlogN)  | O(1)  | Medium     | Array, Hash Table, Sorting                                        |
 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)                                                                 | [###](Sorting/Sort-Array-by-Increasing-Frequency.py)                           | O(NlogN)  | O(N)  | Easy       | Array, Hash Table, Sorting                                        |
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)             | [###](Sorting/Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py) | O(NlogN)  | O(N)  | Easy       | Array, Sorting                                                    |
+1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height)             | [###](Sorting/Maximum-Building-Height.py) | O(NlogN)  | O(N)  | Hard       | Array, Math, Sorting                                              |
 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)                                                                                             | [###](Sorting/Sorting-the-Sentence.py)                                         | O(NlogN)  | O(N)  | Easy       | String, Sorting                                                   |
 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal)                           | [###](Sorting/Reduction-Operations-to-Make-the-Array-Elements-Equal.py)                                         | O(NlogN)  | O(1)  | Medium     | Array, Sorting                                                    |
 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs)                                             | [###](Sorting/Maximum-Product-Difference-Between-Two-Pairs.py)                 | O(NlogN)  | O(N)  | Easy       | Array, Sorting                                                    |
