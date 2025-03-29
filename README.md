@@ -1,11 +1,11 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-483%20%2F%203497-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-221%20%2F%201871-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-169%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
-[![Math](https://img.shields.io/badge/Math-105%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-113%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+![Progress](https://img.shields.io/badge/Progress-486%20%2F%203501-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-224%20%2F%201871-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-170%20%2F%20768-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+[![Math](https://img.shields.io/badge/Math-107%20%2F%20561-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-114%20%2F%20669-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
 [![Sorting](https://img.shields.io/badge/Sorting-61%20%2F%20445-748aa7.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20297-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
@@ -235,6 +235,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria) | [###](./Math/Categorize-Box-According-to-Criteria.py) | O(1)               | O(1)   | Easy       | Math         |
 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [###](./Math/Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array.py) | O(N)               | O(1)   | Easy       | Array, Math  |
 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | [###](./Math/Alternating-Digit-Sum.py) | O(N)               | O(N)   | Easy       | Math         |
+2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string) | [###](./Math/Find-the-Divisibility-Array-of-a-String.py) | O(N)               | O(1)   | Medium     | Array, Math, String         |
 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | [###](./Math/Count-Total-Number-of-Colored-Cells.py) | O(1)               | O(1)   | Medium     | Math         |
 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [###](./Math/Calculate-Delayed-Arrival-Time.py) | O(1)               | O(1)   | Easy       | Math         |
 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [###](./Math/Sum-Multiples.py) | O(N)               | O(1)   | Easy       | Math         |
@@ -252,6 +253,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [###](./Math/Check-if-Two-Chessboard-Squares-Have-the-Same-Color.py) | O(1)               | O(1)   | Easy       | Math, String  |
 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary) | [###](./Math/Convert-Date-to-Binary.py) | O(1)               | O(1)   | Easy       | Math, String |
 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/Minimum-Element-After-Replacement-With-Digit-Sum) | [###](./Math/Minimum-Element-After-Replacement-With-Digit-Sum.py) | O(N)               | O(1)   | Easy       | Array, Math |
+3468 | [Find the Number of Copy Arrays](https://leetcode.com/problems/find-the-number-of-copy-arrays) | [###](./Math/Find-the-Number-of-Copy-Arrays.py) | O(N)               | O(1)   | Medium     | Array, Math |
 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship) | [###](./Math/Maximum-Containers-on-a-Ship.py) | O(1)               | O(1)   | Easy       | Math |
 
 
@@ -338,6 +340,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k)                                           | [###](./Hash-Table/Minimum-Operations-to-Make-Array-Values-Equal-to-K.py)                      | O(N)         | O(1)    | Easy       | Array, Hash Table        |
 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct)                 | [###](./Hash-Table/Minimum-Number-of-Operations-to-Make-Elements-in-Array-Distinct.py)         | O(N)         | O(1)    | Easy       | Array, Hash Table        |
 3447 | [Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints)                                                           | [###](./Hash-Table/Assign-Elements-to-Groups-with-Constraints.py)                              | O(N*sqrt(n)) | O(N)    | Medium     | Array, Hash Table        |
+3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer)                                                           | [###](./Hash-Table/Find-the-Largest-Almost-Missing-Integer.py)                              | O(N) | O(N)    | Easy       | Array, Hash Table        |
 
 
 ## Sorting
