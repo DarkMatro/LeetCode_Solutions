@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-496%20%2F%203677-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-232%20%2F%201976-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-175%20%2F%20808-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-501%20%2F%203677-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-235%20%2F%201976-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-178%20%2F%20808-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-107%20%2F%20607-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
 [![Hash_Table](https://img.shields.io/badge/Hash_Table-117%20%2F%20721-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
-[![Sorting](https://img.shields.io/badge/Sorting-65%20%2F%20467-748aa7.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+[![Sorting](https://img.shields.io/badge/Sorting-66%20%2F%20467-748aa7.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20310-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Tags
-* [Two Pointers (25/223)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
+* [Two Pointers (30/223)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -408,22 +408,27 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 ## Two Pointers
 |  #  | Title                                    | Solution                                       | Time     | Memory | Difficulty    | Tag           |
 |-----|------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
-0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                           | [###](Two-Pointers/Remove-Duplicates-from-Sorted-Array.py)                      | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
-0027 | [Remove Element](https://leetcode.com/problems/remove-element)                                                                                     | [###](Two-Pointers/Remove-Element.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
-0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                             | [###](Two-Pointers/Merge-Sorted-Array.py)                                       | O(m+n)   | O(1)   | Easy       | Array, Two Pointers, Sorting                                    |
-0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                                     | [###](Two-Pointers/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                   |
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                          | [###](Two-Pointers/Remove-Duplicates-from-Sorted-Array.py)                      | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
+0027 | [Remove Element](https://leetcode.com/problems/remove-element)                                                                                    | [###](Two-Pointers/Remove-Element.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
+0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                            | [###](Two-Pointers/Merge-Sorted-Array.py)                                       | O(m+n)   | O(1)   | Easy       | Array, Two Pointers, Sorting                                    |
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                                    | [###](Two-Pointers/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                   |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | [###](Two-Pointers/Happy-Number.py) | O(k)     | O(k)   | Easy       | Hash Table, Math, Two Pointers             |
-0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                           | [###](Two-Pointers/Move-Zeroes.py)                                              | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
+0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                                          | [###](Two-Pointers/Move-Zeroes.py)                                              | O(N)     | O(1)   | Easy       | Array, Two Pointers                                             |
 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [###](./Two-Pointers/Reverse-String.py) | O(N)     | O(1)   | Easy | Two Pointers, String  |
 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [###](./Two-Pointers/Reverse-Words-in-a-String-III.py) | O(N)     | O(1)   | Easy | Two Pointers, String  |
+0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [###](./Two-Pointers/Count-Binary-Substrings.py) | O(N)     | O(N)   | Easy | Two Pointers, String  |
+0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [###](./Two-Pointers/Shortest-Distance-to-a-Character.py) | O(N)     | O(1)   | Easy | Array, Two Pointers, String  |
 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [###](./Two-Pointers/Sort-Array-By-Parity.py) | O(NlogN) | O(1)   | Easy | Array, Two Pointers, Sorting  |
-0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [###](./Two-Pointers/Squares-of-a-Sorted-Array.py) | O(N) | O(1)   | Easy | Array, Two Pointers, Sorting  |
+0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [###](./Two-Pointers/Reverse-Only-Letters.py) | O(N)     | O(1)   | Easy | Two Pointers, String  |
+0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [###](./Two-Pointers/Sort-Array-By-Parity-II.py) | O(N)     | O(1)   | Easy | Array, Two Pointers, Sorting  |
+0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [###](./Two-Pointers/Squares-of-a-Sorted-Array.py) | O(N)     | O(1)   | Easy | Array, Two Pointers, Sorting  |
 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [###](./Two-Pointers/Remove-Palindromic-Subsequences.py) | O(1)     | O(1)   | Easy | Two Pointers, String  |
 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [###](./Two-Pointers/Merge-Strings-Alternately.py) | O(N)     | O(1)   | Easy | Two Pointers, String  |
 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [###](./Two-Pointers/Find-First-Palindromic-String-in-the-Array.py) | O(N*K)   | O(1)   | Easy | Array, Two Pointers, String  |
 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array) | [###](./Two-Pointers/Find-All-K-Distant-Indices-in-an-Array.py) | O(N)     | O(1)   | Easy | Array, Two Pointers  |
 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | [###](./Two-Pointers/Largest-Positive-Integer-That-Exists-With-Its-Negative.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Sorting  |
 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [###](./Two-Pointers/Merge-Two-2D-Arrays-by-Summing-Values.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers  |
+2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i) | [###](./Two-Pointers/Find-Indices-With-Index-and-Value-Difference-I.py) | O(N^2)   | O(1)   | Easy | Array, Two Pointers  |
 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [###](./Two-Pointers/Minimum-Average-of-Smallest-and-Largest-Elements.py) | O(NlogN) | O(N)   | Easy | Array, Two Pointers, Sorting  |
 
 
