@@ -1,16 +1,16 @@
 # LeetCode Solutions
 Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/). Python.
 
-![Progress](https://img.shields.io/badge/Progress-508%20%2F%203677-711c91.svg)&nbsp;
-[![Array](https://img.shields.io/badge/Array-239%20%2F%201976-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
-[![String](https://img.shields.io/badge/String-182%20%2F%20808-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
+![Progress](https://img.shields.io/badge/Progress-511%20%2F%203677-711c91.svg)&nbsp;
+[![Array](https://img.shields.io/badge/Array-241%20%2F%201976-ea00d9.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#array)
+[![String](https://img.shields.io/badge/String-183%20%2F%20808-133e7c.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#string)
 [![Math](https://img.shields.io/badge/Math-107%20%2F%20607-091833.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#math)
-[![Hash_Table](https://img.shields.io/badge/Hash_Table-118%20%2F%20721-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
-[![Sorting](https://img.shields.io/badge/Sorting-67%20%2F%20467-748aa7.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
+[![Hash_Table](https://img.shields.io/badge/Hash_Table-119%20%2F%20721-91d112.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#hash_table)
+[![Sorting](https://img.shields.io/badge/Sorting-69%20%2F%20467-748aa7.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#sorting)
 [![Database](https://img.shields.io/badge/Database-81%20%2F%20310-0abdc6.svg)&nbsp;](https://github.com/DarkMatro/LeetCode_Solutions#database)
 
 ## Tags
-* [Two Pointers (37/223)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
+* [Two Pointers (40/223)](https://github.com/DarkMatro/LeetCode_Solutions#two-pointers)
 * [Binary Search (5/252)](https://github.com/DarkMatro/LeetCode_Solutions#Binary-Search)
 * [Bit Manipulation (8/189)](https://github.com/DarkMatro/LeetCode_Solutions#bit_manipulation)
 * [Linked List (7/73)](https://github.com/DarkMatro/LeetCode_Solutions#linked-list)
@@ -410,6 +410,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|----------|--------| ------------- |---------------|
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                       | [###](Two-Pointers/Remove-Duplicates-from-Sorted-Array.py)                      | O(N)     | O(1)   | Easy       | Array, Two Pointers                                            |
 0027 | [Remove Element](https://leetcode.com/problems/remove-element)                                                                                 | [###](Two-Pointers/Remove-Element.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers                                            |
+0075 | [Sort Colors](https://leetcode.com/problems/sort-colors)                                                                                 | [###](Two-Pointers/Sort-Colors.py)                                           | O(N)     | O(1)   | Easy       | Array, Two Pointers, Sorting                                            |
 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                         | [###](Two-Pointers/Merge-Sorted-Array.py)                                       | O(m+n)   | O(1)   | Easy       | Array, Two Pointers, Sorting                                   |
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)                                                                             | [###](Two-Pointers/Valid-Palindrome.py)      | O(N)     | O(N)   | Easy       | Two Pointers, String                  |
 0202 | [Happy Number](https://leetcode.com/problems/happy-number)                                                                                     | [###](Two-Pointers/Happy-Number.py) | O(k)     | O(k)   | Easy       | Hash Table, Math, Two Pointers            |
@@ -433,8 +434,10 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array)                                 | [###](./Two-Pointers/Find-All-K-Distant-Indices-in-an-Array.py) | O(N)     | O(1)   | Easy | Array, Two Pointers  |
 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | [###](./Two-Pointers/Largest-Positive-Integer-That-Exists-With-Its-Negative.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers, Sorting |
 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages)                                                       | [###](./Two-Pointers/Number-of-Distinct-Averages.py) | O(NlogN) | O(N)   | Easy | Array, Hash Table, Two Pointers, Sorting |
+2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill)                                                       | [###](./Two-Pointers/Divide-Players-Into-Teams-of-Equal-Skill.py) | O(N) | O(1)   | Easy | Array, Hash Table, Two Pointers, Sorting |
 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured)                             | [###](./Two-Pointers/Maximum-Enemy-Forts-That-Can-Be-Captured.py) | O(N) | O(1)   | Easy | Array, Two Pointers |
 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values)                                   | [###](./Two-Pointers/Merge-Two-2D-Arrays-by-Summing-Values.py) | O(N)     | O(N)   | Easy | Array, Hash Table, Two Pointers |
+2825 | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments)                                   | [###](./Two-Pointers/Make-String-a-Subsequence-Using-Cyclic-Increments.py) | O(N)     | O(1)   | Easy | Two Pointers, String |
 2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i)                 | [###](./Two-Pointers/Find-Indices-With-Index-and-Value-Difference-I.py) | O(N^2)   | O(1)   | Easy | Array, Two Pointers  |
 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements)             | [###](./Two-Pointers/Minimum-Average-of-Smallest-and-Largest-Elements.py) | O(NlogN) | O(N)   | Easy | Array, Two Pointers, Sorting |
 
