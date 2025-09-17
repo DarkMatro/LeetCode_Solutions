@@ -19,7 +19,7 @@ def fourSum(nums: list[int], target: int) -> list[list[int]]:
     ----------
     nums: list[int]
 
-    target: int)
+    target: int
 
     Returns
     -------
