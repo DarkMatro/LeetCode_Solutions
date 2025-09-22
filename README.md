@@ -86,6 +86,8 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/)                                                                                        | [###](./Array/Count-Subarrays-of-Length-Three-With-a-Condition.py)               | O(N)     | O(1)   | Easy      | Array                   |
 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/)                                                                                        | [###](./Array/Maximum-Difference-Between-Adjacent-Elements-in-a-Circular-Array.py)               | O(N)     | O(1)   | Easy      | Array                   |
 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers)                                                                                         | [###](./Array/Sum-of-Good-Numbers.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position)                                                                                         | [###](./Array/Minimum-Cost-to-Reach-Every-Position.py)               | O(N)     | O(1)   | Easy      | Array                   |
+3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i)                                                                                         | [###](./Array/Trionic-Array-I.py)               | O(N)     | O(1)   | Easy      | Array                   |
 
 
 ## String
@@ -255,7 +257,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/Minimum-Element-After-Replacement-With-Digit-Sum) | [###](./Math/Minimum-Element-After-Replacement-With-Digit-Sum.py) | O(N)               | O(1)   | Easy       | Array, Math |
 3468 | [Find the Number of Copy Arrays](https://leetcode.com/problems/find-the-number-of-copy-arrays) | [###](./Math/Find-the-Number-of-Copy-Arrays.py) | O(N)               | O(1)   | Medium     | Array, Math |
 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship) | [###](./Math/Maximum-Containers-on-a-Ship.py) | O(1)               | O(1)   | Easy       | Math |
-
+3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost) | [###](./Math/Find-Minimum-Log-Transportation-Cost.py) | O(1)               | O(1)   | Easy       | Math |
 
 ## Hash_Table
 |  #  | Title                                                                                                                                                                            | Solution                                                                                       | Time         | Memory  | Difficulty | Tag                      |
