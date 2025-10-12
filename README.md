@@ -20,7 +20,7 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 * [Prefix Sum (2/161)](https://github.com/DarkMatro/LeetCode_Solutions#prefix-sum)
 * [Matrix (1/223)](https://github.com/DarkMatro/LeetCode_Solutions#matrix)
 * [Trie (1/53)](https://github.com/DarkMatro/LeetCode_Solutions#trie)
-* [Stack (4/159)](https://github.com/DarkMatro/LeetCode_Solutions#stack)
+* [Stack (11/174)](https://github.com/DarkMatro/LeetCode_Solutions#stack)
 * [Memoization (1/38)](https://github.com/DarkMatro/LeetCode_Solutions#memoization)
 * [Recursion (4/45)](https://github.com/DarkMatro/LeetCode_Solutions#recursion)
 * [Counting (5/144)](https://github.com/DarkMatro/LeetCode_Solutions#counting)
@@ -553,9 +553,16 @@ Solved Non-Premium problems from [leetcode](https://leetcode.com/u/frolovaleh/).
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                                                                           | [###](Trie/Longest-Common-Prefix.py) | O(NlogN)      | O(1)   | Easy       | String, Trie                           |
 
 ## Stack
-|  #  | Title                                    | Solution                            | Time    | Memory | Difficulty    | Tag                  |
-|-----|------------------------------------------|-------------------------------------|---------|--------| ------------- |----------------------|
-0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                   | [###](./Stack/Valid-Parentheses.py) | O(N)          | O(N)   | Easy       | String, Stack                          |
+|  #  | Title                                    | Solution                          | Time    | Memory | Difficulty    | Tag                  |
+|-----|------------------------------------------|-----------------------------------|---------|--------| ------------- |----------------------|
+0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                   | [###](Stack/valid-parentheses.py) | O(N)          | O(N)   | Easy       | String, Stack                          |
+1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                                                                                   | [###](Stack/Remove-Outermost-Parentheses.py) | O(N)          | O(N)   | Easy       | String, Stack                          |
+1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)                                                                                   | [###](Stack/Remove-All-Adjacent-Duplicates-In-String.py) | O(N)          | O(1)   | Easy       | String, Stack                          |
+1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great)                                                                                   | [###](Stack/Make-The-String-Great.py) | O(N)          | O(N)   | Easy       | String, Stack                          |
+1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                                                                   | [###](Stack/Crawler-Log-Folder.py) | O(N)          | O(N)   | Easy       | Array, String, Stack                          |
+1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)                                                                                   | [###](Stack/Maximum-Nesting-Depth-of-the-Parentheses.py) | O(N)          | O(1)   | Easy       | String, Stack                          |
+2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)                                                                                   | [###](Stack/Reverse-Prefix-of-Word.py) | O(N)          | O(1)   | Easy       | Two Pointers, String, Stack                          |
+
 
 ## Monotonic Stack
 |  #  | Title                                    | Solution                                | Time    | Memory | Difficulty    | Tag                  |
