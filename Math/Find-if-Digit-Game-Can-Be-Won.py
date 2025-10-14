@@ -21,7 +21,7 @@ def canAliceWin(nums: list[int]) -> bool:
 
     Returns
     -------
-    out : boo
+    out : bool
 
     Examples
     --------
